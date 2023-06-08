@@ -1,0 +1,626 @@
+language,sentence1,sentence2,pairID
+sw,"Naye akasema, Mama, niko nyumbani.",Alimwita mama yake mara tu basi ya shule ilipomshukisha.,1
+sw,"Naye akasema, Mama, niko nyumbani.",Hakusema chochote.,2
+sw,"Naye akasema, Mama, niko nyumbani.",Alimwambia mama yake alikuwa amefika nyumbani.,3
+sw,"Sikujua nini nilichoendea au kitu chochote, hivyo ilikuwa na ni ripoti mahali paliopangwa huko Washington.",Sijawahi kwenda Washington hivyo wakati nilipotumwa huko nilipotea nikijaribu kutafuta mahali.,16
+sw,"Sikujua nini nilichoendea au kitu chochote, hivyo ilikuwa na ni ripoti mahali paliopangwa huko Washington.",Nilijua hasa kile nilichohitaji kufanya  nilipoingia Washington.,17
+sw,"Sikujua nini nilichoendea au kitu chochote, hivyo ilikuwa na ni ripoti mahali paliopangwa huko Washington.",Sikuwa na hakika kabisa nilichokuwa nikienda kufanya hivyo nilikwenda Washington ambako nilipewa kazi ya kuripoti.,18
+sw,Hakuweza kuenda.,Alikuwa wa kwanza kualikwa na alipendezwa sana.,22
+sw,Hakuweza kuenda.,Hakuruhusiwa kuhudhuria.,23
+sw,Hakuweza kuenda.,Hakuruhusiwa kuenda katika ufunguzi wa jumba la makumbusho.,24
+sw,Mimi nilikuwa nimeridhika nayo.,"Baada yangu kusema ndiyo, ikaisha.",25
+sw,Mimi nilikuwa nimeridhika nayo.,"Nilisema La, ikaendelea na kuendelea.",26
+sw,Mimi nilikuwa nimeridhika nayo.,"Niliposema ndio, tuliamua kuoana siku hyo.",27
+sw,Nilikuwa tu uko kujaribu kujua ni lipi?,Naielewa vizuri tangu mwanzo.,31
+sw,Nilikuwa tu uko kujaribu kujua ni lipi?,Nilijaribu kuelewa kwenye pesa ilienda.,32
+sw,Nilikuwa tu uko kujaribu kujua ni lipi?,Nilikuwa najaribu kuelewa.,33
+sw,Hatimaye walisita kuitembelea familia sababu walikuwa wameumua kwamba wanataka kuishi kama watu weupe.,Waliendelea kutembea kila siku.,37
+sw,Hatimaye walisita kuitembelea familia sababu walikuwa wameumua kwamba wanataka kuishi kama watu weupe.,Hawakutembelea familia zaidi.,38
+sw,Hatimaye walisita kuitembelea familia sababu walikuwa wameumua kwamba wanataka kuishi kama watu weupe.,Waliacha kuitembelea familia wakati  mvutano wa rangi ulianza.,39
+sw,Nyanyangu alikuwa na mazoea ya kusema hadithi ya jinsi dadake na bwana wa dadake walivyoamua wataenda mjini Augusta na wjifanye wazungu.,Dada yake  bibi alikuwa mweupe na alihamia Texas.,49
+sw,Nyanyangu alikuwa na mazoea ya kusema hadithi ya jinsi dadake na bwana wa dadake walivyoamua wataenda mjini Augusta na wjifanye wazungu.,Dada ya nyanya hakuwa mzungu.,50
+sw,Nyanyangu alikuwa na mazoea ya kusema hadithi ya jinsi dadake na bwana wa dadake walivyoamua wataenda mjini Augusta na wjifanye wazungu.,Dadake bibi yangu hakuwa mweupe lakini alitaka kuwa ili aweze kwenda shule.,51
+sw,"Michael Santo, wa Firewell na Kampuni, wa Buffalo, NY, ndiye ambaye alifanya, aliunda,  mdhibiti mkuu wa O2 kabla ya kujenga udhibiti wa moto kwenye jiko vizuri.",Santo aliishi New York na alifanya kazi kwenye mdhibiti mkuu wa O2.,58
+sw,"Michael Santo, wa Firewell na Kampuni, wa Buffalo, NY, ndiye ambaye alifanya, aliunda,  mdhibiti mkuu wa O2 kabla ya kujenga udhibiti wa moto kwenye jiko vizuri.","Santo alisisitiza usalama wa moto,ulikuwa jambo muhimu kwake.",59
+sw,"Michael Santo, wa Firewell na Kampuni, wa Buffalo, NY, ndiye ambaye alifanya, aliunda,  mdhibiti mkuu wa O2 kabla ya kujenga udhibiti wa moto kwenye jiko vizuri.",Santo alifanya kazi Disney na alihudumu vikombe vya chai.,60
+sw,"Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.",Baba yake hakumiliki kitu chochote katika maisha yake.,64
+sw,"Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.",Baba yake alimiliki ekari 2000 za shamba.,65
+sw,"Lakini alikuwa, unajua, kwa njia nyingi, kama mwana wa mmiliki wa mimea kwa sababu alikuwa mwana wa mtu huyu ambaye alikuwa na mali nyingi.",Baba yake alikuwa na mali nyingi.,66
+sw,Lakini kazi yangu ilikuwa kuweka parashuti juu yake na vyombo vya kuokoa maisha wakati tulipakia mzigo na kuanza kuenda mahali nje ya nchi.,Sikukuwa na kazi hivyo niliweka sanduku zote nyumbani.,82
+sw,Lakini kazi yangu ilikuwa kuweka parashuti juu yake na vyombo vya kuokoa maisha wakati tulipakia mzigo na kuanza kuenda mahali nje ya nchi.,Nilisafirisha masanduku hadi Japani.,83
+sw,Lakini kazi yangu ilikuwa kuweka parashuti juu yake na vyombo vya kuokoa maisha wakati tulipakia mzigo na kuanza kuenda mahali nje ya nchi.,Nilizituma nje.,84
+sw,"Sasa hivyo ndivyo jinsi, uh, mimi hufungiwa ndani kwa bakoli.","Nilihakikisha kwamba ukanda ulikua imara kuhakikisha usalama wangu,",85
+sw,"Sasa hivyo ndivyo jinsi, uh, mimi hufungiwa ndani kwa bakoli.",Hivyo ndivyo haswa jinsi nilivyoachiliwa.,86
+sw,"Sasa hivyo ndivyo jinsi, uh, mimi hufungiwa ndani kwa bakoli.",Hiyo ni sawa jinsi nilivyofungwa.,87
+sw,Alikuwa mshambuliaji wa watoto na alipenda kuzurura. Sikumpenda lakini wajua hizo ndio hadithi zangu.,Alikuwa mwaminifu sana na mzuri.,97
+sw,Alikuwa mshambuliaji wa watoto na alipenda kuzurura. Sikumpenda lakini wajua hizo ndio hadithi zangu.,Nilimchukia kwa sababu alikuwa mwenye kiburi sana.,98
+sw,Alikuwa mshambuliaji wa watoto na alipenda kuzurura. Sikumpenda lakini wajua hizo ndio hadithi zangu.,Sikuwa shabiki wake.,99
+sw,"Wakati ninapovuta, wakati anapovuta kamba ili mimi kuanza kumtoa nje, anaonyesha vyombo viwili upande wake wa kushoto wa ndege ambayo kwa kweli imeyeyuka wakati wa kukimbia/ kupaa.",Vyombo vyote katika ndege vilikuwa havikusumbuliwa.,100
+sw,"Wakati ninapovuta, wakati anapovuta kamba ili mimi kuanza kumtoa nje, anaonyesha vyombo viwili upande wake wa kushoto wa ndege ambayo kwa kweli imeyeyuka wakati wa kukimbia/ kupaa.",Ilikuwa vigumu kumtoa nje.,101
+sw,"Wakati ninapovuta, wakati anapovuta kamba ili mimi kuanza kumtoa nje, anaonyesha vyombo viwili upande wake wa kushoto wa ndege ambayo kwa kweli imeyeyuka wakati wa kukimbia/ kupaa.",Kulikua na vyombo ndani ya ndege ambavyo viliyeyuka.,102
+sw,"Alafu, hakuelewa kabisa.","Alas, hakuweza kuelewa wazi kutokana na kizuizi cha lugha.",103
+sw,"Alafu, hakuelewa kabisa.","Kwa hakika, yeye hakuelewa.",104
+sw,"Alafu, hakuelewa kabisa.",Alijua hasa kile tulikuwa tukizungumza kuhusu.,105
+sw,Labda aliambia kila mtu na sikuwa natilia maanani kwa wakati huo.,Sikumskia alipoambia kila mtu,115
+sw,Labda aliambia kila mtu na sikuwa natilia maanani kwa wakati huo.,Nilisikia kila kitu alichosema.,116
+sw,Labda aliambia kila mtu na sikuwa natilia maanani kwa wakati huo.,Nilikuwa nikizungumza na mtu mwingine wakati huo.,117
+sw,"Kupoteza tu ndege mbili, tatu wakati tulikuwa huko na, uh, wakati wa kupima.",Ndege kadhaa zilipotea kwa sababu ya hali ya hewa.,121
+sw,"Kupoteza tu ndege mbili, tatu wakati tulikuwa huko na, uh, wakati wa kupima.",Ndege kadhaa zilipotea.,122
+sw,"Kupoteza tu ndege mbili, tatu wakati tulikuwa huko na, uh, wakati wa kupima.",Hatujawahi kupoteza ndege.,123
+sw,Ninahitaji kufanya kitu kwa ajili yangu.,Sihitaji msaada wowote.,124
+sw,Ninahitaji kufanya kitu kwa ajili yangu.,Ni kazi kubwa ambayo ninahitaji kufanyika.,125
+sw,Ninahitaji kufanya kitu kwa ajili yangu.,Kuna kitu ambacho nitajihitaji ifanyika.,126
+sw,"Kuna aina tofauti za parachuti na laffu pia kuna ndege ambaye hupea kwa mwendo wa maili 22,000  kila saa ambao ni mwendo mara tatu ya mwendo wa sauti.","Inapaa maili zaidi ya 20,000 kwa saa.",136
+sw,"Kuna aina tofauti za parachuti na laffu pia kuna ndege ambaye hupea kwa mwendo wa maili 22,000  kila saa ambao ni mwendo mara tatu ya mwendo wa sauti.","Inasafiri maili 10,000 kwa saa.",137
+sw,"Kuna aina tofauti za parachuti na laffu pia kuna ndege ambaye hupea kwa mwendo wa maili 22,000  kila saa ambao ni mwendo mara tatu ya mwendo wa sauti.","Ndege inakua maili 20,000 kwa saa",138
+sw,"Ilikuwa, uh, ambayo sisi, uh, ulikuwa na Rudolph Anderson katika, uundaji wa U2 tatu.","Rudolph Anderson hakupatikana kokote, na hivyo basi tulikuwa tu na U2's moja.",139
+sw,"Ilikuwa, uh, ambayo sisi, uh, ulikuwa na Rudolph Anderson katika, uundaji wa U2 tatu.",Rudolph Anderson alikuwa sehemu ya U2 tatu.,140
+sw,"Ilikuwa, uh, ambayo sisi, uh, ulikuwa na Rudolph Anderson katika, uundaji wa U2 tatu.",Tulibarikiwa kuwa na Rudolph Anderson kusaidia na U2'S.,141
+sw,Bado alikuwa mle ndani.,Alikuwa amekwenda bila ishara.,145
+sw,Bado alikuwa mle ndani.,Bado alikuwa katika eneo.,146
+sw,Bado alikuwa mle ndani.,tulidhani alienda kumbe alibaki,147
+sw,Acha mimi nipitie hili pia.,Sihitaji kuhusika na hiyo.,151
+sw,Acha mimi nipitie hili pia.,Nitachunguza jambo hili kwa kina.,152
+sw,Acha mimi nipitie hili pia.,Nitaangalia hizi ripoti.,153
+sw,Kwa ghafla aliitana kujua ni nini kilichjokuwa kinapaa.,Tulipaswa kuangalia ndege inayopaa.,157
+sw,Kwa ghafla aliitana kujua ni nini kilichjokuwa kinapaa.,Tulipaswa kuangalia kile kilichokuwa kinaruka.,158
+sw,Kwa ghafla aliitana kujua ni nini kilichjokuwa kinapaa.,Tuliambiwa tusiangalie nje.,159
+sw,"Yeye angeirarua karatasi na kuiweka katika mchanga, mchanga kwa kisahani cha majivu, kuiweka juu ya moto na kuichoma na kisha kuchanganya majivu namna hiyo.",Aliogopa sana kuchoma kitu chochote kwa hivyo alizitupa msalani na kuvuta maji.,160
+sw,"Yeye angeirarua karatasi na kuiweka katika mchanga, mchanga kwa kisahani cha majivu, kuiweka juu ya moto na kuichoma na kisha kuchanganya majivu namna hiyo.",angechoma karatasi.,161
+sw,"Yeye angeirarua karatasi na kuiweka katika mchanga, mchanga kwa kisahani cha majivu, kuiweka juu ya moto na kuichoma na kisha kuchanganya majivu namna hiyo.",Angeandika ndoto yake kwenye karatasi kisha kuichoma.,162
+sw,"Yafaa umpigie Ramona huko Concord. Yko ofisini na yyuko na mteja upande uje mwingine wa mji. Sisi tuko Monroe, na yeye yumo Concord.",Ramona ameishi Concord maisha yake yote.,169
+sw,"Yafaa umpigie Ramona huko Concord. Yko ofisini na yyuko na mteja upande uje mwingine wa mji. Sisi tuko Monroe, na yeye yumo Concord.",Ramona hajawahi enda Concord,170
+sw,"Yafaa umpigie Ramona huko Concord. Yko ofisini na yyuko na mteja upande uje mwingine wa mji. Sisi tuko Monroe, na yeye yumo Concord.",Ramona inapatikana kule Concord.,171
+sw,Hilo ni jambo la kipekee kuwa nilikuwa kwa miaka 16 ya kazi yangu katika shughuli maalum,Nilikuwa katika Shughuli Maalum kwa miaka.,172
+sw,Hilo ni jambo la kipekee kuwa nilikuwa kwa miaka 16 ya kazi yangu katika shughuli maalum,Sijawahi kupata kazi.,173
+sw,Hilo ni jambo la kipekee kuwa nilikuwa kwa miaka 16 ya kazi yangu katika shughuli maalum,Kazi yangu iliyopendekezwa ilikuwa katika Shughuli maalum.,174
+sw,Nadhani ndiyo maana ninakumbuka hilo.,Sikuikumbuka kamwe.,187
+sw,Nadhani ndiyo maana ninakumbuka hilo.,labda hiyo ndio sababu nilikumbuka jina lake,188
+sw,Nadhani ndiyo maana ninakumbuka hilo.,Hiyo labda ndio sababu nilikumbuka hilo.,189
+sw,Yakufanya tu uhisi vibaya.,Inakufanya ujihisi sawa.,190
+sw,Yakufanya tu uhisi vibaya.,Inakufanya uhisi vibaya sana.,191
+sw,Yakufanya tu uhisi vibaya.,Unajisikia vizuri baada ya saa.,192
+sw,Si lazima ukae huko.,Unaweza kwenda nyumbani ukitaka.,193
+sw,Si lazima ukae huko.,Unaweza kuondoka.,194
+sw,Si lazima ukae huko.,Unahitaji kukaa katika sehemu hiyo hiyo!,195
+sw,"Hii ilikuwa, hii ilikuwa siku ya kuogofya mno.",Ilikuwa siku ya kupumzisha.,220
+sw,"Hii ilikuwa, hii ilikuwa siku ya kuogofya mno.",Ilikuwa ya kuogofya sana wakati kimbunga kiliingia mjini.,221
+sw,"Hii ilikuwa, hii ilikuwa siku ya kuogofya mno.",Siku hiyo kweli ilinitia hofu sana.,222
+sw,"Hakika, ni vizuri, miendo zikawa za kasi na kasi, na kasi mno, mpaka tukahamisha nje ya nchi.",Iliendelea kupata kasi.,223
+sw,"Hakika, ni vizuri, miendo zikawa za kasi na kasi, na kasi mno, mpaka tukahamisha nje ya nchi.",Ilionekana kukawia milele.,224
+sw,"Hakika, ni vizuri, miendo zikawa za kasi na kasi, na kasi mno, mpaka tukahamisha nje ya nchi.",Kasi ilikuwa inanitia hofu.,225
+sw,"Kwa hiyo, vizuri, mimi, uh, hata hivyo, uh, uh, hawa ndio marubani watatu, uh, wa U2 ambao, ofisi ya Rais Kennedy huko Washington pamoja na Jenerali May.",Jenerali May na marubani walikuwa na wakati mzuri kutembelea ofisi.,226
+sw,"Kwa hiyo, vizuri, mimi, uh, hata hivyo, uh, uh, hawa ndio marubani watatu, uh, wa U2 ambao, ofisi ya Rais Kennedy huko Washington pamoja na Jenerali May.",Generali Mei hakuenda ofisi ya Rais Kennedy.,227
+sw,"Kwa hiyo, vizuri, mimi, uh, hata hivyo, uh, uh, hawa ndio marubani watatu, uh, wa U2 ambao, ofisi ya Rais Kennedy huko Washington pamoja na Jenerali May.",Huyu ni General May na marubani watatu wa U2 katika ofisi ya Rais Kennedy.,228
+sw,"Kabla hujanipa mpigo wa mzaha, Kwa nini hukuniruhusu nipate kikombe kikubwa cha glasi cha maziwa ya chokoleti.",Siwezi kunywa maziwa.,229
+sw,"Kabla hujanipa mpigo wa mzaha, Kwa nini hukuniruhusu nipate kikombe kikubwa cha glasi cha maziwa ya chokoleti.",Ningependa glasi ya chokoleti.,230
+sw,"Kabla hujanipa mpigo wa mzaha, Kwa nini hukuniruhusu nipate kikombe kikubwa cha glasi cha maziwa ya chokoleti.",Ningependa kunywa baadhi ya maziwa ya chokileti tangu nijue nilikosea.,231
+sw,Na kisha ukipata vitu vyote vimeingizwa unaweza kuendelea kutoka hapo.,Unaweza kuendelea baada ya kuingiza kila kitu.,232
+sw,Na kisha ukipata vitu vyote vimeingizwa unaweza kuendelea kutoka hapo.,Unaweza kuendelea baada ya kuingiza habari kwenye hifadhidata.,233
+sw,Na kisha ukipata vitu vyote vimeingizwa unaweza kuendelea kutoka hapo.,Unapaswa kuacha sasa hivi.,234
+sw,"Lakini uh, fikiria juu yake.",Nawaza kuihusu mara mingi.,250
+sw,"Lakini uh, fikiria juu yake.",Sio jambo ambalo ungependa kutafakari.,251
+sw,"Lakini uh, fikiria juu yake.",Ni kitu cha kufikiria.,252
+sw,Walimchua Joe nao na bibi akasema ilikuwa wakati wa huzuni sababu unajua kila mtu alikuwa anamkosa Joe na hawakujua cha kufanya.,Kila mtu aliyekuwa nyumbani allikuwa akifuta kwa sababu walimkosa sana Joe.,265
+sw,Walimchua Joe nao na bibi akasema ilikuwa wakati wa huzuni sababu unajua kila mtu alikuwa anamkosa Joe na hawakujua cha kufanya.,Kila mtu alikuwa na furaha sana!,266
+sw,Walimchua Joe nao na bibi akasema ilikuwa wakati wa huzuni sababu unajua kila mtu alikuwa anamkosa Joe na hawakujua cha kufanya.,Joe alikufa ni lilikuwa jambo la kuhuzunisha sana.,267
+sw,"Sehemu ilikuwa, kulikuwa na sehemu mia moja hamsini na nane yake na ilibidi tuivunje na tuiweke pamoja, kuvunja na kutofanya makosa.",Ilinibidi tuivunje tena kuinda tena.,280
+sw,"Sehemu ilikuwa, kulikuwa na sehemu mia moja hamsini na nane yake na ilibidi tuivunje na tuiweke pamoja, kuvunja na kutofanya makosa.",Tulipaswa kutoanisha jeti kando kisha kuziweka pamoja.,281
+sw,"Sehemu ilikuwa, kulikuwa na sehemu mia moja hamsini na nane yake na ilibidi tuivunje na tuiweke pamoja, kuvunja na kutofanya makosa.",Hatukuruhusiwa kuiguza hata.,282
+sw,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",Sikuweza kusubiri kwenda Tatu SS.,286
+sw,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",Mimi sitaki kuwa sehemu ya tatu SS.,287
+sw,"Sitaki kuenda katika SS ya tatu, hiyo ni kundi la manowari la mkakati wa msaada la tatu.",SS ya tatu ndio kikosi kibaya zaidi cha polisi wapanda farasi.,288
+sw,Hakukuwa kitu bali janga na kuoshwa barabara yote.,Ilikuwa ni msitu ya mvua ya kitropiki,289
+sw,Hakukuwa kitu bali janga na kuoshwa barabara yote.,Kuna malisho magumu mengi katika eneo hilo.,290
+sw,Hakukuwa kitu bali janga na kuoshwa barabara yote.,Kulikuwa na magugu ya tambo yaliyokuwa yakivuma kwa barabara.,291
+sw,"Yeye hakusema wakati tena, kwa hiyo alinipata hapo yu nikisisitiza , na sijui hata wakati itakapohitajika.",Nilikuwa na wasiwasi kwa sababu sikujua ni wakati gani.,316
+sw,"Yeye hakusema wakati tena, kwa hiyo alinipata hapo yu nikisisitiza , na sijui hata wakati itakapohitajika.",Niliogopa nitapitwa na onyesho kwa sababu sikujua wakati.,317
+sw,"Yeye hakusema wakati tena, kwa hiyo alinipata hapo yu nikisisitiza , na sijui hata wakati itakapohitajika.","Sikuwa na wasiwas,i hata hivyo ingetokea wakati ilitokea.",318
+sw,Yeye anatoka Ugiriki kutoka katika kijiji kidogo cha Ugiriki kinachoitwa Tokalleka na alikuja Amerika na ninaamini ilikuwa mwaka wa 1969 au 1970 na hakukawia kabla ya kuoa.,Yeye ni mwanaume wa Kigiriki ambaye hazungumzi Kiingereza.,325
+sw,Yeye anatoka Ugiriki kutoka katika kijiji kidogo cha Ugiriki kinachoitwa Tokalleka na alikuja Amerika na ninaamini ilikuwa mwaka wa 1969 au 1970 na hakukawia kabla ya kuoa.,Yeye ni mtu wa Kigiriki.,326
+sw,Yeye anatoka Ugiriki kutoka katika kijiji kidogo cha Ugiriki kinachoitwa Tokalleka na alikuja Amerika na ninaamini ilikuwa mwaka wa 1969 au 1970 na hakukawia kabla ya kuoa.,Anatoka kule Ireland.,327
+sw,"Hata hivyo, nampigia tena Ramonakwa sababu nilikuwa na swali. Alafu nikamweleza kwamba acha niharakishe kwa sababu nilikuwa na swali kuhusu jambo fulani ambalo nilikuwa nafanya.",Sikuwa na wasiwasi kumwita Ramona.,328
+sw,"Hata hivyo, nampigia tena Ramonakwa sababu nilikuwa na swali. Alafu nikamweleza kwamba acha niharakishe kwa sababu nilikuwa na swali kuhusu jambo fulani ambalo nilikuwa nafanya.",Sikuwahi pata nafasi ya kuuliza lile swali.,329
+sw,"Hata hivyo, nampigia tena Ramonakwa sababu nilikuwa na swali. Alafu nikamweleza kwamba acha niharakishe kwa sababu nilikuwa na swali kuhusu jambo fulani ambalo nilikuwa nafanya.",Nilitaka kumwuliza Ramona swali.,330
+sw,Mambo madogo yaliyoleta utofauti mkubwa kwa mambo niliyokuwa nikijaribu kuyafanya.,Sikujaribu hata kufanya hivyo.,346
+sw,Mambo madogo yaliyoleta utofauti mkubwa kwa mambo niliyokuwa nikijaribu kuyafanya.,Nilijaribu kukamilisha kitu.,347
+sw,Mambo madogo yaliyoleta utofauti mkubwa kwa mambo niliyokuwa nikijaribu kuyafanya.,Nilijaribu kumaliza bango langu kwa darasa na kalamu mpya za rangi zilisaidia.,348
+sw,"Naam, hakuna mtu yeyote hapo atakayenisaidia.",Siwezi kufanya hivyo peke yangu.,349
+sw,"Naam, hakuna mtu yeyote hapo atakayenisaidia.",Kuna watu wengi wa kunisaidia huko.,350
+sw,"Naam, hakuna mtu yeyote hapo atakayenisaidia.",Hakuna mtu huko wa kunisaidia.,351
+sw,CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.,CIA ilileta filamu kwa Umoja wa Mataifa.,361
+sw,CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.,CIA iliiweka filamu hiyo wenyewe.,362
+sw,CIA iliufunguanisha ile sinema na kuipeleka ka Muungana wa Kimataifa(UN) siku iliyofuata.,Kitengo cha CIA ilidhani UN ilihitaji kuona filamu hiyo bila kupoteza wakati.,363
+sw,"Nishamwambia, Nilijaribu kumweleza kuwa nimekatishwa tamaa kwani sikuwa na habari yote niliyohitaji.",Nilimwambia sikutaka kusikia lingine lolote.,364
+sw,"Nishamwambia, Nilijaribu kumweleza kuwa nimekatishwa tamaa kwani sikuwa na habari yote niliyohitaji.",Nilimwabia kwamba nahitaji habari zaidi niweze kuamua ni nini nitafanya na kazi hio.,365
+sw,"Nishamwambia, Nilijaribu kumweleza kuwa nimekatishwa tamaa kwani sikuwa na habari yote niliyohitaji.",Nilimwambia nilihitaji taarifa zaidi.,366
+sw,"Ndiyo sababu mimi sikuhitimu chuo kikuu, lakini sijawahi, sijawahi kusoma yoyote ya vitabu nilivyotakiwa.",Sikumaliza chuo kikuu.,373
+sw,"Ndiyo sababu mimi sikuhitimu chuo kikuu, lakini sijawahi, sijawahi kusoma yoyote ya vitabu nilivyotakiwa.",Nilimaliza chuo kikuu na shahada la heshima.,374
+sw,"Ndiyo sababu mimi sikuhitimu chuo kikuu, lakini sijawahi, sijawahi kusoma yoyote ya vitabu nilivyotakiwa.",Niliacha chuo katika mwaka wa 2002.,375
+sw,"Um, na hivyo tu waliondoka mji, na yeye, hakuwahi kumwona dada yake tena, hakuwahi kumwona dada yake tena.",Alihamia Texas na hakumwona dada yake tena.,385
+sw,"Um, na hivyo tu waliondoka mji, na yeye, hakuwahi kumwona dada yake tena, hakuwahi kumwona dada yake tena.",Hakuwahi ona dada yake baaada ya hilo.,386
+sw,"Um, na hivyo tu waliondoka mji, na yeye, hakuwahi kumwona dada yake tena, hakuwahi kumwona dada yake tena.",alimwona dadake kila siku,387
+sw,Tena nyanyangu akaamka na akaanza kutembea chini ya ngazi za ukumbi akielekea barabarani. Alafu akasimama hapo bila kutembea.,Nyanya alikaa kwenye ukumbi.,388
+sw,Tena nyanyangu akaamka na akaanza kutembea chini ya ngazi za ukumbi akielekea barabarani. Alafu akasimama hapo bila kutembea.,Bibi alitembea futi 100 kutoka nyumbani.,389
+sw,Tena nyanyangu akaamka na akaanza kutembea chini ya ngazi za ukumbi akielekea barabarani. Alafu akasimama hapo bila kutembea.,Bibi alitoka  kwa nyumba.,390
+sw,Hadithi ntakayoisema leo ni kuhusu babayangu na tamaduni tofauti alizokumbana nazo alipoenda Marekani.,Sitaki kuongelea kuhusu wazazi wangu.,394
+sw,Hadithi ntakayoisema leo ni kuhusu babayangu na tamaduni tofauti alizokumbana nazo alipoenda Marekani.,Mimi nitakuambia kuhusu uzoefu wa baba yangu kama mgeni.,395
+sw,Hadithi ntakayoisema leo ni kuhusu babayangu na tamaduni tofauti alizokumbana nazo alipoenda Marekani.,Mimi nitakuambia kilichotokea wakati baba yangu alihamia hapa kutoka Mexico.,396
+sw,Ilikuwa eneo la kitamaduni lakini pembizo zilitawala.,Ilikuwa yote mjini sana.,403
+sw,Ilikuwa eneo la kitamaduni lakini pembizo zilitawala.,Sehemu nyingi zilijaa nyumba za bei nafuu.,404
+sw,Ilikuwa eneo la kitamaduni lakini pembizo zilitawala.,Wengi wa eneo hilo lilikuwa kitongoji.,405
+sw,"Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.",Nafanya kile ambacho natarajiwa kukifanya leo.,406
+sw,"Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.",Ninafanya kazi niliyopewa asubuhi ya leo.,407
+sw,"Alafu nikamsikia akitoka, hivyo namaliza nilichotakiwa kufanya.",Siwezi kusumbuka kufanya mambo haya.,408
+sw,"Na wakapata hii nyumba au hiki chumba ama chochote kile ambacho wangeishi ndani yake, na ilikuwa tu pale mwisho wa barabara ya Broad.",Waliishi katika jumba jeumbe barabara ya Broad.,412
+sw,"Na wakapata hii nyumba au hiki chumba ama chochote kile ambacho wangeishi ndani yake, na ilikuwa tu pale mwisho wa barabara ya Broad.",Waliishi kwenye Broad Street.,413
+sw,"Na wakapata hii nyumba au hiki chumba ama chochote kile ambacho wangeishi ndani yake, na ilikuwa tu pale mwisho wa barabara ya Broad.",Waliishi kwenye mtaa kuu katika hema.,414
+sw,Haitalipuka bila kulipuliwa.,Risasi huifanya kulipuka,433
+sw,Haitalipuka bila kulipuliwa.,Kibonyezo hufanya bomu lilipuka ..,434
+sw,Haitalipuka bila kulipuliwa.,Hakuna risasi ya kufyatua.,435
+sw,"Na hivyo walipomwambia aende nyumbani na mtu huyu, akasema, Niende naye nyumbani?",Walisema bado hawezi nenda popote,472
+sw,"Na hivyo walipomwambia aende nyumbani na mtu huyu, akasema, Niende naye nyumbani?",Walimwambia ilimbidi alale na mwanaume huyo.,473
+sw,"Na hivyo walipomwambia aende nyumbani na mtu huyu, akasema, Niende naye nyumbani?",Walimwambia waondoke na yule bwana.,474
+sw,Na baba yetu daima alituambia tusisme kwamba wao ni wanyama.,Baba yetu alisema usiwaite wanyama.,478
+sw,Na baba yetu daima alituambia tusisme kwamba wao ni wanyama.,baba yetu alisema kulikua na wanyama,479
+sw,Na baba yetu daima alituambia tusisme kwamba wao ni wanyama.,"Baba yetu alisema ya kwamba vilikuwa vyumbe, wala si wanyama.",480
+sw,Sijali kama hujui chochote kuhusu hilo.,najua huijali,484
+sw,Sijali kama hujui chochote kuhusu hilo.,Nafikiri unahitaji kubadilisha akili yako na kua na nia sana na hili jambo.,485
+sw,Sijali kama hujui chochote kuhusu hilo.,Sina wasiwasi kama  haujui chochote kuhusiana na jambo hilo.,486
+sw,Sioni vile alitarajia mimi niifanye.,Sielewi kwa nini alitarajia nimalize kuchora leo,493
+sw,Sioni vile alitarajia mimi niifanye.,Sielewi kwa nini alifikiri nitamaliza.,494
+sw,Sioni vile alitarajia mimi niifanye.,Najua alijua sitaweza maliza hii leo usiku.,495
+sw,"Sijawahi kuona, na sijui bado kwa nini, isipokuwa tu ya kuelezea, ya, haja ya kujua nini unafanya na chochote",Sikuiona.,505
+sw,"Sijawahi kuona, na sijui bado kwa nini, isipokuwa tu ya kuelezea, ya, haja ya kujua nini unafanya na chochote",Sikuona kile mtu alikuwa akifanya Jumatatu.,506
+sw,"Sijawahi kuona, na sijui bado kwa nini, isipokuwa tu ya kuelezea, ya, haja ya kujua nini unafanya na chochote",Niliona kila sehemu yake.,507
+sw,"Waliuliza maswali machache na mimi akawajibu na wakasema, Chukua mzigo wako na uondoke huko mara moja, na uje kwenye anwani unayotakiwa wakati ulipowasili Washington.",Waliniambia nafaa kukaa nyumbani.,517
+sw,"Waliuliza maswali machache na mimi akawajibu na wakasema, Chukua mzigo wako na uondoke huko mara moja, na uje kwenye anwani unayotakiwa wakati ulipowasili Washington.",Waliniambia kuchukua mifuko yangu.,518
+sw,"Waliuliza maswali machache na mimi akawajibu na wakasema, Chukua mzigo wako na uondoke huko mara moja, na uje kwenye anwani unayotakiwa wakati ulipowasili Washington.",Waliniambia kuchukua suti nyeupe.,519
+sw,"Kuja kujua ilikuwa ni ndege aina ya U2 lakini hatukuweza, hatungeweza kusema neno moja kuhusu kile kilichokuwa; hakuna chochote kwa wake zetu, watoto au mtu yeyote.",Hatukuweza kumwambia yeyote kuwa wewe pia ulifika.,523
+sw,"Kuja kujua ilikuwa ni ndege aina ya U2 lakini hatukuweza, hatungeweza kusema neno moja kuhusu kile kilichokuwa; hakuna chochote kwa wake zetu, watoto au mtu yeyote.",Tuliambia kila mtu kuihusu.,524
+sw,"Kuja kujua ilikuwa ni ndege aina ya U2 lakini hatukuweza, hatungeweza kusema neno moja kuhusu kile kilichokuwa; hakuna chochote kwa wake zetu, watoto au mtu yeyote.",Hatukuruhusiwa kuongea kuhusu U2,525
+sw,"Kama mkono wako ulitanzuka nje ya shinikizo nyayo, mikono yako ingeenda kwa karibu mara tano ya ukubwa wake, kama ulikuwa na kienezaji.",Hakuna mabadiliko yatakayotokea kwenye ngozi yako.,538
+sw,"Kama mkono wako ulitanzuka nje ya shinikizo nyayo, mikono yako ingeenda kwa karibu mara tano ya ukubwa wake, kama ulikuwa na kienezaji.",Mkono wako unaweza kubadilika ukubwa ikitolewa nje ya suti.,539
+sw,"Kama mkono wako ulitanzuka nje ya shinikizo nyayo, mikono yako ingeenda kwa karibu mara tano ya ukubwa wake, kama ulikuwa na kienezaji.",mkono wako ungekua sana ikiwa ungekuwa kwenye mwezi na ukatoa nje ya suti hiyo.,540
+sw,Kuna sababu mbona hakukuambia?,Najua hakuna sababu yake kutokuambia.,541
+sw,Kuna sababu mbona hakukuambia?,Kwa nini hakukueleza kuhusu hilo?,542
+sw,Kuna sababu mbona hakukuambia?,Mbona hangekuambia kuhusu mtoto.,543
+sw,"Walikuwa wamejitokeza kuanzia New York kutembelea jamaa fulani wa , binamu huyu, na walikaa na hakujua jinsi ya kurudi nyuma, kwa hivyo alikaa nao tu.",Hakuwahi kutembelea familia yake.,544
+sw,"Walikuwa wamejitokeza kuanzia New York kutembelea jamaa fulani wa , binamu huyu, na walikaa na hakujua jinsi ya kurudi nyuma, kwa hivyo alikaa nao tu.",Aliishi Brooklynn na familia yake.,545
+sw,"Walikuwa wamejitokeza kuanzia New York kutembelea jamaa fulani wa , binamu huyu, na walikaa na hakujua jinsi ya kurudi nyuma, kwa hivyo alikaa nao tu.",Aliishi nao New York.,546
+sw,"Hapana, ilikuwa tu hiyo mara moja asubuhi, na alisema kuwa angerudi ofisi.",Hakusema kama angerudi au la,550
+sw,"Hapana, ilikuwa tu hiyo mara moja asubuhi, na alisema kuwa angerudi ofisi.",Alisema anaeenda na angerejea baadaye.,551
+sw,"Hapana, ilikuwa tu hiyo mara moja asubuhi, na alisema kuwa angerudi ofisi.",Alisema angeweza kurudi ofisini na chakula cha mchana.,552
+sw,Hatukujua U2 ilikuwa nini na hakuna mtu aliyejua chochote kuhusu U2.,Hatukujua u2 kilikuwa nini.,553
+sw,Hatukujua U2 ilikuwa nini na hakuna mtu aliyejua chochote kuhusu U2.,Hatukujua jina ya kile tulichoona angani.,554
+sw,Hatukujua U2 ilikuwa nini na hakuna mtu aliyejua chochote kuhusu U2.,Tulijua yote kuhusu U2!,555
+sw,"Nyanyangu alizaliwa mwaka wa 1910, alikuewa msichana mdogo.",Nyanya yangu alizaliwa miaka 10 baada ya mwanzo wa karne.,589
+sw,"Nyanyangu alizaliwa mwaka wa 1910, alikuewa msichana mdogo.",nyanya yangu alizaliwa 1899.,590
+sw,"Nyanyangu alizaliwa mwaka wa 1910, alikuewa msichana mdogo.","Nyanya yangu alizaliwa mnamo Julai 1, 1910.",591
+sw,Kwani aliishi tena Augusta kabla ya hayo?,"Je, alibaki Augusta?",601
+sw,Kwani aliishi tena Augusta kabla ya hayo?,"Je, alikaa katika Augusta baada ya fujo?",602
+sw,Kwani aliishi tena Augusta kabla ya hayo?,Najua alimwacha Augusta mara moja.,603
+sw,Lakini ilifika takribani... Jamni sikumbuki idadi yake vizuri,Sikumbuki ni ngapi tuliyokuwa nayo.,607
+sw,Lakini ilifika takribani... Jamni sikumbuki idadi yake vizuri,Sikumbuki wafanyakazi wangapi ambao tulikuwa nao.,608
+sw,Lakini ilifika takribani... Jamni sikumbuki idadi yake vizuri,Najua idadi ya kila kitu.,609
+sw,"Hata hivyo, Nilimaliza na kuja nyumbani saa 6:30 leo na hiyondiyo ilikuwa siku yangu.",Niliamua kurudi nyumbani kwa chakula cha mchana na kupumzika siku iliyobaki.,622
+sw,"Hata hivyo, Nilimaliza na kuja nyumbani saa 6:30 leo na hiyondiyo ilikuwa siku yangu.",Sikufanya jambo lolote la maana baada ya saa kumi na mbili leo.,623
+sw,"Hata hivyo, Nilimaliza na kuja nyumbani saa 6:30 leo na hiyondiyo ilikuwa siku yangu.",Nilitumia sehemu kubwa ya siku nilishughulikia suala ngumu linalohusiana na ulipiaji wa wateja.,624
+sw,"Halafu wakaketi, alafu pia walikuwa bado wanazungumza. Walikuwa nanamuona yule mtu na alikuwa anatembea kwa mwendo wa kasi sana.",Aliendelea kuzungumza na wenzake kuhusu wenzake anayekimbia.,628
+sw,"Halafu wakaketi, alafu pia walikuwa bado wanazungumza. Walikuwa nanamuona yule mtu na alikuwa anatembea kwa mwendo wa kasi sana.",Aliendelea kuzungumza.,629
+sw,"Halafu wakaketi, alafu pia walikuwa bado wanazungumza. Walikuwa nanamuona yule mtu na alikuwa anatembea kwa mwendo wa kasi sana.",Alikaa kimya na kuangalia chini katika kazi yake.,630
+sw,"Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.","Ikiwa kuna umeme mkubwa, ni hatari kwa mtu yeyote karibu.",634
+sw,"Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.","Ikiwa kuna mwongezeko, kuna kelele inayoambatana nao.",635
+sw,"Na kama ingekuwa na mwendo wa dharura na kuendelea hivyo hivyo, ingeenda 'whish,' na kana kwamba ingeng'oa kichwa chako.",Itaongezeka mara moja tu.,636
+sw,Sina habari za kutosha.,Nina habari zote unazohitaji.,640
+sw,Sina habari za kutosha.,Nahitaji maarifa zaidi niweze kuamua aina ya gari nitakayo nunua.,641
+sw,Sina habari za kutosha.,Nahitaji kupata habari zaidi kuhusu hii jambo.,642
+sw,"Nitakupigia tena baada ya saa moja hivi, amesema.",Alisema atapiga simu atakapofika nyumbani.,646
+sw,"Nitakupigia tena baada ya saa moja hivi, amesema.",Alisema atarudia kupiga simu,647
+sw,"Nitakupigia tena baada ya saa moja hivi, amesema.",Alisema wamemaliza kuzungumza.,648
+sw,"Bila shaka, waliniuliza huko, kwa nini nilienda.",Waliniuliza kwa nini nilienda pale.,649
+sw,"Bila shaka, waliniuliza huko, kwa nini nilienda.",Waliuliza mbona nilienda dukani.,650
+sw,"Bila shaka, waliniuliza huko, kwa nini nilienda.",Waliuliza kwa nini nilikaa nyumbani.,651
+sw,Ilinibidi kuanza mafunzo katika kozi.,Sikuhitaji maandalizi yoyote.,691
+sw,Ilinibidi kuanza mafunzo katika kozi.,Nililazimika kujifunza jinsi ya kumaliza kozi ya vikwazo.,692
+sw,Ilinibidi kuanza mafunzo katika kozi.,Ilibidi nianze kujitayarisha.,693
+sw,Baadaye nilirudi kwenye dawati langu.,Nilikataa kuketi chini tena.,697
+sw,Baadaye nilirudi kwenye dawati langu.,Nilirudi kwenye kiti changu.,698
+sw,Baadaye nilirudi kwenye dawati langu.,Nilirudi na kuketi kwa sababu mkubwa wangu aliniambia hivyo.,699
+sw,Na hivyo ndivyo siri ilivyokuwa,"Ikiwa mtu yeyote angejua hoyo habari, wangefungwa.",703
+sw,Na hivyo ndivyo siri ilivyokuwa,Ilikuwa habari ya umma.,704
+sw,Na hivyo ndivyo siri ilivyokuwa,Ilikuwa ya siri sana.,705
+sw,Hawatuka kukaa wafungwa.,Walikuwa wamekamatwa wakati mmoja lakini walitaka kutoroka.,715
+sw,Hawatuka kukaa wafungwa.,Walikuwa kizuizini kuhusiana na wizi wa hivi karibuni.,716
+sw,Hawatuka kukaa wafungwa.,Wote walikuwa na hofu ya kufunguliwa kutoka kifungoni.,717
+sw,Ilinichukua takribani muda wa masaa moja mbili hivi kupata nilichohitaji.,Niliipata kwa sekunde chache.,718
+sw,Ilinichukua takribani muda wa masaa moja mbili hivi kupata nilichohitaji.,Ilinichukua muda mrefu kwasababu kikabu kilikuwa kikubwa na cha kuchanganyisha.,719
+sw,Ilinichukua takribani muda wa masaa moja mbili hivi kupata nilichohitaji.,Ilinichukua muda kuipata.,720
+sw,"Msaada wa kiikolojia hutofautiana na msaada wa maisha kwa kuwa anaendesha vyumba vya urefu ambavyo huendesha wapiganaji hadi futi 80,000 katika vyumba vya juu vya juu, na kumleta tena.",Rubani hufanyiwa majaribio katika vyumba vya angani.,721
+sw,"Msaada wa kiikolojia hutofautiana na msaada wa maisha kwa kuwa anaendesha vyumba vya urefu ambavyo huendesha wapiganaji hadi futi 80,000 katika vyumba vya juu vya juu, na kumleta tena.",Marubani wanapaswa kutahiniwa ndani ya simulator ya ndege mara 20 kwa mwezi.,722
+sw,"Msaada wa kiikolojia hutofautiana na msaada wa maisha kwa kuwa anaendesha vyumba vya urefu ambavyo huendesha wapiganaji hadi futi 80,000 katika vyumba vya juu vya juu, na kumleta tena.",chumba cha urefu umesitishwa.,723
+sw,"Halafu, walihamia mjini na, kulikuwa, na bado ni kama kuwa Augusta, jiji hili kuu la barabara lililoitwa Broad Street, na kwa kweli ilikuwa barabara hii pana katika eneo la katikati mwa jiji.",Waliondoka Augusta na kwenda Atlanta.,727
+sw,"Halafu, walihamia mjini na, kulikuwa, na bado ni kama kuwa Augusta, jiji hili kuu la barabara lililoitwa Broad Street, na kwa kweli ilikuwa barabara hii pana katika eneo la katikati mwa jiji.",Walienda katikati ya jiji katika barabara kuu.,728
+sw,"Halafu, walihamia mjini na, kulikuwa, na bado ni kama kuwa Augusta, jiji hili kuu la barabara lililoitwa Broad Street, na kwa kweli ilikuwa barabara hii pana katika eneo la katikati mwa jiji.",Walikwenda mitaani iliyokua na mikahawa na baa zaidi.,729
+sw,Mambo hayakuwaendea vizuri mno.,Niliifanya bila makosa yoyote.,733
+sw,Mambo hayakuwaendea vizuri mno.,Nilitenda kosa nilipotuma fomu.,734
+sw,Mambo hayakuwaendea vizuri mno.,nilifanya makosa.,735
+sw,"Yeye ni kama, Lakini unahitaji kuangalia hapa, angalia hapa, ananipa kama maeneo matatu tofauti ya kuangalia kwenye kompyuta.",Hakujua ambapo angeangalia.,739
+sw,"Yeye ni kama, Lakini unahitaji kuangalia hapa, angalia hapa, ananipa kama maeneo matatu tofauti ya kuangalia kwenye kompyuta.",Aliniambia kabrasha zingekuwa kwenye eneokazi.,740
+sw,"Yeye ni kama, Lakini unahitaji kuangalia hapa, angalia hapa, ananipa kama maeneo matatu tofauti ya kuangalia kwenye kompyuta.",Aliniambia wapi kutafuta.,741
+sw,"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.","Licha ya jina lake, Mto wa nyoka, hakuna nyoka kwenye mto huo. Unaitwa hivyo kwa ajili ya muundo wake wa S.",769
+sw,"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Mto wa nyoka una kasa wengi wenye hasira,770
+sw,"Oh ulikuwa mto wa nyoka,yenye nyoka mingi sana.",Snake River imejaa nyoka.,771
+sw,"Ndio, niko na mkopo wa umoja.",sina shirikisho la mkopo naenda kwa.,772
+sw,"Ndio, niko na mkopo wa umoja.",Mimi hutembelea shirika wa mikopo wangu mara kwa mara.,773
+sw,"Ndio, niko na mkopo wa umoja.",Nini muungano wa mikopo?,774
+sw,hasa ni hali ya kazi sio kitu ambacho unaweza kuwa na aina wajua kuwa bila kushiriki haswa na kutarajia kufanya mazuri yoyote kweli sidhani,Nadhani unapaswa kutoa masaa 10 kwa siku ili uwe mzuri.,775
+sw,hasa ni hali ya kazi sio kitu ambacho unaweza kuwa na aina wajua kuwa bila kushiriki haswa na kutarajia kufanya mazuri yoyote kweli sidhani,Ni maoni yangu kuwa itabidi ujitolee zaidi  kwalo ili kulifanya vyema.,776
+sw,hasa ni hali ya kazi sio kitu ambacho unaweza kuwa na aina wajua kuwa bila kushiriki haswa na kutarajia kufanya mazuri yoyote kweli sidhani,Ni sawa iwapo hautaichukulia kwa uzito,777
+sw,Kitu ambacho naona ni cha kupendeza sana ni kwamba itatubidi tuwabadilishe watu ambao wanatuwakilisha.,"Najua kwamba litakuwa jambo la kuchosha na lisilostahili kuwabadilisha wanaotuwakilisha, kwa hivyo hata hatufai kujaribu kubadilisha.",793
+sw,Kitu ambacho naona ni cha kupendeza sana ni kwamba itatubidi tuwabadilishe watu ambao wanatuwakilisha.,Nafikiri itakuwa vigumu kubadili wawakilishi wetu lakini kwa manufaa mwishoni.,794
+sw,Kitu ambacho naona ni cha kupendeza sana ni kwamba itatubidi tuwabadilishe watu ambao wanatuwakilisha.,Nilazima tufanye mabadiliko kwa wale wanao tuwakilisha.,795
+sw,Wanaweza pia kuwa wazuri baada ya kufunzwa.,Wanakuwa wagumu na baridi baada ya kukamilisha mafunzo.,799
+sw,Wanaweza pia kuwa wazuri baada ya kufunzwa.,Wanabadilika haraka wanapoendelea na mafunzo.,800
+sw,Wanaweza pia kuwa wazuri baada ya kufunzwa.,Wanapopata mafunzo wanaweza kuwa wazuri kabisa,801
+sw,"Inaweza kuendelea kwa miaka ishirini, ninadhani hii ni ujinga.",Nadhani inashangaza kwamba kesi moja inaweza kuendelea kwa miaka mingi.,805
+sw,"Inaweza kuendelea kwa miaka ishirini, ninadhani hii ni ujinga.",Nafikiri ni ya kushangaza sana yakuamba inaweza kaa muda mrefu hivyo.,806
+sw,"Inaweza kuendelea kwa miaka ishirini, ninadhani hii ni ujinga.",Inadumu wiki moja tu.,807
+sw,Lazima uwe ulikuwa na yenye haina kamba.,"Sahihi, uliyokuwa nayo ilikuwa pasi waya.",817
+sw,Lazima uwe ulikuwa na yenye haina kamba.,Ile uliyokuwa nayo kwa uhakika ni toleo la kamba tu.,818
+sw,Lazima uwe ulikuwa na yenye haina kamba.,Pengine umekuwa na moja iliyo na kamba unayoweza kutumia au la.,819
+sw,unasema walimu au wazazi,"Je, unasema wanafunzi au usaidizi wa mwalimu ulifanya hivyo?",826
+sw,unasema walimu au wazazi,"Je, ni walimu au wazazi?",827
+sw,unasema walimu au wazazi,Unasema nini kuhusu wazazi na walimu?,828
+sw,badala ya mimi labda ingekuwa kuangalia kitu uh labda V sita,Nafikiria kuangalia V6.,835
+sw,badala ya mimi labda ingekuwa kuangalia kitu uh labda V sita,Nadhani V6 ndiyo njia bora ya kwenda.,836
+sw,badala ya mimi labda ingekuwa kuangalia kitu uh labda V sita,Sita wahikuzingatia V6.,837
+sw,"Nafikiri itakuwa, nafikir, vizuri, sijui, bado sijamaliza fikra zangu kuhusiana na upimaji wa dawa.ha, Niko msafi kabisa, siwezi fikiria kutumia madawa.","Ninapinga dhidi ya kupima madawa ya kulevya, hakuna shaka katika mawazo yangu kuhusu hilo.",841
+sw,"Nafikiri itakuwa, nafikir, vizuri, sijui, bado sijamaliza fikra zangu kuhusiana na upimaji wa dawa.ha, Niko msafi kabisa, siwezi fikiria kutumia madawa.",Nadhani nitakuwa sawa na mtihani wa dawa za kulevya.,842
+sw,"Nafikiri itakuwa, nafikir, vizuri, sijui, bado sijamaliza fikra zangu kuhusiana na upimaji wa dawa.ha, Niko msafi kabisa, siwezi fikiria kutumia madawa.",Nafikiria hivo lakini sijaangalia hisia zangu kuhusiana na uchunguzi wa madawa.,843
+sw,tahadhari kuhusu jinsi habari za kitaifa zinavyoathiri mtaa,wasiwasi kuhusu eneo kuathiriwa na habari za taifa.,865
+sw,tahadhari kuhusu jinsi habari za kitaifa zinavyoathiri mtaa,Ningeweza kujali chini ya habari gani za kitaifa zinazohusu wasiwasi kuhusu maeneo yetu.,866
+sw,tahadhari kuhusu jinsi habari za kitaifa zinavyoathiri mtaa,Maduka ya habari ya kitaifa hufanya maeneo yetu ya ndani yanaonekana nyuma.,867
+sw,lakini sio kawaida tunajua sketi na sketi na blauzi au suti au mavazi ni unachoona chini hapa hivyo ni nzuri na mimi kufanya kazi nyumbani kwa sababu ninaweza kuvaa suruali,Huwa sijirembeshi nikifanyia kazi nyumbani.,883
+sw,lakini sio kawaida tunajua sketi na sketi na blauzi au suti au mavazi ni unachoona chini hapa hivyo ni nzuri na mimi kufanya kazi nyumbani kwa sababu ninaweza kuvaa suruali,"Wakati ninapofanya kazi nyumbani, huwa sivai mavazi yoyote inayotofautiana na mavazi ya kufanyia mazoezi.",884
+sw,lakini sio kawaida tunajua sketi na sketi na blauzi au suti au mavazi ni unachoona chini hapa hivyo ni nzuri na mimi kufanya kazi nyumbani kwa sababu ninaweza kuvaa suruali,Bado nafaa marinda napofanya kazi nyumbani kwa sababu nahisi kuwa mrembo.,885
+sw,Ndio kuna kitu kuhusu kuwa na mahali pa kuishi sijui,Kuwa na mahali pa kuishi ni ndoto kuu imetimika.,895
+sw,Ndio kuna kitu kuhusu kuwa na mahali pa kuishi sijui,Sijali kamwe kama nini pahala pa kuishi.,896
+sw,Ndio kuna kitu kuhusu kuwa na mahali pa kuishi sijui,Ni vizuri kuwa na mahali pa kuishi.,897
+sw,"naam, unajua singejali sana ikiwa walikuwa na shirika la um linalofadhiliwa",Itakuwa rahisi kujua kama shirika lilifadhiliwa.,898
+sw,"naam, unajua singejali sana ikiwa walikuwa na shirika la um linalofadhiliwa",Itanifanya niwe na hasira nikigudua kuwa walifadhili kampuni hio.,899
+sw,"naam, unajua singejali sana ikiwa walikuwa na shirika la um linalofadhiliwa",Haiwezi kunisumbua kama shirika lililipwa fedha.,900
+sw,"Ndio, huku kijijini utandawazi uko katika hali mbaya sana.",Uhusiano karibu hapa ni wakati mwingine sawa.,916
+sw,"Ndio, huku kijijini utandawazi uko katika hali mbaya sana.",Hatuna uhusiano mzuri hapa.,917
+sw,"Ndio, huku kijijini utandawazi uko katika hali mbaya sana.",Tunauhusiano bora zaidi mahali hapa.,918
+sw,"Na, ni kama na ni kama njegere mwenye macho meusi  lakini sidhani ni mnyororo",Siipendi Maharagwe Nyeusi.,922
+sw,"Na, ni kama na ni kama njegere mwenye macho meusi  lakini sidhani ni mnyororo",Naweza kuwatazama Black Eyed Pea baadaye.,923
+sw,"Na, ni kama na ni kama njegere mwenye macho meusi  lakini sidhani ni mnyororo","Black Eyed Pea inapendeza, nadhani kuwa ni ya ushirika.",924
+sw,lakini kwa upande mwingine tumekula panya na kasa wa kila aina,Mimi sili nyama ya aina yoyote.,931
+sw,lakini kwa upande mwingine tumekula panya na kasa wa kila aina,"Nimekula wanyama wasio wa kawaida awali kama vile, kobe, rakuni na possami",932
+sw,lakini kwa upande mwingine tumekula panya na kasa wa kila aina,Nimejaribu aina nyingi za wanyama kwa ajili ya chakula.,933
+sw,Mojawapo ya faida tunazozipata ni nafasi ya kuzuru.,Kusafiri ni sehemu yangu ninayoipenda.,937
+sw,Mojawapo ya faida tunazozipata ni nafasi ya kuzuru.,Kusafiri ni tunuku moja tunayopata.,938
+sw,Mojawapo ya faida tunazozipata ni nafasi ya kuzuru.,Hatupati manufaa yoyote.,939
+sw,ni mbaya sana,Nimesikia sio nzuri.,958
+sw,ni mbaya sana,Ni mbaya.,959
+sw,ni mbaya sana,Si mbaya kamwe.,960
+sw,Naam. Hilo ni jambo la busara mno.,"Hapana, nadhani kwamba ni yenye wazimu na haina maana.",964
+sw,Naam. Hilo ni jambo la busara mno.,"Kweli,yanakubalika.",965
+sw,Naam. Hilo ni jambo la busara mno.,"Ndio, tunakubali kuwa ilikuwa ngumu, hata hivyo ilikuwa njema mwishowe.",966
+sw,hivyo sisi mara nyingi tunakutana kwenye nyumba ya mjomba wangu kando ya ziwai na kukaa siku kadhaa,Huwa tunaenda kwenye kijumba kwa siku kadhaa,967
+sw,hivyo sisi mara nyingi tunakutana kwenye nyumba ya mjomba wangu kando ya ziwai na kukaa siku kadhaa,Huwa tunaenda kwenye kijumba kule Minnesota,968
+sw,hivyo sisi mara nyingi tunakutana kwenye nyumba ya mjomba wangu kando ya ziwai na kukaa siku kadhaa,Hatujawahi kwenda kottage.,969
+sw,Nilikuwa nimejiskia nmesifiwa muno hadi ambapo aliniambia watu ambao alikuwa nao.,Siipendi kampuni akonayo.,973
+sw,Nilikuwa nimejiskia nmesifiwa muno hadi ambapo aliniambia watu ambao alikuwa nao.,Yeye hakuwa na kupendeza kwangu kabisa.,974
+sw,Nilikuwa nimejiskia nmesifiwa muno hadi ambapo aliniambia watu ambao alikuwa nao.,Yeye alinifanya nikajihisi vizuri hadi nilipogundua ni nani alikuwa naye.,975
+sw,Umesoma the Firm,Ulisoma The Firm?,976
+sw,Umesoma the Firm,Umesoma The Soft?,977
+sw,Umesoma the Firm,"Je, ungependa kuomba nakala yangu ya Firm ukaisome?",978
+sw,Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.,Alipenda sherehe la mshangao.,979
+sw,Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.,Hatukufanya chochote kwa siku yake ya kuzaliwa.,980
+sw,Na jambo la kusherekea ssiku yake ya kuzaliwa tuliamua kuifanya kisiri.,Tulitupia kuzaliwa kwa mshangao kwa ajili yake,981
+sw,"Najua sifai kukufananisha na kitu mtu huko Texas ambako utokako, lakini udhibiti wa utumizi bunduki huko ni jambo ambalo halipendwi sana huko nafikiria.",Udhibiti wa bunduki huenda sio maarufu huko Texas.,988
+sw,"Najua sifai kukufananisha na kitu mtu huko Texas ambako utokako, lakini udhibiti wa utumizi bunduki huko ni jambo ambalo halipendwi sana huko nafikiria.",Sidhani udhibiti wa bunduki ungekasirika watu huko Texas.,989
+sw,"Najua sifai kukufananisha na kitu mtu huko Texas ambako utokako, lakini udhibiti wa utumizi bunduki huko ni jambo ambalo halipendwi sana huko nafikiria.",Texas inafaa kuwa na sheria kali zaidi za kudhibiti bunduki.,990
+sw,Uh-huh oh yeye ni mkubwa yeye unajua yeye ana tabia ya kukaa na mtu yeyote na kucheza na mtu yeyote,Yuko tayari kuketi ama kucheza na mtu yeyote.,991
+sw,Uh-huh oh yeye ni mkubwa yeye unajua yeye ana tabia ya kukaa na mtu yeyote na kucheza na mtu yeyote,"Kwa kawaida anacheza poker au blackjack, lakini wakati mwingine hucheza scrabble.",992
+sw,Uh-huh oh yeye ni mkubwa yeye unajua yeye ana tabia ya kukaa na mtu yeyote na kucheza na mtu yeyote,Anakataa kuketi karibu na mtu yeyote ambaye hajui.,993
+sw,bila shaka hilo linaweza kusababisha kuongezeka kwa uhalifu na watu kuingia na kuiba televisheni yako na  kuiuza tu kwa sababu hawawezi kufanya kazi tena.,Watu watafanya kazi wakipata nafasi.,997
+sw,bila shaka hilo linaweza kusababisha kuongezeka kwa uhalifu na watu kuingia na kuiba televisheni yako na  kuiuza tu kwa sababu hawawezi kufanya kazi tena.,Hiyo inaweza kusababisha uhalifu kuongezeka.,998
+sw,bila shaka hilo linaweza kusababisha kuongezeka kwa uhalifu na watu kuingia na kuiba televisheni yako na  kuiuza tu kwa sababu hawawezi kufanya kazi tena.,Hilo litasababisha kupunguka kwa uhalifu,999
+sw,"ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja",Vitu vyao vingi vilivunjika wakati mmoja.,1015
+sw,"ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja",Hakuna vitu zao zilizovunjika.,1016
+sw,"ndio, walikuwa na kundi zima la vitu ambavyo vilivunja wakati mmoja",Baadhi ya vitu viliyovunjika vilikuwa vya thamani.,1017
+sw,kumbe wewe wapenda chakula tofauti pia,Unapenda aina tofauti ya vyakula.,1024
+sw,kumbe wewe wapenda chakula tofauti pia,Ninasikia unasema hupendi kujaribu vyakula mpya.,1025
+sw,kumbe wewe wapenda chakula tofauti pia,Lazima wafurahia kujaribu vyakula vya kabila tofauti.,1026
+sw,Kwa maoni yako magazeti huko Colorado Springs huwa yawachukulia wenyeji vipi?,"Je, unadhani kuwa magazeti ya mitaa hayashughuliki na yale ambayo wananchi wanataka kusema?",1030
+sw,Kwa maoni yako magazeti huko Colorado Springs huwa yawachukulia wenyeji vipi?,Unafikiri nini kuhusu magazeti ya kitaifa na chanjo lao ya kimataifa?,1031
+sw,Kwa maoni yako magazeti huko Colorado Springs huwa yawachukulia wenyeji vipi?,Maoni yako ni yepi kuhusu gazeti zinapotoa habari?,1032
+sw,"Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.",Itakuwa thamana kufanya kazi kwenye kampuni kubwa kama watanipa fedha kwa ajili ya chuo kikuu.,1036
+sw,"Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.",Hakuna makampuni yanayosaidia katika gharama za elimu haijalishi ukubwa au udogo.,1037
+sw,"Unajua, faida nyingine niliyopata , sikuichukua kwa manufaa, angalau kabla kampuni kubwa wakati mwingine hulipia masomo.",Wakati mwingine makampuni makubwa hukusaidia kulipia elimu.,1038
+sw,"Kweli ,mbona husianze  kwa sababu umekuwa na muda mwingi wa kufikiria.",Kwa nini usielezee kitabu chako kwetu wote.,1039
+sw,"Kweli ,mbona husianze  kwa sababu umekuwa na muda mwingi wa kufikiria.",Mbona husiende wa kwanza?,1040
+sw,"Kweli ,mbona husianze  kwa sababu umekuwa na muda mwingi wa kufikiria.",Unastahili kuenda wa mwisho maana haujui lolote.,1041
+sw,Utajuaje kama umeridhika ama hujaridhika na jinsi taarifa zinapeanwa?,"Je, una furahia habari ya mtandao?",1042
+sw,Utajuaje kama umeridhika ama hujaridhika na jinsi taarifa zinapeanwa?,Nashuku hujawahi tazama habari ya network.,1043
+sw,Utajuaje kama umeridhika ama hujaridhika na jinsi taarifa zinapeanwa?,Nadhani mitandao hutoa habari kukufanya ufikiri kile wanachotaka ufikiri.,1044
+sw,"Vile haya yalitendeka Disemba iliyopita,alipata kura mia moja.",Haikupigiwa kura kwa sababu watu hawakutaka kutoka nje kupiga kura.,1051
+sw,"Vile haya yalitendeka Disemba iliyopita,alipata kura mia moja.",Ilipoteza lakini si kwa kura nyingi.,1052
+sw,"Vile haya yalitendeka Disemba iliyopita,alipata kura mia moja.",Ilipita na kiwango cha asilimia 99.,1053
+sw,"ha, ila wako na mapishano ya farasi katika wayo za Oaklawn.",Mbio ya jamii ya farasi ya nyasi huburudisha.,1054
+sw,"ha, ila wako na mapishano ya farasi katika wayo za Oaklawn.",Kuna riadha za farasi katika njia za mbio zilizoko Oaklawn.,1055
+sw,"ha, ila wako na mapishano ya farasi katika wayo za Oaklawn.",Hakuna mbio kwenye njia za mbio za Oaklawn.,1056
+sw,Lakini ninajua vijiji vingi sio vizuri vile.,Hawafanyi vizuri sana katika maeneo ya mashambani.,1057
+sw,Lakini ninajua vijiji vingi sio vizuri vile.,Ni wazuri sana katika maeneo ya majiji.,1058
+sw,Lakini ninajua vijiji vingi sio vizuri vile.,Ni nzuri sana katika maeneo ya mijini na vijijini.,1059
+sw,"sawa, watapitia yanayopangwa.",Ni rahisi kuzipitisha.,1063
+sw,"sawa, watapitia yanayopangwa.",Wamejitokeza kwa wazi.,1064
+sw,"sawa, watapitia yanayopangwa.",Zinaenda kwenye takataka.,1065
+sw,Riba ni asilimia ishrini.,"Je, faida inaweza kua zaidi ya ishirini?",1066
+sw,Riba ni asilimia ishrini.,"Je, asilimia ya riba ni 20?",1067
+sw,Riba ni asilimia ishrini.,Hakuna riba.,1068
+sw,"Sasa moja yapo ya njia ya kuwaogopesha walanguzi ni kuwa na  majirani wa kelele kingi hata kama wana mbwa mwenye kelele,hiyo i njia ya kuwaogopesha sababu wanajua mbwa anafanya kazi yake.",Wanyang'anyi hawapendi mbwa kwa sababu wana sauti kubwa na mara nyingi kuwauma.,1072
+sw,"Sasa moja yapo ya njia ya kuwaogopesha walanguzi ni kuwa na  majirani wa kelele kingi hata kama wana mbwa mwenye kelele,hiyo i njia ya kuwaogopesha sababu wanajua mbwa anafanya kazi yake.",Majambazi hawapendi mbwa.,1073
+sw,"Sasa moja yapo ya njia ya kuwaogopesha walanguzi ni kuwa na  majirani wa kelele kingi hata kama wana mbwa mwenye kelele,hiyo i njia ya kuwaogopesha sababu wanajua mbwa anafanya kazi yake.",Wanyang'anyi wanajua mbwa watakuwa na utulivu hivi karibuni.,1074
+sw,"Uh-huh, ni ya kuchekesha, na ninadhani napenda maonyesho ya kuchekesha kwa sana.",Sipendi maonyesho ya kuchekesha.,1075
+sw,"Uh-huh, ni ya kuchekesha, na ninadhani napenda maonyesho ya kuchekesha kwa sana.",Napenda kuangalia maonyesho ya kuchekesha.,1076
+sw,"Uh-huh, ni ya kuchekesha, na ninadhani napenda maonyesho ya kuchekesha kwa sana.","Inawezekana itanibidi nitazame kipindi hiki mpya cha ucheshi,",1077
+sw,Sijui vizuri. Ni vizuri kuzungumza nawe na kuwa na jioni nzuri.,Natumai uwe asubuhi njema! Ilikuwa vizuri kuzungumza na wewe mtandaoni.,1093
+sw,Sijui vizuri. Ni vizuri kuzungumza nawe na kuwa na jioni nzuri.,Nafikiria najua mbona siko salama lakini siti kukuambia.,1094
+sw,Sijui vizuri. Ni vizuri kuzungumza nawe na kuwa na jioni nzuri.,"Sina uhakika lakini najihisi vizuri, ilikuwa vizuri kusema na wewe usiku wa leo.",1095
+sw,Tulitoka kutoka Grand Rapids ambapo tuliona mmoja wa wanafunzi wetu akihitimu.,Grand Rapids ni pahali pazuri.,1111
+sw,Tulitoka kutoka Grand Rapids ambapo tuliona mmoja wa wanafunzi wetu akihitimu.,Hatuna mtoto wa kijana,1112
+sw,Tulitoka kutoka Grand Rapids ambapo tuliona mmoja wa wanafunzi wetu akihitimu.,Tulienda Grand Rapids kuona mtoto wetu akihitimu.,1113
+sw,Je! wewe hufanya kambi ya jangwa,"Je, ulihudhuria kambi juu ya jangwa?",1120
+sw,Je! wewe hufanya kambi ya jangwa,Ulikwenda kambi ya ndani?,1121
+sw,Je! wewe hufanya kambi ya jangwa,Nilidhani ulienda kwenye kambi.,1122
+sw,Inazidi tu kuwa mbaya katika kipeo inaonekana,Inakuwa mbaya zaidi polepole.,1123
+sw,Inazidi tu kuwa mbaya katika kipeo inaonekana,Inaonekana kuwa inazidi kuwa mbaya zaidi.,1124
+sw,Inazidi tu kuwa mbaya katika kipeo inaonekana,Inakuwa bora.,1125
+sw,"Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...",Kuwa na yadi si burudani na michezo tu bali huwa naifurahia.,1141
+sw,"Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...",Sitaki kuipoteza lakini hiyo ndio inayoweza kutokea unapokuwa na ua.,1142
+sw,"Ninachukia sana kupoteza ,nafikiri ni moja yapo ya Hazard.Yadi kwa sababu...",Unapokuwa na kipande chako cha ardhi huna chochote cha kupoteza tena.,1143
+sw,Wataje ama kwa kila kitu unachofanya peke yako watakuambia lakini utakifanya peke yako tu.,"Baada ya kukuambia nini cha kufanya, unaendelea na kufanya hivyo mwenyewe.",1144
+sw,Wataje ama kwa kila kitu unachofanya peke yako watakuambia lakini utakifanya peke yako tu.,Hawakuambii jinsi ya kufanya hivyo kabisa.,1145
+sw,Wataje ama kwa kila kitu unachofanya peke yako watakuambia lakini utakifanya peke yako tu.,Wanatoa maagizo mazuri juu ya jinsi ya kulishughulikia.,1146
+sw,sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla,Haimhusu mtu yeyote anayehusika na idara ya sheria.,1153
+sw,sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla,Ni kila mtu ambae anahusishwa na mfumo wa kisheria.,1154
+sw,sio wanasheria tu lakini maafisa wa polisi na majaji na taaluma yote ya kisheria kwa ujumla,Mfumo halali unaohusika huwa wa polisi.,1155
+sw,Na hao walikuwa watu elfu mbili na mia tano nilipo jiunga na,"Wakati nilipojiunga na chama, kulikuwa na wanachama angalau elfu mbili na mia tano.",1168
+sw,Na hao walikuwa watu elfu mbili na mia tano nilipo jiunga na,Nafikiri nilipojiunga kulikuwa na watu wachache niliowajua.,1169
+sw,Na hao walikuwa watu elfu mbili na mia tano nilipo jiunga na,Kumekuwa na watu karibu mia moja tu ambao waliwahi kujiunga.,1170
+sw,Ndio na nilikuwa nitawaambia nitaondoka ambalo nadhani unapaswa kupata baadhi ya watazamaji sawa kama hawa,Hata sijui nitachagua kipi.,1171
+sw,Ndio na nilikuwa nitawaambia nitaondoka ambalo nadhani unapaswa kupata baadhi ya watazamaji sawa kama hawa,Ningechagua ningepaa kwingine.,1172
+sw,Ndio na nilikuwa nitawaambia nitaondoka ambalo nadhani unapaswa kupata baadhi ya watazamaji sawa kama hawa,Kuruka mbali ni filamu ninayoipenda na mimi huiona kila wiki.,1173
+sw,Naam lakini sidhani tutaweza kufanya hivyo kwa sababu huwezi kupata vituo vya kawaida mitaani na hizo ni habari ambazo tunavutiwa sana,Bei hiyo ni nzuri sana.,1174
+sw,Naam lakini sidhani tutaweza kufanya hivyo kwa sababu huwezi kupata vituo vya kawaida mitaani na hizo ni habari ambazo tunavutiwa sana,"Kwa hakika tutaifanya itazame habari zetu,",1175
+sw,Naam lakini sidhani tutaweza kufanya hivyo kwa sababu huwezi kupata vituo vya kawaida mitaani na hizo ni habari ambazo tunavutiwa sana,Hatutaki kwa sababu tunapenda habari za mitaa na haipati vituo vya ndani.,1176
+sw,Nahofia kuwa hilo jina ni Anderson alikuwa yule mugwana aliye pigania tiketi uhuru dhidi ya Reagan na.,Anderson alimshinda Reagan,1186
+sw,Nahofia kuwa hilo jina ni Anderson alikuwa yule mugwana aliye pigania tiketi uhuru dhidi ya Reagan na.,Anderson alishindana na Reagan kama mshindani huru.,1187
+sw,Nahofia kuwa hilo jina ni Anderson alikuwa yule mugwana aliye pigania tiketi uhuru dhidi ya Reagan na.,Kulikuwa na tiketi nyingine za kujitegemea ambazo zilisimama pia.,1188
+sw,Utumizi wa gesi kupikia ni nafuu mno. Kwa tenki moja la gesi naweza litumia kwa muda mrefu mno.,Hao ni wa kiuchumi zaidi kwa sababu ni wazuri sana kwenye gesi.,1192
+sw,Utumizi wa gesi kupikia ni nafuu mno. Kwa tenki moja la gesi naweza litumia kwa muda mrefu mno.,Umbali utakao safiri na mafuta ni kidogo na kila wakati nalipia mafuta.,1193
+sw,Utumizi wa gesi kupikia ni nafuu mno. Kwa tenki moja la gesi naweza litumia kwa muda mrefu mno.,Pia ni magari bora zaidi.,1194
+sw,miaka michache iliyopita nilikuwa mwanafunzi huko na niliishi muhula mmoja nikisoma huko London,"Miaka kadha iliyopita, Nilisoma London kwa semista moja.",1195
+sw,miaka michache iliyopita nilikuwa mwanafunzi huko na niliishi muhula mmoja nikisoma huko London,Sijawahi kusomea ng'ambo mbeleni.,1196
+sw,miaka michache iliyopita nilikuwa mwanafunzi huko na niliishi muhula mmoja nikisoma huko London,Shule za London ni bora.,1197
+sw,lakini walifanya kitu tofauti na wao,Walifanya mambo sawa kama watu wengine.,1198
+sw,lakini walifanya kitu tofauti na wao,Mbinu yao ya kuzitumia ilikuwa bora.,1199
+sw,lakini walifanya kitu tofauti na wao,Walifanya vitu nao kwa njia tofauti kidogo.,1200
+sw,Siwezi fanya chochote na keki.,siwezi kutumia keki,1216
+sw,Siwezi fanya chochote na keki.,Siwezi kamwe kuishiwa na mawazo kwa keki!,1217
+sw,Siwezi fanya chochote na keki.,Nina hiari ningeweza kufanya kitu na keki lakini sina matumizi nayo.,1218
+sw,Nina VCR na imebidi niirudishe mara kadhaa kwa sababu ya ushinde mmoja wa sehemu moja na bado haipati picha mzuri kwa kweli..,Nina VCR ambayo hushinda ikiharibika.,1249
+sw,Nina VCR na imebidi niirudishe mara kadhaa kwa sababu ya ushinde mmoja wa sehemu moja na bado haipati picha mzuri kwa kweli..,VCR yangu inafanya kazi kikamilifu.,1250
+sw,Nina VCR na imebidi niirudishe mara kadhaa kwa sababu ya ushinde mmoja wa sehemu moja na bado haipati picha mzuri kwa kweli..,VCR inafanya kwa muda wa wiki moja hivi kabla ya kuharibika tena.,1251
+sw,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Sikupenda sana semina iliyofanyika kwa setilaiti.,1255
+sw,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Nilienda warsha iliofanywa na Satelite.,1256
+sw,"ha, vyema, hilo ni safi , ilikuwa halisi, lenye kuchekesha, Nilienda katika semina ilyokuwa haki, ilikuwa semina ya sputniki , ilikuwa safi sana na ilikuwa ya wanawake pekee yao.",Kulikuwa na watu wengi waliohudhuria semina ya satellite.,1257
+sw,"Ndio kweli, kwa sababu ilikuwa imepitia kwa kisiagi.",Ningependa kama jambo hili halingefanyika kwasababu inakata taama.,1270
+sw,"Ndio kweli, kwa sababu ilikuwa imepitia kwa kisiagi.","Ndio, ilifanikiwa pasipo na kwaruzo hata moja!",1271
+sw,"Ndio kweli, kwa sababu ilikuwa imepitia kwa kisiagi.","Ndio, kwa ukweli nimepitia mengi.",1272
+sw,"vizuri oh vizuri hilo ni la kuvutia je, uh ulienda shule ili kujifunza jinsi ya kufanya hivyo",Najua ulijifunza kufanya hivyo,1285
+sw,"vizuri oh vizuri hilo ni la kuvutia je, uh ulienda shule ili kujifunza jinsi ya kufanya hivyo","Hiyo ni ujinga sana, nafurahia haujui jinsi ya kufanya hivyo.",1286
+sw,"vizuri oh vizuri hilo ni la kuvutia je, uh ulienda shule ili kujifunza jinsi ya kufanya hivyo",Ulijifunza wapi jinsi ya kufanya hivyo?,1287
+sw,"Tukiwa na wengine, tukiwa na marafiki tumefanya kinachokaribia siku kuu ya akina mama ambapo walichukua zamu.",Ilikuwa ya siku ya kusherekea Wababa na Ellen kila wakati aliishugulikia.,1303
+sw,"Tukiwa na wengine, tukiwa na marafiki tumefanya kinachokaribia siku kuu ya akina mama ambapo walichukua zamu.",Marafiki wengine waliadhimisha Siku ya Mama.,1304
+sw,"Tukiwa na wengine, tukiwa na marafiki tumefanya kinachokaribia siku kuu ya akina mama ambapo walichukua zamu.",Marafiki wengine walibadilishana kuwa wenyeji wa siku ya mama.,1305
+sw,Tunajua kile tunachoenda kusema.,"Je, unajua muandiko wanayoenda kutupa kusoma?",1321
+sw,Tunajua kile tunachoenda kusema.,Najua hatujui tutakalolisema.,1322
+sw,Tunajua kile tunachoenda kusema.,Tutasema nini?,1323
+sw,"Ndio, hawakuwa kwa sababu hawakuwa wanaizungumzia, ambapo unajua hupaswi kabisa kuwashughulikia lakini ilikuwa hivyo, unajua walikuwa watoke kwa familia zilizo kubwa na pana.",Kila mtu anafaa kuchunga familia yake.,1324
+sw,"Ndio, hawakuwa kwa sababu hawakuwa wanaizungumzia, ambapo unajua hupaswi kabisa kuwashughulikia lakini ilikuwa hivyo, unajua walikuwa watoke kwa familia zilizo kubwa na pana.",Watu wengine hawawezi kutunza jamaa wazee kwa sababu nyumba zao zina ngazi nyingi.,1325
+sw,"Ndio, hawakuwa kwa sababu hawakuwa wanaizungumzia, ambapo unajua hupaswi kabisa kuwashughulikia lakini ilikuwa hivyo, unajua walikuwa watoke kwa familia zilizo kubwa na pana.",Watu wengine hawajali kuhusu wengine.,1326
+sw,Murwa kabisa. Kwaheri sasa.,Kwaheri!,1333
+sw,Murwa kabisa. Kwaheri sasa.,"Ilikuwa vyema kuongea nawe, nitaongea nawe kesho.",1334
+sw,Murwa kabisa. Kwaheri sasa.,Tuendelee kuongea.,1335
+sw,"Kweli,na wako na Lasagna njema.",Lasagna ni kitu kibaya ambacho nimewai jaribu!,1342
+sw,"Kweli,na wako na Lasagna njema.",Tambi zao ni bora zaidi.,1343
+sw,"Kweli,na wako na Lasagna njema.",Lasagna yao ni nzuri kwa sababu ya soseji ya viungo wanayotumia.,1344
+sw,Ni vile tu pesa yangu ni chache hivi kwamba huwa sijipi majaribu.,Sina pesa nyingi saa hii.,1345
+sw,Ni vile tu pesa yangu ni chache hivi kwamba huwa sijipi majaribu.,"Niko na pesa nyingi sasa hivi, kwa hivyo nataka kuenda manunuzi.",1346
+sw,Ni vile tu pesa yangu ni chache hivi kwamba huwa sijipi majaribu.,Niko na dola ishiriri hadi siku ya kulipwa.,1347
+sw,"Ndio, kikundi cha kipekee cha mvuto.",Kikundi kinavutiwa na mada mengi tofauti.,1354
+sw,"Ndio, kikundi cha kipekee cha mvuto.",Kikundi kinavutiwa na masuala ya mazingira.,1355
+sw,"Ndio, kikundi cha kipekee cha mvuto.",Kikundi kinataka kujua yanayoendelea.,1356
+sw,Hamna jambo mbaya kwa mzazi anezi tunukia kila kitu ako nacho kwa mtu lkama wewe.,ni sawa kwa mzazi kupeana zawadi nyingi,1360
+sw,Hamna jambo mbaya kwa mzazi anezi tunukia kila kitu ako nacho kwa mtu lkama wewe.,Ni sawa kwa wazazi kuwasaidia watoto wao mpaka waweze kufanya hivyo peke yao.,1361
+sw,Hamna jambo mbaya kwa mzazi anezi tunukia kila kitu ako nacho kwa mtu lkama wewe.,Wazazi inafaa wahifadhi vitu vyote vyenye wako navyo na wasigawe.,1362
+sw,Texas tu ilikuwa na elfu hamsini tano wakati nilikuwa huko,Sikuwahi kufika Texas awali.,1372
+sw,Texas tu ilikuwa na elfu hamsini tano wakati nilikuwa huko,Niliishi Texas wakati wa miaka ya 1980.,1373
+sw,Texas tu ilikuwa na elfu hamsini tano wakati nilikuwa huko,Nilikua niko Texas.,1374
+sw,Waweza kuapta pesa nyingi mno kwanza ikiwa unahusika na zile bidhaa murwa.,Haina gharama yeyote kwa sababu ni makombo.,1378
+sw,Waweza kuapta pesa nyingi mno kwanza ikiwa unahusika na zile bidhaa murwa.,Unaweza lipwa sana kwa hilo.,1379
+sw,Waweza kuapta pesa nyingi mno kwanza ikiwa unahusika na zile bidhaa murwa.,Unaweza kulipwa tani ya fedha ikiwa una vitambaa bora zaidi.,1380
+sw,Tafadhali tulipie kumtunza mtoto na tusipie mingi kuliko vile tunapoata.,Huduma ya watoto inachukua zaidi ya $2000 zaidi ya msingi.,1390
+sw,Tafadhali tulipie kumtunza mtoto na tusipie mingi kuliko vile tunapoata.,Utunzaji wa watoto ni bei nafuu kwenye makao.,1391
+sw,Tafadhali tulipie kumtunza mtoto na tusipie mingi kuliko vile tunapoata.,Huduma ya watoto ni bure.,1392
+sw,um hum naam hivyo uko na ishara juu huko kwamba anasema una huu mfumo wa kengele na nini kama mwizi atakuja na kukata laini yako ya simu?,Sio wazo nzuri kuweka ishara inayosema una kengele.,1399
+sw,um hum naam hivyo uko na ishara juu huko kwamba anasema una huu mfumo wa kengele na nini kama mwizi atakuja na kukata laini yako ya simu?,Kampuni za kengele hukupa ishara za kuweka kwa kila dirisha.,1400
+sw,um hum naam hivyo uko na ishara juu huko kwamba anasema una huu mfumo wa kengele na nini kama mwizi atakuja na kukata laini yako ya simu?,Kuna ishara ya kusema kuwa una king'ora.,1401
+sw,ndio tuna kati ya mke na mimi tuna sita,"Niko peke yangu, sijawai oa.",1408
+sw,ndio tuna kati ya mke na mimi tuna sita,Mimi na mume wangu tuna watoto wasita kwa jumla.,1409
+sw,ndio tuna kati ya mke na mimi tuna sita,Mke wangu na mimi tuko na sita.,1410
+sw,"Ndio vizuri sio kisheria kubeba bunduki ya mkononi huko Texas lakini sivyo, unaweza kuwa nayo nyumbani kwako",Ni kinyume cha sheria kuwa na bunduki katika umma huko Texas.,1414
+sw,"Ndio vizuri sio kisheria kubeba bunduki ya mkononi huko Texas lakini sivyo, unaweza kuwa nayo nyumbani kwako",Unaweza kuweka bunduki mahali popote utakapo Texas!,1415
+sw,"Ndio vizuri sio kisheria kubeba bunduki ya mkononi huko Texas lakini sivyo, unaweza kuwa nayo nyumbani kwako",Huwezi kubeba bunduki ya mkononi Texas nje ya nyumba yako.,1416
+sw,"um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na",Sina vyombo vyovyote vya elektroniki.,1435
+sw,"um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na",Nina kompyuta ya Apple na ya HP nyumbani.,1436
+sw,"um, vizuri, mimi ni kama nina miliki kompyuta, tuna kompyuta mbili nyumbani lakini hakuna hata mmoja ambayo tunamiliki kwa hakika, um, zote mbili ni kama zinahusika kwa kazi na",Nina kompyuta mbili nyumbani kwangu.,1437
+sw,na wakati mwingine ni vizuri kwenda nje na kupata kachumbari.,Sili kachumbari- chafu!,1438
+sw,na wakati mwingine ni vizuri kwenda nje na kupata kachumbari.,wakati mwingine napenda kula saladi ya mboga kwenye sitaha,1439
+sw,na wakati mwingine ni vizuri kwenda nje na kupata kachumbari.,Mara kwa mara ninapenda kula saladi.,1440
+sw,na hivyo nilifurahi sana,Nilipendezwa na hiyo kikweli.,1450
+sw,na hivyo nilifurahi sana,Ningependa kupata nyengine kwa sababu nimeipata kuwa nzuri sana.,1451
+sw,na hivyo nilifurahi sana,Hiyo ilikuwa zaidi ya kuchukiza!,1452
+sw,"wow, labda napaswa kwenda kuiona katika ukumbi na kufanya mpango wa kwenda nje kwa chakula cha jioni baadaye ili tuweze kukaa na kuzungumza juu yake",sitaki kwenda kuiona filamu hyo tena kabisa.,1468
+sw,"wow, labda napaswa kwenda kuiona katika ukumbi na kufanya mpango wa kwenda nje kwa chakula cha jioni baadaye ili tuweze kukaa na kuzungumza juu yake",Tunaweza kwenda kula chakula cha kichina baada ya kutazama hiyo filamu iliyochaguliwa na Oscar.,1469
+sw,"wow, labda napaswa kwenda kuiona katika ukumbi na kufanya mpango wa kwenda nje kwa chakula cha jioni baadaye ili tuweze kukaa na kuzungumza juu yake",Tunaweza kwenda chajio baada ya maonyesho.,1470
+sw,na wanajua watacho pata kutoka kwako na wanahakikisha hutanunua zaidi,Wanafahamu kuhusu pesa walizonazo kama faida.,1471
+sw,na wanajua watacho pata kutoka kwako na wanahakikisha hutanunua zaidi,Hawana wazo la fedha ngapi wanayopata.,1472
+sw,na wanajua watacho pata kutoka kwako na wanahakikisha hutanunua zaidi,Wanajua kwamba wanatengeza $ 2903 kwa mwezi.,1473
+sw,vizuri sisi ni dhahiri kuwaweka maskini na downtrodden na wasio na msaada,Hatua zetu zinawazuia kuboresha.,1477
+sw,vizuri sisi ni dhahiri kuwaweka maskini na downtrodden na wasio na msaada,Tunawahimiza na kuwaimarisha kila siku.,1478
+sw,vizuri sisi ni dhahiri kuwaweka maskini na downtrodden na wasio na msaada,Tunafanya umaskini hata hatuwezi kufaulu kwa jamii yetu.,1479
+sw,ni aina kama onyesho la mapenzi  ya kitu cha aina ya opera ya mapenzi ya usiku,Ni show mpya ambayo ni kubwa sana.,1483
+sw,ni aina kama onyesho la mapenzi  ya kitu cha aina ya opera ya mapenzi ya usiku,Ni kama show ya opera ya sabuni.,1484
+sw,ni aina kama onyesho la mapenzi  ya kitu cha aina ya opera ya mapenzi ya usiku,Onyesho hilo ni sana kama Siku ya maisha yetu.,1485
+sw,"Ndio daima nimesema nikifa nitarudi kama mbwa, ambayo ingekuwa njia bora ya kuwa.",Siamini katika aina yoyote ya baada ya maisha.,1486
+sw,"Ndio daima nimesema nikifa nitarudi kama mbwa, ambayo ingekuwa njia bora ya kuwa.",Nafikiria watu wengi wanaokufa hurudi wakiwa wanyama.,1487
+sw,"Ndio daima nimesema nikifa nitarudi kama mbwa, ambayo ingekuwa njia bora ya kuwa.","Nikifa, daima mimi ninaamini nitakuwa tena kama mbwa.",1488
+sw,Um-hum vizuri na ningekuwa nasema kuwa kuna maeneo mengine ambayo wanaweza kukataa mimi sio lazima ila kukataa huko,nilidhani wanapaswa kupunguza matumizi kwa vyakula sio kwa vitabu,1489
+sw,Um-hum vizuri na ningekuwa nasema kuwa kuna maeneo mengine ambayo wanaweza kukataa mimi sio lazima ila kukataa huko,Mimi nilikuwa naenda kupendekeza kupunguzwa kwingine.,1490
+sw,Um-hum vizuri na ningekuwa nasema kuwa kuna maeneo mengine ambayo wanaweza kukataa mimi sio lazima ila kukataa huko,Hakuna chochote amabacho wanaweza kukata.,1491
+sw,mkataba wa hivi karibuni uliopatiwa Virginia ameshtaki au ana kesi dhidi ya uh Gratin kuzuia ujenzi kwa sababu ulipatikana kinyume cha haki au kitu kama hicho unajua,Mikataba imekuwa yenye fujo sana.,1498
+sw,mkataba wa hivi karibuni uliopatiwa Virginia ameshtaki au ana kesi dhidi ya uh Gratin kuzuia ujenzi kwa sababu ulipatikana kinyume cha haki au kitu kama hicho unajua,Mikataba imeleta bendera nyingi nyekundu na wanasheria.,1499
+sw,mkataba wa hivi karibuni uliopatiwa Virginia ameshtaki au ana kesi dhidi ya uh Gratin kuzuia ujenzi kwa sababu ulipatikana kinyume cha haki au kitu kama hicho unajua,Mikataba yote ilisainiwa bila suala.,1500
+sw,Espinosa alikusanya riwaya mingi kutoka Californios miaka ya 1920.,Espinosa aliuza hizi lugha za mapenzi France kwa faida kubwa.,1522
+sw,Espinosa alikusanya riwaya mingi kutoka Californios miaka ya 1920.,Espinosa ana nia ya kukusanya mahaba.,1523
+sw,Espinosa alikusanya riwaya mingi kutoka Californios miaka ya 1920.,Esponosa aliaga mwaka wa 1900.,1524
+sw,Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Vifaa masi vyote ni tata.,1525
+sw,Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Ugumu wa chombo cha masi kubwa unaweza inuka kwa mazingira tofauti.,1526
+sw,Vipengele hivi vya juu vya utaratibu wa vifaa vya molekuli hutokea kwa sababu uteuzi wa asili una uwezo wa kutenda juu ya mali ya pamoja ya molekuli wakati mali hizo za pamoja zinaongeza uwezo wa kubadili.,Hivi vifaa vya kimolekuli hasa hutumiwa kutoa sumu za ulinzi.,1527
+sw,Lakini siamini chombo chochote cha algorithmic kinaweza kua kamili.,Kanuni haziwezi kuamua jinsi ya kutengeneza mkate kamili bila ya uamuzi wa binadamu.,1528
+sw,Lakini siamini chombo chochote cha algorithmic kinaweza kua kamili.,Hakuna chombo chochote kinaweza maliza hii kazi yote kwa wakati mmoja.,1529
+sw,Lakini siamini chombo chochote cha algorithmic kinaweza kua kamili.,Vifaa hivi vyafanya kazi barabara katika kila hali.,1530
+sw,Sheria haitoi mtu binafsi lakini jumuiya au taifa kwa ujumla.,"Kwa ukombozi, watu wanapaswa kufuata sheria",1543
+sw,Sheria haitoi mtu binafsi lakini jumuiya au taifa kwa ujumla.,sheria itaokoa Amerika.,1544
+sw,Sheria haitoi mtu binafsi lakini jumuiya au taifa kwa ujumla.,Sheria itaokoa jamii na taifa,1545
+sw,Nakala ya kikatiba ya 1787 ilikuwa imesema haki ya wamiliki wa watumwa kuokoa watumwa ambao wamepotea katika eneo la uhuru.,"Mwaka wa 1787, sheria ilipitishwa kuzuia watu kuwarejesha tena watumwa waliokuwa wamefika ardhi za Uhuru.",1552
+sw,Nakala ya kikatiba ya 1787 ilikuwa imesema haki ya wamiliki wa watumwa kuokoa watumwa ambao wamepotea katika eneo la uhuru.,Sehemu ya maandishi ya katiba iliandikwa mwaka wa 1787.,1553
+sw,Nakala ya kikatiba ya 1787 ilikuwa imesema haki ya wamiliki wa watumwa kuokoa watumwa ambao wamepotea katika eneo la uhuru.,Haki ya kurejesha watumwa kutoka sehemu huru haikuwa haki iliyokubaliwa na wengi.,1554
+sw,"Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.",Steve Harris alikataa kutoka kwa nyumba yake kwa sababu yoyote ile.,1555
+sw,"Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.",Steve alikuwa mwanabaolojia kutoka inje ya mji.,1556
+sw,"Steve Harris, mwana biolojia wa molekuli kutokaTexas alikuwa ametutembelea.",Steve alikuwa akitembelea California ili kujifunza sampuli mpya.,1557
+sw,"Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).",Zaidi ya maafisa mia moja walitumika katika kila sura.,1573
+sw,"Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).",Kurasa zilihusisha wanachama na maafisa wa kawaida.,1574
+sw,"Uanachama ulijumuisha  kati ya wanaume wazima thelathini na hamsini kwa sura (inayoitwa moradas) na waligawanyika kuwa wanachama wawili wa kawaida, wanaoitwa hermanos disciplantes (ndugu ambao wanawaadhibu), na maafisa, waliwaita hermanos de luz (ndugu wa mwanga).",Vitengo hivi vilikuwa na jukumu la kugeuza watu wa asili katika Amerika ya Kati.,1575
+sw,"Kwa watoto wa miaka 4 na 5, maswali mara nyingi huzungumzia taratibu za hadithi (Nini kitatokea baadaye?",Watoto kawaida huanza kuzungumza wakiwa miaka 6.,1579
+sw,"Kwa watoto wa miaka 4 na 5, maswali mara nyingi huzungumzia taratibu za hadithi (Nini kitatokea baadaye?",watoto wa miaka tano wanawasiwasi kuhusu nini kitachotokea ujao,1580
+sw,"Kwa watoto wa miaka 4 na 5, maswali mara nyingi huzungumzia taratibu za hadithi (Nini kitatokea baadaye?",Watoto wa miaka mitano kwa ujumla wanafikiriwa kuwa wanazungumzaji wabaya.,1581
+sw,"Kwa uangavu, mtiririko kidogo katika nafasi ya jimbo unaruhusu uainishaji, kwa kuwa wakati majimbo mawili yanajiunga kwa jimbo moja la mrithi, majimbo hayo mawili yamewekwa sawa na mtandao.",Mtiririko wa mtiririko unasaidia uainishaji.,1582
+sw,"Kwa uangavu, mtiririko kidogo katika nafasi ya jimbo unaruhusu uainishaji, kwa kuwa wakati majimbo mawili yanajiunga kwa jimbo moja la mrithi, majimbo hayo mawili yamewekwa sawa na mtandao.",Mtiririko wa kupatana unaathiriwa na idadi ya watu.,1583
+sw,"Kwa uangavu, mtiririko kidogo katika nafasi ya jimbo unaruhusu uainishaji, kwa kuwa wakati majimbo mawili yanajiunga kwa jimbo moja la mrithi, majimbo hayo mawili yamewekwa sawa na mtandao.",Mtiririko wa kukaribiana unazuia uainishaji.,1584
+sw,Kwa hivyo wanazidi kuunda ulimwengu usio na msimamo ambapo ni yale tu ya hivi karibuni yako na habari sahihi.,Dunia isiyo ya msingi haifai kwa wengine kama inabidi itoe maelezo kwa habari kutoka zamani zilizopita.,1591
+sw,Kwa hivyo wanazidi kuunda ulimwengu usio na msimamo ambapo ni yale tu ya hivi karibuni yako na habari sahihi.,Data zozote ya wakati wowote ni ya maana kwa Dunia yoyote.,1592
+sw,Kwa hivyo wanazidi kuunda ulimwengu usio na msimamo ambapo ni yale tu ya hivi karibuni yako na habari sahihi.,Haya maneno ya kufikiri yanatumika kwa utabiri wa hali ya hewa.,1593
+sw,"Katika sura ya mwisho, nafanya hatua zaidi ya uhusiano wa kati pamoja na maajenti huru kuzingatia ulimwengu wenyewe.","Katika sura ya mwisho, ninajadili ni mara ngapi mtu anafaa kulamba Tootsie Roll Pop ili kufika katikati.",1597
+sw,"Katika sura ya mwisho, nafanya hatua zaidi ya uhusiano wa kati pamoja na maajenti huru kuzingatia ulimwengu wenyewe.",Katika sura ya mwisho nashangaa ni kiasi gani ulimwengu unawajibika kwa utaratibu wa tabia ya kibinadamu.,1598
+sw,"Katika sura ya mwisho, nafanya hatua zaidi ya uhusiano wa kati pamoja na maajenti huru kuzingatia ulimwengu wenyewe.","Katika sura ya mwisho, nilizingatia ulimwengu wenyewe.",1599
+sw,"Na kwa hiyo, serikali haikuwajibika kwa watu binafsi waliokataa haki za kijamii kwa wananchi weusi.",Watu fulani wa kibinafsi waliwanyima wananchi weusi haki za kijamii.,1606
+sw,"Na kwa hiyo, serikali haikuwajibika kwa watu binafsi waliokataa haki za kijamii kwa wananchi weusi.",Watu binafsi walikuwa weupe.,1607
+sw,"Na kwa hiyo, serikali haikuwajibika kwa watu binafsi waliokataa haki za kijamii kwa wananchi weusi.",Nchi ndio ilikuwa na jukumu la kusimamia tabia za wananchi,1608
+sw,Hakuna tofauti kati ya wanafunzi wadogo na wazee katika alama za mtihani wa mafanikio.,"Ingawaje matokeo ya mtihani ya wanafunzi wa umrimdogo na mkubwa ni sawa, wanafunzi wa darasa moja wenye umri mdogo humaliza mtihani haraka zaidi.",1609
+sw,Hakuna tofauti kati ya wanafunzi wadogo na wazee katika alama za mtihani wa mafanikio.,Wanafunzi vijana na wazee kufikia matokeo sawa katika alama za mtihani.,1610
+sw,Hakuna tofauti kati ya wanafunzi wadogo na wazee katika alama za mtihani wa mafanikio.,Wanafunzi vijana na wazee wana matokeo ya mtihani tofauti jinsi  kama umri ni suala,1611
+sw,"Katika utaratibu wa kisheria wa postbellum, matokeo sawa yanatokana na kanuni za shirikisho za taifa.",Kanuni kutoka katiba ya shirikisho ndizo zilisababisha matokeo sawa kama utaratibu wa kisheria wa 'postbellum'.,1612
+sw,"Katika utaratibu wa kisheria wa postbellum, matokeo sawa yanatokana na kanuni za shirikisho za taifa.",Uamuzi wa kisheria wa Postbellum uliisha na majibu yale yale kwa sababu ya shirirkisho la katiba ya Barbados.,1613
+sw,"Katika utaratibu wa kisheria wa postbellum, matokeo sawa yanatokana na kanuni za shirikisho za taifa.",Amri ya kisheria ya Prebellum ilikuwa na matokeo tofauti zaidi ingawa ilikuwa imetolewa kwa kanuni za katiba ya nchi.,1614
+sw,Darwin huanza na maisha tayari hapa.,Darwin alianza kwa kutazama samaki.,1624
+sw,Darwin huanza na maisha tayari hapa.,Darwin alianza na maisha yaliyokuwako.,1625
+sw,Darwin huanza na maisha tayari hapa.,Darwin alikuwa akisisitiza tu kusoma mambo ya vitu vilivyokufa.,1626
+sw,"Sababu ya kawaida wakati wa kutembea na miaka ya shule ya mapema kwa watoto ni 'repeated otitis media', au maambukizi ya sikio la kati.",Mambukizi ya sikio ya kati ni mojawapo sababisho ya kawaida kwa watoto.,1636
+sw,"Sababu ya kawaida wakati wa kutembea na miaka ya shule ya mapema kwa watoto ni 'repeated otitis media', au maambukizi ya sikio la kati.",Vyombo vya habari vya Otitis ni nadra kubwa wakati wa miaka ya mapema ya mtoto.,1637
+sw,"Sababu ya kawaida wakati wa kutembea na miaka ya shule ya mapema kwa watoto ni 'repeated otitis media', au maambukizi ya sikio la kati.",Watoto wengi watapata maambukizi ya sikio la kati.,1638
+sw,"Wakati vyama vya kiraia vinapeana sikio viziwi, mawazo zulika yanapotea.",Mawazo ya mambo ni madogo wakati yanapuuzwa na kiraia.,1645
+sw,"Wakati vyama vya kiraia vinapeana sikio viziwi, mawazo zulika yanapotea.",mawazo ya kiwazimu huwa maarufu zaidi kwenye asasi za kiraia zinapopuuzwa na asasi za kiraia,1646
+sw,"Wakati vyama vya kiraia vinapeana sikio viziwi, mawazo zulika yanapotea.",Mawazo mengi yenye wazimu fulani hupuuzwa na asasi za kiraia.,1647
+sw,"McKim, kiasi cha hasira yake, sio waliopotea tu bali kuwekwa tatu nyuma ya Howard & amp; Cauldwell.",Howard and Cauldwell ni wanawake.,1654
+sw,"McKim, kiasi cha hasira yake, sio waliopotea tu bali kuwekwa tatu nyuma ya Howard & amp; Cauldwell.",McKim alifurahi sana kwa kumaliza wa kwanza.,1655
+sw,"McKim, kiasi cha hasira yake, sio waliopotea tu bali kuwekwa tatu nyuma ya Howard & amp; Cauldwell.",McKim aliaibika kwa kumaliza wa tatu.,1656
+sw,Kwa hakika tunachotaka ni njia ya kuelezea mchakato halisi,Tunahitaji lebo ili kujua kuwa shirika linafanya vizuri.,1666
+sw,Kwa hakika tunachotaka ni njia ya kuelezea mchakato halisi,Tunahitaji kuweka shirika lebo.,1667
+sw,Kwa hakika tunachotaka ni njia ya kuelezea mchakato halisi,Hatupaswi kulebo kitu chochote.,1668
+sw,"Kuzingatia msingi wa ndume watatu au wanne, na wachache wa wanachama, palomilla ilikuwa kitengo muhimu cha kijamii ambacho kiliwapa nafasi salama kwa vijana kuwacheka na kujieleza wenyewe.",Palomillas aliruhusu vijana kujieleza wenyewe.,1681
+sw,"Kuzingatia msingi wa ndume watatu au wanne, na wachache wa wanachama, palomilla ilikuwa kitengo muhimu cha kijamii ambacho kiliwapa nafasi salama kwa vijana kuwacheka na kujieleza wenyewe.",Palomillas zilikua na wanawake wazee pekee waliotoa hadithi za kaango.,1682
+sw,"Kuzingatia msingi wa ndume watatu au wanne, na wachache wa wanachama, palomilla ilikuwa kitengo muhimu cha kijamii ambacho kiliwapa nafasi salama kwa vijana kuwacheka na kujieleza wenyewe.",Vijana walioko palomillas walifanya utani kuhusu farasi.,1683
+sw,Lakini fikiria kuhusu mkate na siagi.,Fikiria juu ya Mkate wa Wonder na Changamoto. Siagi.,1693
+sw,Lakini fikiria kuhusu mkate na siagi.,fikiria kuhusu mkate na siagi,1694
+sw,Lakini fikiria kuhusu mkate na siagi.,"Fikiria kuhusu tu mizabibu na chipsi za mahindi, si jambo jingine.",1695
+sw,Mawazo mawili ya Marekani ya kuzuia bendera na kuadhimisha uhuru wa kuzungumza hatimaye unakuja kuzingatiwa kama njia za kinyume kuwa Mmarekani.,Wamarekani wote huonyesha bendera heshima.,1714
+sw,Mawazo mawili ya Marekani ya kuzuia bendera na kuadhimisha uhuru wa kuzungumza hatimaye unakuja kuzingatiwa kama njia za kinyume kuwa Mmarekani.,Waamerika wanachukia bendera hiyo.,1715
+sw,Mawazo mawili ya Marekani ya kuzuia bendera na kuadhimisha uhuru wa kuzungumza hatimaye unakuja kuzingatiwa kama njia za kinyume kuwa Mmarekani.,Wamarekani wanataka kulinda bendera.,1716
+sw,Bato ni neno la karne ya zamani ambayo inaweza kutafsiriwa kama guy au dude.,Vato ndio sita inayopendelewa,1720
+sw,Bato ni neno la karne ya zamani ambayo inaweza kutafsiriwa kama guy au dude.,Bato (au vato) ni neno la Kihispania ambalo linamanisha  jamaa au mlimbwende.,1721
+sw,Bato ni neno la karne ya zamani ambayo inaweza kutafsiriwa kama guy au dude.,Batos ni wasagaji.,1722
+sw,Tunaanzisha mifano ya hisabati inayofunua kitu kuhusu shirika hili la mgawanyo = ingawa mifano bora zaidi ya sasa ni midogo licha ya ustadi wao.,Kina kitu kichoweza kusomwa kutoka kwa shirika kimewekwa tayari kujulikana.,1729
+sw,Tunaanzisha mifano ya hisabati inayofunua kitu kuhusu shirika hili la mgawanyo = ingawa mifano bora zaidi ya sasa ni midogo licha ya ustadi wao.,Toleo hizi ni nzuri lakini ni chache.,1730
+sw,Tunaanzisha mifano ya hisabati inayofunua kitu kuhusu shirika hili la mgawanyo = ingawa mifano bora zaidi ya sasa ni midogo licha ya ustadi wao.,Kuna mengi zaidi ya kujifunza kuhusu shirika.,1731
+sw,"Kama mchanga hupanda, hatimaye hufikia pembe ya mchanga na pia inafikia mipaka ya meza",Mchanga huinuka katika rundo.,1732
+sw,"Kama mchanga hupanda, hatimaye hufikia pembe ya mchanga na pia inafikia mipaka ya meza",Mchanga huwa laini na nyororo.,1733
+sw,"Kama mchanga hupanda, hatimaye hufikia pembe ya mchanga na pia inafikia mipaka ya meza",Mchanga unachotwa na buldoza.,1734
+sw,"Angahewa imepanuka, kwa kweli, zaidi au chini imeendelea kulipuka, ndani ya kupanuka milele karibu iwezekanavyo.",Biosphere ilikuwa maili elfu moja.,1735
+sw,"Angahewa imepanuka, kwa kweli, zaidi au chini imeendelea kulipuka, ndani ya kupanuka milele karibu iwezekanavyo.",'Biosphere' ilikua.,1736
+sw,"Angahewa imepanuka, kwa kweli, zaidi au chini imeendelea kulipuka, ndani ya kupanuka milele karibu iwezekanavyo.",'Biosphere' hupungua,1737
+sw,"Si ajabu, sio, kwamba hatujali kipaumbele cha sifa kubwa sana za ulimwengu mbele ya pua yetu ya pamoja?",Kila wakati tunakuwa makini kwa kila kitu.,1744
+sw,"Si ajabu, sio, kwamba hatujali kipaumbele cha sifa kubwa sana za ulimwengu mbele ya pua yetu ya pamoja?",Hatutazami kinachofurahisha sana?,1745
+sw,"Si ajabu, sio, kwamba hatujali kipaumbele cha sifa kubwa sana za ulimwengu mbele ya pua yetu ya pamoja?",Tusiangalie jengo hilo maarufu?,1746
+sw,"Matarajio mantiki yalikua,ndani, na nje ya jaribio la kutaka kuelewa halisia ya biashara katika soko la hisa.",Watu zaidi na zaidi walianza biashara ya hisa mtandaoni.,1747
+sw,"Matarajio mantiki yalikua,ndani, na nje ya jaribio la kutaka kuelewa halisia ya biashara katika soko la hisa.",Hakuna aliyekuwa na nia ya kufanya biashara katika soko la hisa.,1748
+sw,"Matarajio mantiki yalikua,ndani, na nje ya jaribio la kutaka kuelewa halisia ya biashara katika soko la hisa.",Watu walikuwa wanajaribu kusoma hali ya kuuza kwa soko las hisa.,1749
+sw,Uhusiano kati ya haki na uhuru umetupiliwa mbali.,Huwezi kuwa na haki bila uhuru.,1753
+sw,Uhusiano kati ya haki na uhuru umetupiliwa mbali.,Haki na uhuru havihusiani kamwe.,1754
+sw,Uhusiano kati ya haki na uhuru umetupiliwa mbali.,Kuna uhusiano kati ya haki zako na uhuru.,1755
+sw,"Wasikilizaji hawaonekani; kila mtazamaji ako katika chumba chake kidogo, kinachoitwa sebule.",Watazamaji wamefichwa kwa sababu ya vyemba.,1768
+sw,"Wasikilizaji hawaonekani; kila mtazamaji ako katika chumba chake kidogo, kinachoitwa sebule.",Unaweza kuona hadhira.,1769
+sw,"Wasikilizaji hawaonekani; kila mtazamaji ako katika chumba chake kidogo, kinachoitwa sebule.",Hauwezi kuwaona hadhira.,1770
+sw,Mwishowaubepari wa mashamba makubwa unaweza kuwa umekuja kwa njia ya salama kama kufa kwa Kikomunisti Uropa.,Uharibifu wa mimea umekamilika.,1777
+sw,Mwishowaubepari wa mashamba makubwa unaweza kuwa umekuja kwa njia ya salama kama kufa kwa Kikomunisti Uropa.,Mashamba ya ukabila ni mabaya.,1778
+sw,Mwishowaubepari wa mashamba makubwa unaweza kuwa umekuja kwa njia ya salama kama kufa kwa Kikomunisti Uropa.,Hakukuwa na mwisho wa ukomunisti huko Ulaya.,1779
+sw,Naanza maisha na majaliwa ya mapera mia moja na matofaa elfu moja.,Nina pears zaidi kuliko apples.,1780
+sw,Naanza maisha na majaliwa ya mapera mia moja na matofaa elfu moja.,Niko na kitu cha kukula.,1781
+sw,Naanza maisha na majaliwa ya mapera mia moja na matofaa elfu moja.,babangu alinipa tunda,1782
+sw,Moyo wako ni kam ulikuwa umepangwia kugundua upandaji wa tetemeko la tetemeko la ardhi.,Vitubu vya tetemeko la ardhi vinaweza kusikika na kila mtu.,1792
+sw,Moyo wako ni kam ulikuwa umepangwia kugundua upandaji wa tetemeko la tetemeko la ardhi.,Tetemeko la ardhi linawajibika.,1793
+sw,Moyo wako ni kam ulikuwa umepangwia kugundua upandaji wa tetemeko la tetemeko la ardhi.,Moyo wako hauwezi gundua tetemeko la ardhi.,1794
+sw,Diego alifuta maelekezo yake na kwa upeo wa mlima akapata maua mazuri ya Castile yamefunikwa na umande.,Diego hakutaka kufuata maagizo.,1801
+sw,Diego alifuta maelekezo yake na kwa upeo wa mlima akapata maua mazuri ya Castile yamefunikwa na umande.,Diego alikataa kufanya chenye alisema.,1802
+sw,Diego alifuta maelekezo yake na kwa upeo wa mlima akapata maua mazuri ya Castile yamefunikwa na umande.,Kulikua na maua ya waridi juu ya kilima.,1803
+sw,"Kanda ya kusini-magharibi iliyokuwa na uchunguzi na kumbukumbu zaidi ya kuhusiana na taratibu za harusi huko New Mexico, kwa sababu wazazi wa Hispania ya awali wamekuwa na ufahamu wa kuelezea na kuandika mila zao.",Hakuna rekodi iliyobaki ya mila ya wahispania ya mwanzo,1807
+sw,"Kanda ya kusini-magharibi iliyokuwa na uchunguzi na kumbukumbu zaidi ya kuhusiana na taratibu za harusi huko New Mexico, kwa sababu wazazi wa Hispania ya awali wamekuwa na ufahamu wa kuelezea na kuandika mila zao.","Wajukuu wa Wahispano wa kitambo, waliandika kwa kutumia manyoya",1808
+sw,"Kanda ya kusini-magharibi iliyokuwa na uchunguzi na kumbukumbu zaidi ya kuhusiana na taratibu za harusi huko New Mexico, kwa sababu wazazi wa Hispania ya awali wamekuwa na ufahamu wa kuelezea na kuandika mila zao.",Kuna ushahidi kwamba wazao wa Hispania wa kwanza wangeweza kuandika.,1809
+sw,"Leo neno barbacoa hutumiwa tu kumaanisha kupikia nyama ndani ya shimo, pia huitwa kupikia shimo.",Neno barbacoa hutumiwa kumaanisha uokaji mboga katika tanuri.,1813
+sw,"Leo neno barbacoa hutumiwa tu kumaanisha kupikia nyama ndani ya shimo, pia huitwa kupikia shimo.",Neno barbacoa lilitumika kwanza huko Misri ya kale.,1814
+sw,"Leo neno barbacoa hutumiwa tu kumaanisha kupikia nyama ndani ya shimo, pia huitwa kupikia shimo.",Kulikuwa na angalau maneno mawili yaliyomaanisha kupika nyama katika shimo,1815
+sw,"Na bado leo, udhanifu wa kawaida ni kwamba maafisa wetu wanaweza kuaminika na madhubuti ya kirangi na kikabila ya ramani ya nchi ya marekani.",Udhanifu kuwa viongozi  wana ukabila  na ukafiri sio wa kweli.,1819
+sw,"Na bado leo, udhanifu wa kawaida ni kwamba maafisa wetu wanaweza kuaminika na madhubuti ya kirangi na kikabila ya ramani ya nchi ya marekani.",Kuna dhana la kawaida kuhusu maafisa wetu.,1820
+sw,"Na bado leo, udhanifu wa kawaida ni kwamba maafisa wetu wanaweza kuaminika na madhubuti ya kirangi na kikabila ya ramani ya nchi ya marekani.",Hakuna dhana ya kawaida leo.,1821
+sw,"Kwa jumuiya ya mataifa, yaliyo tambuliwa, usawa, tunasema, kuhusiana na haki za kupiga kura katika Mkutano Mkuu wa Umoja wa Mataifa 'hupata kawaida ya kutekelezwa kwa urahisi.",Kila taifa lina haki ya kupiga kura.,1825
+sw,"Kwa jumuiya ya mataifa, yaliyo tambuliwa, usawa, tunasema, kuhusiana na haki za kupiga kura katika Mkutano Mkuu wa Umoja wa Mataifa 'hupata kawaida ya kutekelezwa kwa urahisi.",Hakuna haki za kupiga kura.,1826
+sw,"Kwa jumuiya ya mataifa, yaliyo tambuliwa, usawa, tunasema, kuhusiana na haki za kupiga kura katika Mkutano Mkuu wa Umoja wa Mataifa 'hupata kawaida ya kutekelezwa kwa urahisi.",Kuna haki za kupiga kura.,1827
+sw,Tatizo la unyonyaji katika mahusiano ya ngono ya kujitolea kwa muda mrefu imekuwa na sisi.,Tatizo la unyonyaji linakua bora.,1843
+sw,Tatizo la unyonyaji katika mahusiano ya ngono ya kujitolea kwa muda mrefu imekuwa na sisi.,Kunaweza kuwa unyonyaji katika mahusiano ya ngono ambayo ni ya kwa hiari.,1844
+sw,Tatizo la unyonyaji katika mahusiano ya ngono ya kujitolea kwa muda mrefu imekuwa na sisi.,Hakuna unyanyasaji katika mahusiano ya ngono ambayo ni ya hiari.,1845
+sw,Wakati hii inafanyika sala zinarejelewa.,Hakuna anayeomba.,1849
+sw,Wakati hii inafanyika sala zinarejelewa.,vitu vingine hutendeka maombi yakisemwa,1850
+sw,Wakati hii inafanyika sala zinarejelewa.,Maombi hutamkwa nguo zinapooshwa.,1851
+sw,Vaquero au Buckaroo ni wa magharibi na babe ni wa kusini.,Cowboy ni jamaa wa kaskazini,1858
+sw,Vaquero au Buckaroo ni wa magharibi na babe ni wa kusini.,Mchunga mifugo huyo ametoka eneo la kusini.,1859
+sw,Vaquero au Buckaroo ni wa magharibi na babe ni wa kusini.,Huyo kijana ametoka kusini mwa Marekani.,1860
+sw,"Wanachama wa klabu za gari hujulikana kama clubbers, na wanashindana kwa nyara, huendesha misafara ya gari, na mara nyingi hushiriki katika matukio ya kuchanga pesa.",Wanachama wa vilabu vya gari hushiriki katika mashindano.,1867
+sw,"Wanachama wa klabu za gari hujulikana kama clubbers, na wanashindana kwa nyara, huendesha misafara ya gari, na mara nyingi hushiriki katika matukio ya kuchanga pesa.",wanachama wa vilabu vya magari hawaendeshi,1868
+sw,"Wanachama wa klabu za gari hujulikana kama clubbers, na wanashindana kwa nyara, huendesha misafara ya gari, na mara nyingi hushiriki katika matukio ya kuchanga pesa.",Wanachama wa chama cha wauza magari.,1869
+sw,"Wakati wa miaka ya shule ya chekechea na ya msingi, mawazo huwa yanafungwa kwa hapa-na-sasa.",Watoto wenye umri wa shule ya msingi na chekechea huota ndoto kuhusu siku zijazo.,1870
