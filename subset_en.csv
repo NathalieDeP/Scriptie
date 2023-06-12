@@ -1,626 +1,626 @@
-language,gold_label,sentence1,sentence2,pairID
-en,contradiction,"Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.",I havent spoken to him again.,4
-en,entailment,"Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.",I was so upset that I just started talking to him again.,5
-en,neutral,"Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.",We had a great talk.,6
-en,neutral,"And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.",I was not aware that I was not the only person to be at the field that day.,7
-en,entailment,"And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.",I was under the impression that I was the only one with that number at the AFFC Air Force Career field.,8
-en,contradiction,"And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.","We all were given the same exact number no matter what privileges we were promised to be granted, it was all a lie.",9
-en,contradiction,"They told me that, uh, that I would be called in a guy at the end for me to meet.",I was never told anything about meeting anyone.,10
-en,entailment,"They told me that, uh, that I would be called in a guy at the end for me to meet.",I was told a guy would be called in for me to meet.,11
-en,neutral,"They told me that, uh, that I would be called in a guy at the end for me to meet.",The guy showed up a bit late.,12
-en,contradiction,There's so much you could talk about on that I'll just skip that.,I want to tell you everything I know about that!,13
-en,entailment,There's so much you could talk about on that I'll just skip that.,"I won't talk about that, even though there's a lot to cover.",14
-en,neutral,There's so much you could talk about on that I'll just skip that.,I wont talk about the history of the city because there's too much to say.,15
-en,contradiction,"That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.",We didn't care about saving anything.,19
-en,entailment,"That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.",We wanted to save one thing more than the rest.,20
-en,neutral,"That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.",We wanted to save the h-bomb because it was so hard to deal with.,21
-en,contradiction,So I'm not really sure why.,I am certain as to the reason why.,28
-en,neutral,So I'm not really sure why.,I don't know why he transferred schools.,29
-en,entailment,So I'm not really sure why.,I don't know why that happened.,30
-en,contradiction,"This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.",Fannie Flono had to reschedule and is unable to tell us any stories today.,34
-en,entailment,"This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.","Fannie Flono is here and she is going to speak to us about her childhood stories from growing up in Augusta, GA.",35
-en,neutral,"This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.",Fannie Flono was able to speak to us today despite her busy schedule.,36
-en,entailment,"And I had put uh, five detachments out of U2's.",I dealt with the U2's.,40
-en,contradiction,"And I had put uh, five detachments out of U2's.",I didn't' deal with the U2's at all.,41
-en,neutral,"And I had put uh, five detachments out of U2's.",I worked with the detachments for the U2's every day for forty years.,42
-en,neutral,"I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.",I didn't like being the only one to run the regulators for the tests.,43
-en,entailment,"I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.",Tests were done in the miniature altitude chambers.,44
-en,contradiction,"I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.",There were a few of us who ran the regulators for the test.,45
-en,contradiction,"I'm uh, Chief Master Sergeant, retired, as Rick said.",I am still working to this day.,46
-en,neutral,"I'm uh, Chief Master Sergeant, retired, as Rick said.",I retired in 2002.,47
-en,entailment,"I'm uh, Chief Master Sergeant, retired, as Rick said.",Rick told you I was retired.,48
-en,neutral,"There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.",The client named Cutty makes $10000 a month.,52
-en,entailment,"There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.",There is a client named Cutty.,53
-en,contradiction,"There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.",We don't have any clients called Cutty.,54
-en,entailment,The girl that can help me is all the way across town.,The girl I need help from lives a ways away.,55
-en,neutral,The girl that can help me is all the way across town.,The girl who is going to help me is 5 miles away.,56
-en,contradiction,The girl that can help me is all the way across town.,There is no one who can help me.,57
-en,contradiction,"But they were divided about like who were the field hands and who were the house kids, it was kind of--",They all agreed that they'd all work in the fields.,61
-en,entailment,"But they were divided about like who were the field hands and who were the house kids, it was kind of--",They couldn't agree about who was a field hand and who belonged in the house.,62
-en,neutral,"But they were divided about like who were the field hands and who were the house kids, it was kind of--",They couldn't agree who should work in the cotton field and who should mop the floors.,63
-en,contradiction,"Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.",He has decided not to talk anymore.,67
-en,neutral,"Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.",He talks about three different submarines.,68
-en,entailment,"Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.",He talks about three things.,69
-en,contradiction,"I mean they only had, like, they had five children, one of them died.",All of their children survived.,70
-en,entailment,"I mean they only had, like, they had five children, one of them died.",One child died out of the five.,71
-en,neutral,"I mean they only had, like, they had five children, one of them died.",The child who died was born sickly.,72
-en,entailment,"And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.",The U2 took a lot of film.,73
-en,neutral,"And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.",The U2 took a ton of film from under the water.,74
-en,contradiction,"And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.","We had no footage, so we just had to guess.",75
-en,entailment,"She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.",As she told him to come up the porch she had tears in her eyes.,76
-en,contradiction,"She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.",She quickly wiped away the tears after flinging Joe off the porch.,77
-en,neutral,"She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.",She was so happy to see Joe that she started to cry.,78
-en,neutral,"Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.",The radiation can be contained during a fire as well.,79
-en,entailment,"Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.",The radiation would leak out from a lead component after the aircraft burned.,80
-en,contradiction,"Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.",The radiation would not leak out during a fire.,81
-en,entailment,"This is Chief Master Sergeant Clem Francis, retired from the US Air Force.",The Chief is retired from the US Air Force.,88
-en,neutral,"This is Chief Master Sergeant Clem Francis, retired from the US Air Force.",The Chief just recently retired a few weeks ago.,89
-en,contradiction,"This is Chief Master Sergeant Clem Francis, retired from the US Air Force.",The US Air Force Chief just started his career this week.,90
-en,entailment,Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.,More than one aircraft arrive every week.,91
-en,neutral,Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.,The increased aircraft traffic is troublesome.,92
-en,contradiction,Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.,There are never any aircraft arriving.,93
-en,neutral,They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.,It takes up to three months to complete training on the use of a full pressure suit.,94
-en,entailment,They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.,Training to use a full pressure suit takes time.,95
-en,contradiction,They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.,We could have you trained to use a full pressure suit by the end of the day.,96
-en,neutral,"I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.",The bomb had been deactivated by the pilot.,106
-en,entailment,"I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.",The bomb had no chance of exploding.,107
-en,contradiction,"I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.",There was a great danger of the bomb exploding.,108
-en,contradiction,And how about it looks like exactly what I'm trying to do.,I'm not sure what this looks like to you.,109
-en,entailment,And how about it looks like exactly what I'm trying to do.,"I'm trying to do this, obviously.",110
-en,neutral,And how about it looks like exactly what I'm trying to do.,I'm trying to finish my project in the next week.,111
-en,neutral,"But anyway, the animals would get loose all the time, especially the goats.",The goats escaped from the barn every day.,112
-en,entailment,"But anyway, the animals would get loose all the time, especially the goats.",The goats escaped often.,113
-en,contradiction,"But anyway, the animals would get loose all the time, especially the goats.",The goats were kept safe and secure.,114
-en,contradiction,The doors were locked when we went in.,All of the doors were open.,118
-en,neutral,The doors were locked when we went in.,We had the keys with us.,119
-en,entailment,The doors were locked when we went in.,We went in even though the doors were locked.,120
-en,neutral,So I just had to take the totals and try and figure it like that.,I feel confident that the totals are all I need to get this figured out.,127
-en,contradiction,So I just had to take the totals and try and figure it like that.,I have no clue what to do with just the totals please give me more details to figure out this mess.,128
-en,entailment,So I just had to take the totals and try and figure it like that.,I will calculate it based off of the totals.,129
-en,contradiction,"He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.",He was so excited and bursting with joy that he practically knocked the door off it's frame.,130
-en,neutral,"He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.",He was trying not to make us feel guilty but we knew we had caused him trouble.,131
-en,entailment,"He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.",Just by the look on his face when he came through the door I just knew that he was let down.,132
-en,entailment,"So, I don't have any specific stories.",I dont have a particular store.,133
-en,contradiction,"So, I don't have any specific stories.",I have 1 specific store.,134
-en,neutral,"So, I don't have any specific stories.",There are a lot of stores.,135
-en,entailment,"And it was, he never really had to do anything for himself.",He gets a lot of help.,142
-en,neutral,"And it was, he never really had to do anything for himself.",He gets help with his meals and clothes.,143
-en,contradiction,"And it was, he never really had to do anything for himself.",He is very independent.,144
-en,contradiction,"So I'm like, Oh my gosh, and Ramona was standing there.",Ramona was on the floor curled up in a fetal position.,148
-en,neutral,"So I'm like, Oh my gosh, and Ramona was standing there.",Ramona was silently judging me.,149
-en,entailment,"So I'm like, Oh my gosh, and Ramona was standing there.",Ramona was upright while I was there in awe.,150
-en,neutral,And the fact is she was light!,"She ate a lot of food, but still kept her weight down.",154
-en,entailment,And the fact is she was light!,She did not weigh much at all.,155
-en,contradiction,And the fact is she was light!,She was very happy.,156
-en,neutral,I don't know whether he stayed in Augusta after that.,He continued to live in Augusta even after the attacks.,163
-en,entailment,I don't know whether he stayed in Augusta after that.,He continued to live in Augusta.,164
-en,contradiction,I don't know whether he stayed in Augusta after that.,He moved outside of Augusta right away.,165
-en,neutral,"All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.",I never asked where they were going.,166
-en,contradiction,"All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.",They always let us know where they were and where they were going.,167
-en,entailment,"All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.",They never told us where they were going.,168
-en,contradiction,"They said, We're paying for a place for you to stay.",They won't pay for anything forus.,175
-en,neutral,"They said, We're paying for a place for you to stay.",They're paying for housing for me and my siblings.,176
-en,entailment,"They said, We're paying for a place for you to stay.",They're paying for housing.,177
-en,entailment,"Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.",Kennedy told our troops to look for missiles.,178
-en,contradiction,"Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.",They didn't stop any ships because they didn't want conflict.,179
-en,neutral,"Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.",They found 20 missiles on the ship.,180
-en,neutral,Anyhow the man comes in.,The man entered the courtroom.,181
-en,entailment,Anyhow the man comes in.,The man entered the room.,182
-en,contradiction,Anyhow the man comes in.,The man ran the other way.,183
-en,neutral,"Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.",It took a long time to drive to my grandparent's house.,184
-en,entailment,"Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.",My grandparents were a very loving couple.,185
-en,contradiction,"Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.",My grandparents were always very cranky and we never liked going to their house.,186
-en,neutral,I didn't have time to enter in all kinds of whatever.,I could have finished entering it in later.,196
-en,contradiction,I didn't have time to enter in all kinds of whatever.,I entered it in all on time.,197
-en,entailment,I didn't have time to enter in all kinds of whatever.,I ran out of time to enter it all in.,198
-en,contradiction,"And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.",The atomic bomb has no trigger.,199
-en,entailment,"And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.",The trigger detonates the bomb when it's pulled.,200
-en,neutral,"And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.",You only need a tiny bit of force to pull the atomic bomb trigger.,201
-en,neutral,"My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.",I always enjoyed listening to my grandmother's stories.,202
-en,contradiction,"My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.",My grandmother always refused to talk about her childhood.,203
-en,entailment,"My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.",My grandmother told me lots of stuff about her family during the time that she was growing up.,204
-en,contradiction,"We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.",Our suits were nothing like what the astronauts had.,205
-en,entailment,"We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.","Our suits were the same as the astronauts except to reflect heat, ours were silver.",206
-en,neutral,"We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.",You can get the suits in any color you want.,207
-en,entailment,"And he was, my grandfather was not a nice man.",My grandpa was a jerk.,208
-en,neutral,"And he was, my grandfather was not a nice man.",My grandpa was really racist and mean.,209
-en,contradiction,"And he was, my grandfather was not a nice man.",My grandpa was the nicest guy you'll ever meet!,210
-en,contradiction,"It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.",We had no training with anyone.,211
-en,neutral,"It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.",We trained for 5 weeks with the British.,212
-en,entailment,"It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.",We trained with a lot of other soldiers.,213
-en,contradiction,"So, she's like, Well look, look up this in such and such company.",She didn't speak to me.,214
-en,entailment,"So, she's like, Well look, look up this in such and such company.",She told me to look something up.,215
-en,neutral,"So, she's like, Well look, look up this in such and such company.",She told me to look up their financing information.,216
-en,neutral,He said that they had gone up North.,He said the made a few stops along the way.,217
-en,contradiction,He said that they had gone up North.,He said they went down South.,218
-en,entailment,He said that they had gone up North.,He said they went up North.,219
-en,neutral,"Um, no, to be honest, I never read any of the books I was supposed to.",I haven't read any books longer than 100 pages.,235
-en,entailment,"Um, no, to be honest, I never read any of the books I was supposed to.",I haven't read many books.,236
-en,contradiction,"Um, no, to be honest, I never read any of the books I was supposed to.",I read books every day.,237
-en,contradiction,I go ahead and picked the baggage and went to the address I was supposed to.,I left the bag and figured it wasn't my problem.,238
-en,neutral,I go ahead and picked the baggage and went to the address I was supposed to.,I took the bag to his apartment.,239
-en,entailment,I go ahead and picked the baggage and went to the address I was supposed to.,I took the bag to where it belonged.,240
-en,contradiction,It was an amazing mood swing.,Her mood stayed completely consistent.,241
-en,neutral,It was an amazing mood swing.,She went from happy to sad.,242
-en,entailment,It was an amazing mood swing.,The mood changed a lot.,243
-en,contradiction,"They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.",I was not chosen to attend the school.,244
-en,entailment,"They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.",I was picked to go to that school.,245
-en,neutral,"They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.",I was the most credible candidate.,246
-en,neutral,"They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.",Most people fail tests and never get to fly U2s.,247
-en,entailment,"They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.",They have to go through a lot of training before they fly U2's.,248
-en,contradiction,"They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.",They just let you fly U2s on the first day.,249
-en,contradiction,I'm covering the same stuff.,I cover completely new material.,253
-en,neutral,I'm covering the same stuff.,I cover the same stuff as the other magazines.,254
-en,entailment,I'm covering the same stuff.,I'm talking about the same things they did.,255
-en,contradiction,"This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.",Military units aren't allowed to be TX Ambassadors.,256
-en,neutral,"This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.",The military unit was named TX Ambassadors to the US Congress.,257
-en,entailment,"This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.",The military unit was named TX Ambassadors.,258
-en,entailment,If there was anything I could do.,I could do something.,259
-en,contradiction,If there was anything I could do.,I knew there was nothing i could do.,260
-en,neutral,If there was anything I could do.,I think I could have done something to save him.,261
-en,contradiction,"She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.",She always encouraged her sister.,262
-en,neutral,"She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.",She made it clear that her sister couldn't do anything right.,263
-en,entailment,"She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.",She was very critical of her sister.,264
-en,neutral,So I went to her house and then I called in to this number I was supposed to call when I got there.,I borrowed her phone to make the call.,268
-en,entailment,So I went to her house and then I called in to this number I was supposed to call when I got there.,I called the number when I arrived at her house.,269
-en,contradiction,So I went to her house and then I called in to this number I was supposed to call when I got there.,"I was supposed to call, but I didn't.",270
-en,contradiction,"Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.",I didn't go today so I didn't see him.,271
-en,neutral,"Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.",I showed up at the gym today and he came in later and said hi.,272
-en,entailment,"Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.","I showed up this morning and he came, too.",273
-en,neutral,We didn't know where they were going.,We didn't know where the group was traveling on the interstate.,274
-en,entailment,We didn't know where they were going.,We didn't know where the people were traveling to.,275
-en,contradiction,We didn't know where they were going.,we knew just where they were headed.,276
-en,contradiction,"But I was like, forget it, I'm going to eat lunch I was hungry.",I had no appetite at all.,277
-en,entailment,"But I was like, forget it, I'm going to eat lunch I was hungry.",I was hungry so i decided to eat my lunch.,278
-en,neutral,"But I was like, forget it, I'm going to eat lunch I was hungry.",I was starving so I went to the cafeteria.,279
-en,entailment,So and let me tell you I got to the point today where I was about to quit.,I almost ended up quitting.,283
-en,neutral,So and let me tell you I got to the point today where I was about to quit.,I had taken so much grief from them that I couldn't take it any more.,284
-en,contradiction,So and let me tell you I got to the point today where I was about to quit.,It never entered my mind to quit.,285
-en,entailment,"He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.",He was born before 1900.,292
-en,neutral,"He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.",He was born in december of 1880.,293
-en,contradiction,"He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.",He wasn't born until 1984.,294
-en,entailment,You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.,That screw can hurt someone's lungs.,295
-en,contradiction,You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.,"The screw carries no risks, so tighten it as much as you want.",296
-en,neutral,You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.,The screw goes into the trachea and can hurt the lungs.,297
-en,entailment,"I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.","I got sent to Del Rio, Texas for work.",298
-en,contradiction,"I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.",I have never been to texas.,299
-en,neutral,"I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.","The Air Force sent me to Del Rio, Tx in 2001.",300
-en,neutral,Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.,The kids drank 3 bottles of champagne.,301
-en,entailment,Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.,The kids drank some of the champagne.,302
-en,contradiction,Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.,The whole party was dry and no alcohol was served.,303
-en,contradiction,There are many stories in the naked city.,I haven't heard any stories.,304
-en,neutral,There are many stories in the naked city.,There are a lot of stories about the military.,305
-en,entailment,There are many stories in the naked city.,There are a lot of stories that get told.,306
-en,contradiction,"You live and learn, you know, when you test, uh, aircraft.",I don't know anything about testing aircraft.,307
-en,entailment,"You live and learn, you know, when you test, uh, aircraft.",Testing aircraft teaches you a lot of lessons.,308
-en,neutral,"You live and learn, you know, when you test, uh, aircraft.",Testing aircraft teaches you how to handle pressure.,309
-en,contradiction,I mean that was the whole point.,I don't understand the point.,310
-en,neutral,I mean that was the whole point.,I think the point was to tell us how dangerous it was.,311
-en,entailment,I mean that was the whole point.,I understood the point.,312
-en,contradiction,"It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.",All of the planes survived without being shot at.,313
-en,entailment,"It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.",Something was shot down over Cuba.,314
-en,neutral,"It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.",The huge airliner was shot down over Cuba in May.,315
-en,contradiction,"It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.",I don't really have any memories of my childhood.,319
-en,neutral,"It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.",I still feel bad to this day.,320
-en,entailment,"It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.",It was one of my earliest memories.,321
-en,neutral,"They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.",It was hard to be black in the south.,322
-en,contradiction,"They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.",It was so easy to be black!,323
-en,entailment,"They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.",It wsa hard to be black back then.,324
-en,contradiction,Nobody knew where they went.,Everyone knew exactly where they were going.,331
-en,neutral,Nobody knew where they went.,No one knew what house they went into.,332
-en,entailment,Nobody knew where they went.,Their destination was a secret.,333
-en,contradiction,And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.,People had no clue that they weren't white people.,334
-en,neutral,And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.,People were aware that they were African American.,335
-en,entailment,And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.,People were aware that they weren't white.,336
-en,entailment,"Yeah, well, the guy's here.",The guy is present.,337
-en,neutral,"Yeah, well, the guy's here.",The guy just showed up 2 minutes ago.,338
-en,contradiction,"Yeah, well, the guy's here.",The guy never came here.,339
-en,contradiction,We were watching something on TV.,We didnt own a tv.,340
-en,entailment,We were watching something on TV.,We were looking at the TV.,341
-en,neutral,We were watching something on TV.,We were watching the TV news.,342
-en,contradiction,"So anyhow, I think I spoke to Ramona again.",I have never talked to Ramona.,343
-en,entailment,"So anyhow, I think I spoke to Ramona again.",I talked to Ramona another time.,344
-en,neutral,"So anyhow, I think I spoke to Ramona again.",It was an enjoyable conversation.,345
-en,contradiction,"He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.",10000 people died in the Cuban Crisis.,352
-en,entailment,"He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.",Only one person died in the Cuban Crisis.,353
-en,neutral,"He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.",Only one person was killed in a crash in the Cuban Crisis.,354
-en,contradiction,"Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.",She said she was totally clueless.,355
-en,entailment,"Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.",She said that she knew more about life.,356
-en,neutral,"Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.",She told me I didn't have a clue how the real world worked and I should follow her.,357
-en,neutral,"Then I get it and I'm like great, What do I do with it?",I don't know how I was supposed to use the contraption.,358
-en,entailment,"Then I get it and I'm like great, What do I do with it?",I don't know what I was supposed to use it for.,359
-en,contradiction,"Then I get it and I'm like great, What do I do with it?",I knew just what to use it for!,360
-en,contradiction,"Just give me a minute if you want to cut it off, I'd, uh, go.",I am ready to go right now.,367
-en,entailment,"Just give me a minute if you want to cut it off, I'd, uh, go.",I need a minute here.,368
-en,neutral,"Just give me a minute if you want to cut it off, I'd, uh, go.",I need a minute to collect my thoughts.,369
-en,contradiction,"So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.",I have never been to Washington DC.,370
-en,neutral,"So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.",I went to DC to see my supervisor.,371
-en,entailment,"So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.",I went to the nation's capital.,372
-en,contradiction,She was a light-skinned black person.,She had incredibly dark skin.,376
-en,entailment,She was a light-skinned black person.,She had light skin for an African-American person.,377
-en,neutral,She was a light-skinned black person.,She was lighter than the rest of her black friends.,378
-en,neutral,"So anyway, Dad goes and makes this nice big glass of chocolate milk for me.",Dad got me some chocolate milk from the fridge.,379
-en,entailment,"So anyway, Dad goes and makes this nice big glass of chocolate milk for me.",Dad poured me a glass of milk.,380
-en,contradiction,"So anyway, Dad goes and makes this nice big glass of chocolate milk for me.",Dad said I wasn't allowed to have a drink.,381
-en,contradiction,The DOT had to buy the property and stuff.,The DOT was able to find a different property that they could rent instead.,382
-en,entailment,The DOT had to buy the property and stuff.,The property and equipment was purchased by the DOT.,383
-en,neutral,The DOT had to buy the property and stuff.,The property cost more than three million dollars for the DOT to purchase.,384
-en,neutral,He would have been born,He was supposed to be born on December 2010.,391
-en,entailment,He would have been born,He was supposed to be born.,392
-en,contradiction,He would have been born,He wasn't supposed to be born.,393
-en,contradiction,"I'm like, I know how far I've gotten.",I told them I didn't know what I was doing.,397
-en,neutral,"I'm like, I know how far I've gotten.",I told them I knew I had beat their expectations by 40%.,398
-en,entailment,"I'm like, I know how far I've gotten.",I told them I know what i've achieved.,399
-en,entailment,"OK, can you hear me?",Can you hear me right now?,400
-en,neutral,"OK, can you hear me?",Can you hear what I'm saying?,401
-en,contradiction,"OK, can you hear me?",I know you can't hear me.,402
-en,neutral,"Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?",DId you like Harry Potter books or no?,409
-en,entailment,"Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?",Did you like or hate certain books?,410
-en,contradiction,"Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?",I know you loved every book you read.,411
-en,entailment,"It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.",The screw affects the pressure.,415
-en,neutral,"It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.",The screw is tiny and silver.,416
-en,contradiction,"It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.","There are no screws, just buttons.",417
-en,contradiction,"She's like, Don't worry about it, you know, just take your time.",She told me i needed to hurry up right away.,418
-en,neutral,"She's like, Don't worry about it, you know, just take your time.",She told me it was fine if it took me hours to do it.,419
-en,entailment,"She's like, Don't worry about it, you know, just take your time.",She told me just to slow down.,420
-en,contradiction,"President Kennedy says to the pilots, says, Gentlemen you take good pictures.",Kennedy didnt acknowldge them.,421
-en,neutral,"President Kennedy says to the pilots, says, Gentlemen you take good pictures.",Kennedy spoke to the Air Force pilots.,422
-en,entailment,"President Kennedy says to the pilots, says, Gentlemen you take good pictures.",Kennedy talked to the pilots.,423
-en,neutral,"And I was like, I'm almost done.",I told him I would be done in 10 minutes.,424
-en,contradiction,"And I was like, I'm almost done.",I told him I'd never finish.,425
-en,entailment,"And I was like, I'm almost done.",I told them i was almost finished.,426
-en,entailment,I tried to jot everything down.,I aimed to write things down.,427
-en,contradiction,I tried to jot everything down.,I didn't bother to write anything down.,428
-en,neutral,I tried to jot everything down.,I wrote down every work she said.,429
-en,neutral,"No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.","She was born January 1, 1900.",430
-en,entailment,"No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.",She was born at the turn of the century,431
-en,contradiction,"No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.",She wasn't born until 1943.,432
-en,neutral,So it was just really interesting.,I was very interested in how much I could eat.,436
-en,contradiction,So it was just really interesting.,I wasn't interested at all.,437
-en,entailment,So it was just really interesting.,It was interesting to me.,438
-en,neutral,"Her sister could pass for white, and in fact did pass for white.",Her sister had the fairest skin of anyone in the neighborhood.,439
-en,entailment,"Her sister could pass for white, and in fact did pass for white.",Her sister was usually assumed to be white.,440
-en,contradiction,"Her sister could pass for white, and in fact did pass for white.",Sher sister was very dark.,441
-en,neutral,"Well, he was almost, old enough to be her daddy.",He was 27 years older than her.,442
-en,contradiction,"Well, he was almost, old enough to be her daddy.",He was much younger than her.,443
-en,entailment,"Well, he was almost, old enough to be her daddy.",He was older than her.,444
-en,contradiction,"That, I was the only 922 which was life support man the other man was a physiological support.",No one gave any sort of support.,445
-en,neutral,"That, I was the only 922 which was life support man the other man was a physiological support.",One man gave physiological support to the troops.,446
-en,entailment,"That, I was the only 922 which was life support man the other man was a physiological support.",One man gave physiological support.,447
-en,contradiction,"And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.",I knew he wasn't going to come here at all.,448
-en,entailment,"And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.",I thought he was coming here to fight.,449
-en,neutral,"And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.",I thought he was going to complain about my tone.,450
-en,contradiction,"Well of, of course, needless to say, we had a, we could not make a mistake.",It's ok if we made a few errors.,451
-en,entailment,"Well of, of course, needless to say, we had a, we could not make a mistake.",We were not allowed to make a mistake.,452
-en,neutral,"Well of, of course, needless to say, we had a, we could not make a mistake.",We weren't allowed to spell anything incorrectly.,453
-en,entailment,"And, uh, but, uh, I would think, at night I couldn't sleep.",I had trouble sleeping at night.,454
-en,neutral,"And, uh, but, uh, I would think, at night I couldn't sleep.",I kept having bad dreams that kept me from sleeping.,455
-en,contradiction,"And, uh, but, uh, I would think, at night I couldn't sleep.",I sleep like a baby at night!,456
-en,neutral,One thing that she really had as a great defense.,She could defend herself against wild dogs.,457
-en,entailment,One thing that she really had as a great defense.,She could defend herself well.,458
-en,contradiction,One thing that she really had as a great defense.,She was incredibly vulnerable.,459
-en,contradiction,"Um, as far as never being told--",He told he everything i needed to know,460
-en,neutral,"Um, as far as never being told--",I wasn't told anything about the safety protocol.,461
-en,entailment,"Um, as far as never being told--",Sometimes I'm not told.,462
-en,entailment,"So he, we lived in this area.",Our home was around here.,463
-en,contradiction,"So he, we lived in this area.",Our home was far from this place.,464
-en,neutral,"So he, we lived in this area.",Our home was two blocks away.,465
-en,contradiction,And he's like talking all fast; he's on a cell phone.,He is speaking as slowly as he can.,466
-en,neutral,And he's like talking all fast; he's on a cell phone.,He's talking on an iPhone.,467
-en,entailment,And he's like talking all fast; he's on a cell phone.,He's talking on his cell phone.,468
-en,contradiction,I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.,I was really relaxed about starting school.,469
-en,entailment,I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.,I was worried about going to school,470
-en,neutral,I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.,I was worried about starting Kindergarten,471
-en,contradiction,"I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.",I lived in Texas.,475
-en,neutral,"I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.",I lived in a yellow house in Missouri.,476
-en,entailment,"I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.",I was in Missouri.,477
-en,entailment,"I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.",The Laughlin Air Force Base closed for a while.,481
-en,contradiction,"I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.",The Laughlin Air Force Base has always stayed open.,482
-en,neutral,"I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.","The Laughlin Air Force Base is home to 10,000 soldiers.",483
-en,neutral,I don't care how you do it.,I don't care which color you choose.,487
-en,contradiction,I don't care how you do it.,I need to approave every deal.,488
-en,entailment,I don't care how you do it.,I'm not interested in how you finish it.,489
-en,neutral,"So then I look up, I find out where Ramona's at, and I call her over there.",I called Ramona over to my house.,490
-en,entailment,"So then I look up, I find out where Ramona's at, and I call her over there.",I called Ramona over to where I was.,491
-en,contradiction,"So then I look up, I find out where Ramona's at, and I call her over there.",I ignored Ramona.,492
-en,neutral,"In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.",The Air Force bought 18 planes.,496
-en,entailment,"In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.",The Air Force bought planes.,497
-en,contradiction,"In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.",The Air Force didn't have any planes.,498
-en,neutral,So her sister's husband was light-skinned too?,Her sister is married to a black man.,499
-en,entailment,So her sister's husband was light-skinned too?,Her sister is married.,500
-en,contradiction,So her sister's husband was light-skinned too?,Her sister is single.,501
-en,contradiction,"But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.",She didn't change her behavior at all.,502
-en,entailment,"But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.",She never admitted that she was wrong.,503
-en,neutral,"But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.",She never said that she was right about the meatloaf.,504
-en,entailment,"My uncle, he's a great guy.",I like my uncle a lot.,508
-en,contradiction,"My uncle, he's a great guy.",My uncle is such a jerk!,509
-en,neutral,"My uncle, he's a great guy.",My uncle is very generous.,510
-en,neutral,"I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.",My brother in law was in the army.,511
-en,entailment,"I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.",My brother in law was in the service.,512
-en,contradiction,"I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.",My brother never enlisted.,513
-en,entailment,"I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!",I thought I was going to led someone else go instead.,514
-en,neutral,"I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!",I thought I was going to let someone take my place in the meeting.,515
-en,contradiction,"I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!",I wasn't going to let anyone else go.,516
-en,entailment,"One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.",He changes his mind a lot.,520
-en,neutral,"One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.",He changes his mind because he doesn't know what he's doing.,521
-en,contradiction,"One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.",He is very consistent and calm.,522
-en,entailment,"So anyway, um, he ended up coming in there and he was like, How's it coming along?",He asked how things were going.,526
-en,neutral,"So anyway, um, he ended up coming in there and he was like, How's it coming along?",He asked if we were finishing the documentary.,527
-en,contradiction,"So anyway, um, he ended up coming in there and he was like, How's it coming along?",He didn't speak to us at all.,528
-en,contradiction,"Then I was spinning my wheel for about, I don't know, it seemed like all day that day.",I hurried and got it over with quickly.,529
-en,neutral,"Then I was spinning my wheel for about, I don't know, it seemed like all day that day.",I sat there for two hours.,530
-en,entailment,"Then I was spinning my wheel for about, I don't know, it seemed like all day that day.",I spun my wheel for a long time.,531
-en,neutral,And she had tuberculosis and I never knew that either.,I didn't know she almost died of TB.,532
-en,entailment,And she had tuberculosis and I never knew that either.,I didn't know she had TB.,533
-en,contradiction,And she had tuberculosis and I never knew that either.,I knew she was very sick with TB.,534
-en,contradiction,"You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.",Counter pressure kills you every time.,535
-en,neutral,"You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.",You need counter pressure above 5000 feet.,536
-en,entailment,"You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.",You need to have counter pressure at that altitude.,537
-en,contradiction,"I started immediately, uh, uh, training into that from the other two guys that was at the location.",I never got training so I just figured it out as i went along.,547
-en,neutral,"I started immediately, uh, uh, training into that from the other two guys that was at the location.",Two guys trained me to work at that store.,548
-en,entailment,"I started immediately, uh, uh, training into that from the other two guys that was at the location.",Two guys trained me.,549
-en,contradiction,"If it was off one iota, you had to do some adjusting to the regulator itself.",The regulator was worthless.,556
-en,neutral,"If it was off one iota, you had to do some adjusting to the regulator itself.",The regulator would change the pressure of everything in your suit.,557
-en,entailment,"If it was off one iota, you had to do some adjusting to the regulator itself.",You'd have to tinker with the regulator.,558
-en,neutral,"Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.",I had set the injector on Tuesday.,559
-en,entailment,"Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.",I was a 922.,560
-en,contradiction,"Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.",I was never a 922.,561
-en,neutral,"She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--",She didn't understand that she was stuck with the guy forever even though she'd never met him.,562
-en,entailment,"She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--",She didn't understand what had happened.,563
-en,contradiction,"She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--",She knew what she was getting into.,564
-en,neutral,We would go in there.,We would enter there at 8pm.,565
-en,entailment,We would go in there.,We would enter.,566
-en,contradiction,We would go in there.,We would never go in.,567
-en,contradiction,"And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.",She treated everyone the same.,568
-en,entailment,"And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.",She treated the other grandchildren differently.,569
-en,neutral,"And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.",She treated the other grandkids differently because they were black.,570
-en,entailment,"It was really cool, and the dress kind of blew in the wind a little bit--",The dress was billowing in the wind.,571
-en,neutral,"It was really cool, and the dress kind of blew in the wind a little bit--",The dress was very short and blew around a bit.,572
-en,contradiction,"It was really cool, and the dress kind of blew in the wind a little bit--",There was no wind so the dress was still.,573
-en,neutral,"Uh, I spent much of my time in, uh, Special Activities.",I was in Special Activities every other day.,574
-en,entailment,"Uh, I spent much of my time in, uh, Special Activities.",I was in Special Activities.,575
-en,contradiction,"Uh, I spent much of my time in, uh, Special Activities.",I was never in Special Activities.,576
-en,entailment,"And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.",I asked how urgent it was.,577
-en,contradiction,"And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.",I knew the work needed to be done right now.,578
-en,neutral,"And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.",i asked if the client would be mad if it waited until 2pm because i had an appointment tonight.,579
-en,neutral,"But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.",They had twenty family members living in Evans.,580
-en,contradiction,"But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.",They lived in Atlanta.,581
-en,entailment,"But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.",They lived in Evans which is very small.,582
-en,neutral,"My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.",My sister said I was racist.,583
-en,entailment,"My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.",My sister said I wasn't always nice.,584
-en,contradiction,"My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.",My siter said I was nothing like my granny.,585
-en,neutral,"Um, then we moved to a new house.",We moved to a house we had built in the country.,586
-en,entailment,"Um, then we moved to a new house.",We relocated to a new residence.,587
-en,contradiction,"Um, then we moved to a new house.",We stayed in the same house our whole lives.,588
-en,contradiction,"I was like, OK, well that's good, you know, like that.",I said I hated it and disapproved greatly.,592
-en,neutral,"I was like, OK, well that's good, you know, like that.",I said I like the new version of the song.,593
-en,entailment,"I was like, OK, well that's good, you know, like that.",I said that I approved of it.,594
-en,entailment,"And the spots of paint would change every hundred degrees, it might be red, it change to blue.",The paint changes according to color.,595
-en,neutral,"And the spots of paint would change every hundred degrees, it might be red, it change to blue.",The paint changes so you can tell how hot it is without measuring it.,596
-en,contradiction,"And the spots of paint would change every hundred degrees, it might be red, it change to blue.",the paint is always black.,597
-en,neutral,"I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.",I ate the pizza in less than two minutes.,598
-en,contradiction,"I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.",I ate very slowly so i wouldn't get sick.,599
-en,entailment,"I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.",I scarfed the food down.,600
-en,entailment,Her sister's husband was light-skinned too.,Her brother in law was light colored.,604
-en,neutral,Her sister's husband was light-skinned too.,her brother in law was swedish.,605
-en,contradiction,Her sister's husband was light-skinned too.,her sister wasn't married.,606
-en,entailment,"Anyway, they come up with this invention of the high O2 regulator.",They invented a new regulator.,610
-en,neutral,"Anyway, they come up with this invention of the high O2 regulator.",They invented a regulator that worked in space.,611
-en,contradiction,"Anyway, they come up with this invention of the high O2 regulator.",They still couldn't figure out how to make a high O2 regulator.,612
-en,contradiction,"And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.",I have never been to Los Vegas in my life.,613
-en,entailment,"And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.",I have worked in both Las Vegas and Washington.,614
-en,neutral,"And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.",I worked as a cab driver in both of these cities.,615
-en,contradiction,"Ah, fourth grade was a lot of fun.",I hated every bit of school!,616
-en,neutral,"Ah, fourth grade was a lot of fun.",I liked fourth grade because we had two recesses.,617
-en,entailment,"Ah, fourth grade was a lot of fun.",I liked fourth grade.,618
-en,contradiction,"It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.",The page is just  one list of numbers.,619
-en,entailment,"It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.",The tabs have a lot of data.,620
-en,neutral,"It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.",The tabs show the current balance of every account.,621
-en,neutral,I don't care how you get it done.,I don't care if you do it yourself or hire it out.,625
-en,entailment,I don't care how you get it done.,I don't care what your method is.,626
-en,contradiction,I don't care how you get it done.,I need to know exactly how you will do this.,627
-en,neutral,And they moved to Mallard Creek in Charlotte.,They built a house on Mallard Creek.,631
-en,contradiction,And they moved to Mallard Creek in Charlotte.,They never moved to Charlotte.,632
-en,entailment,And they moved to Mallard Creek in Charlotte.,They then lived in Mallard Creek.,633
-en,neutral,"Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.",His dad was a Lutheran pastor.,637
-en,contradiction,"Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.",His dad was a convict who never went to church.,638
-en,entailment,"Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.",His dad was a pastor.,639
-en,neutral,"And I um, I didn't know how much detail he wanted.",I didn't know if he wanted information about the travel times.,643
-en,contradiction,"And I um, I didn't know how much detail he wanted.",I gave him every detail because I knew he wanted it.,644
-en,entailment,"And I um, I didn't know how much detail he wanted.",I wasn't sure how in depth it should be.,645
-en,contradiction,"And um, it's different, like under each client, is all their files.",They don't have any of the files.,652
-en,entailment,"And um, it's different, like under each client, is all their files.",They keep all the files.,653
-en,neutral,"And um, it's different, like under each client, is all their files.",They keep the medical and legal files all together.,654
-en,entailment,"It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.",She gave me two different versions.,655
-en,neutral,"It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.",She gave me two types of instructions and i prefered the detailed ones.,656
-en,contradiction,"It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.",She only gave me one version and it was just a few lines lone.,657
-en,neutral,"Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.","Augusta has 10,000 people in it.",658
-en,entailment,"Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.",Augusta isn't a large city.,659
-en,contradiction,"Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.",They lived in the heart of Augusta.,660
-en,entailment,"Late 1962, uh, I got orders to go to Washington, D.C.",I was told to go to DC.,661
-en,neutral,"Late 1962, uh, I got orders to go to Washington, D.C.",The army sent me to DC right away.,662
-en,contradiction,"Late 1962, uh, I got orders to go to Washington, D.C.",They told me to go to Africa.,663
-en,entailment,"When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.",Our house in Concord couldn't allow animals.,664
-en,contradiction,"When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.",Our house in Concord had 30000 acres and lots of animals.,665
-en,neutral,"When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.",We sold all our animals when we moved to Concord.,666
-en,entailment,"Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.",We deployed our forces in 1968.,667
-en,contradiction,"Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.",We never ended up deploying anyone.,668
-en,neutral,"Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.",We sent our troops to Japan in June 1968.,669
-en,contradiction,He told me what exactly he needed and that he did need it by today.,He said I could turn it in whenever.,670
-en,neutral,He told me what exactly he needed and that he did need it by today.,He told me I had to finish the whole project by 2pm.,671
-en,entailment,He told me what exactly he needed and that he did need it by today.,He told me it was urgent.,672
-en,neutral,She had gone already and she told me just don't worry about it.,She said I should just assume the school would be fine.,673
-en,entailment,She had gone already and she told me just don't worry about it.,She said I shouldn't fret.,674
-en,contradiction,She had gone already and she told me just don't worry about it.,She said it was time to panic.,675
-en,entailment,"This is just, you know, Look you're in trouble.",You are in danger.,676
-en,contradiction,"This is just, you know, Look you're in trouble.",You'll be just fine!,677
-en,neutral,"This is just, you know, Look you're in trouble.",You're in danger of being deported.,678
-en,neutral,"My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.",My mom had to pick cotton and corn.,679
-en,contradiction,"My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.",My mom was the golden child so she didn't have to work.,680
-en,entailment,"My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.",My mother had to work outside.,681
-en,neutral,"And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.",Joe was the only person who had a key to the break room.,682
-en,contradiction,"And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.",No mater how hard we tried we just couldnt get Joe to leave us alone.,683
-en,entailment,"And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.",One day Joe was just gone and nobody could figure out where he went.,684
-en,entailment,I told them my sister's.,I blamed it on my sister.,685
-en,contradiction,I told them my sister's.,I said it was mine.,686
-en,neutral,I told them my sister's.,I told them the dog belonged to my sister.,687
-en,neutral,"And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.",She said her mom also walks on her tip toes.,688
-en,entailment,"And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.",She said her mom has the same walk.,689
-en,contradiction,"And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.",She said her mom is paralyzed and can't walk.,690
-en,neutral,"you know, and she's stuffing the petals up there and I didn't really know of any consequences.",I didn't know she'd get very sick.,694
-en,entailment,"you know, and she's stuffing the petals up there and I didn't really know of any consequences.",I didn't know what would happen to her.,695
-en,contradiction,"you know, and she's stuffing the petals up there and I didn't really know of any consequences.",I knew what was going to happen when she did that.,696
-en,contradiction,"Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.",I have no memories of that house.,700
-en,neutral,"Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.",I remembered picking daisies in the backyard.,701
-en,entailment,"Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.",I remembered something that happened in the backyard.,702
-en,entailment,"So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.",I did not know how to do the job I was assigned today.,706
-en,neutral,"So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.","I was told to replace the office fuse box, but I know nothing about electrical wiring.",707
-en,contradiction,"So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.",Today I was asked to perform only duties that I am well trained to perform.,708
-en,contradiction,"So now, here it is, he wants it today.",He says he can get it whenever.,709
-en,entailment,"So now, here it is, he wants it today.",He says he would like to get it today.,710
-en,neutral,"So now, here it is, he wants it today.",He says he would like to get the final project by 5pm.,711
-en,entailment,And unfortunately we moved again.,We moved another time.,712
-en,neutral,And unfortunately we moved again.,We moved to yet another state in 1992.,713
-en,contradiction,And unfortunately we moved again.,We never moved after that.,714
-en,entailment,"I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.",I had seen Mrs. Faulk a few times but did not know her well.,724
-en,contradiction,"I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.",I was very close friends with Mrs. Faulk.,725
-en,neutral,"I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.",Mrs. Faulk drove a yellow Honda to work every day.,726
-en,neutral,"We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.",We lived there in the green house.,730
-en,entailment,"We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.",We lived there many years.,731
-en,contradiction,"We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.",We only lived there two weeks.,732
-en,entailment,"Boss, he was like with split personality man.",He was moody.,736
-en,neutral,"Boss, he was like with split personality man.",My boss was either really happy or really mad.,737
-en,contradiction,"Boss, he was like with split personality man.",My boss was mellow and consistent.,738
-en,neutral,He's old enough to be my daddy.,He's 27 years older than me.,742
-en,contradiction,He's old enough to be my daddy.,He's much younger than I am.,743
-en,entailment,He's old enough to be my daddy.,He's older than me.,744
-en,entailment,"Everything is linked, and gosh, I don't even know how long.",I don't know how long it lasts.,745
-en,neutral,"Everything is linked, and gosh, I don't even know how long.",I don't know how long the story is running.,746
-en,contradiction,"Everything is linked, and gosh, I don't even know how long.",I know it's 4 feet long.,747
-en,contradiction,This time I wasn't even happy that she was there because I was so stressed out.,I was so happy and relaxed!,748
-en,neutral,This time I wasn't even happy that she was there because I was so stressed out.,I was too anxious to be happy that she had arrived a day earlier.,749
-en,entailment,This time I wasn't even happy that she was there because I was so stressed out.,I was too anxious to be happy that she was there.,750
-en,neutral,and that's a lot of it is due to the fact that the mothers are on drugs,The mothers are drug addicts.,751
-en,contradiction,and that's a lot of it is due to the fact that the mothers are on drugs,The mothers aren't on any prescriptions or drugs.,752
-en,entailment,and that's a lot of it is due to the fact that the mothers are on drugs,The mothers take drugs.,753
-en,neutral,yeah it's real nice has it been raining,I do not mind the rain.,754
-en,entailment,yeah it's real nice has it been raining,It is nice and rainy.,755
-en,contradiction,yeah it's real nice has it been raining,It is so horrible with the never ending sunshine.,756
-en,neutral,oh what human life is worth and whether or not you can rehabilitate somebody,All lives are worth rehab and second chances.,757
-en,contradiction,oh what human life is worth and whether or not you can rehabilitate somebody,No humans deserve to be rehabilitated.,758
-en,entailment,oh what human life is worth and whether or not you can rehabilitate somebody,Regardless of rehabilitation what life is worth it.,759
-en,neutral,oh boy you do have a strange wiring problem there,I've never seen this kind of wiring problem before.,760
-en,contradiction,oh boy you do have a strange wiring problem there,The wiring isn't the issue.,761
-en,entailment,oh boy you do have a strange wiring problem there,There's a problem caused by this odd wiring.,762
-en,contradiction,sounds like a lot of fun yeah it's amazing to me how how many things they would allow,I'm not at all surprised that they were leinient.,763
-en,neutral,sounds like a lot of fun yeah it's amazing to me how how many things they would allow,I'm surprised that they let you take food and drinks in there.,764
-en,entailment,sounds like a lot of fun yeah it's amazing to me how how many things they would allow,I'm surprised what they could get away with.,765
-en,neutral,yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on,It costs $2000 to buy everything you need.,766
-en,entailment,yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on,It costs a lot to outfit yourself.,767
-en,contradiction,yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on,It's really cheap to get outfitted.,768
-en,entailment,oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to,I do not need to because my children are over the age of twenty.,778
-en,neutral,oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to,I might have to since they are close in age.,779
-en,contradiction,oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to,I must since they are both ten and eleven years old.,780
-en,neutral,yeah uh-huh yeah well this is Fresno uh-huh,I was born in Fresno.,781
-en,contradiction,yeah uh-huh yeah well this is Fresno uh-huh,I'm not sure where this is.,782
-en,entailment,yeah uh-huh yeah well this is Fresno uh-huh,I'm telling you that this is Fresno.,783
-en,entailment,yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision,"Yeah, people who might not be able to make the best judgment calls.",784
-en,neutral,yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision,"Yeah, people who might not be hungry.",785
-en,contradiction,yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision,"Yeah, people whose decision faculties are never impaired.",786
-en,entailment,no they're still they're still on tour they've been touring since late sixties,They have been touring since before 1970.,787
-en,neutral,no they're still they're still on tour they've been touring since late sixties,They love touring.,788
-en,contradiction,no they're still they're still on tour they've been touring since late sixties,They recently ended their tour.,789
-en,entailment,how would you do aerobics,Can you explain how you'd perform aerobics?,790
-en,neutral,how would you do aerobics,I'm interested in aerobics because I need some cardiovascular activity.,791
-en,contradiction,how would you do aerobics,Please stop talking about aerobics.,792
-en,contradiction,well that's a good one i hadn't thought about that yeah,That's a dumb idea I discarded last week.,796
-en,entailment,well that's a good one i hadn't thought about that yeah,That's a good point.,797
-en,neutral,well that's a good one i hadn't thought about that yeah,The paradox you mention is a good point.,798
-en,contradiction,day care  two days a week they call it senior citizen day care but she goes to the senior citizen center,The day care is open every day for children under the age of five only.,802
-en,neutral,day care  two days a week they call it senior citizen day care but she goes to the senior citizen center,They do let them go more than twice a week if the senior citizens are up to it.,803
-en,entailment,day care  two days a week they call it senior citizen day care but she goes to the senior citizen center,They refer to it as a senior day care but it is called the senior center.,804
-en,entailment,that was their goal oh,That is what they had been striving for.,808
-en,contradiction,that was their goal oh,That was never what they wanted.,809
-en,neutral,that was their goal oh,They achieved their goal.,810
-en,neutral,gun control means using two hands,Half of all gun misfires result from single-hand use.,811
-en,contradiction,gun control means using two hands,The best way forward for gun control is to use both feet.,812
-en,entailment,gun control means using two hands,Use both hands if you want to practice gun control.,813
-en,entailment,and uh but it suddenly comes from somewhere i don't know where it comes from but,I do not know where it comes from but it is swift.,814
-en,neutral,and uh but it suddenly comes from somewhere i don't know where it comes from but,It comes by fast but I kinda know where it may be coming from.,815
-en,contradiction,and uh but it suddenly comes from somewhere i don't know where it comes from but,It comes like molasses and I know exactly when it will be coming.,816
-en,entailment,no in fact i'm not even familiar with it i don't think,I don't know much about it.,820
-en,neutral,no in fact i'm not even familiar with it i don't think,I'm ignorant in matters of love.,821
-en,contradiction,no in fact i'm not even familiar with it i don't think,I've been studying it for years.,822
-en,neutral,yeah she was great you know she,I think she knows that she was awesome.,823
-en,contradiction,yeah she was great you know she,No she was horrible.,824
-en,entailment,yeah she was great you know she,Yes she was very good.,825
-en,contradiction,yeah he suggested just getting uh um a uh um a mop like you would use,He suggested buying a vacuum.,829
-en,entailment,yeah he suggested just getting uh um a uh um a mop like you would use,He suggested finding a mop.,830
-en,neutral,yeah he suggested just getting uh um a uh um a mop like you would use,He wanted to clean up the blood with a mop.,831
-en,contradiction,its really bad out here we just had a freeway shooting about three blocks from our house,The shooting was at least 100 miles from where I live.,832
-en,neutral,its really bad out here we just had a freeway shooting about three blocks from our house,The shooting was close to my house and it makes me scared to go outside.,833
-en,entailment,its really bad out here we just had a freeway shooting about three blocks from our house,"There was a shooting close to my home, it is really not good in this area.",834
-en,contradiction,uh-huh that's true it is it's not really uh consistent,"I disagree with you, it is very consistent.",838
-en,neutral,uh-huh that's true it is it's not really uh consistent,I think you may be correct about its consistency.,839
-en,entailment,uh-huh that's true it is it's not really uh consistent,You are correct about it not be consistent.,840
-en,entailment,i'm trying to hang in there,I am attempting to hang on.,844
-en,neutral,i'm trying to hang in there,I really am doing my best.,845
-en,contradiction,i'm trying to hang in there,I will let go and never look back.,846
-en,neutral,yes oh what sort of puppy do you have,Is your puppy a good boy?,847
-en,contradiction,yes oh what sort of puppy do you have,What kind of cat did you rescue?,848
-en,entailment,yes oh what sort of puppy do you have,What kind of young dog do you have?,849
-en,neutral,well you said you have kids how old,How many children do you have?,850
-en,contradiction,well you said you have kids how old,I am sorry to hear that you were not able to have children.,851
-en,entailment,well you said you have kids how old,"You stated you have children, what are their ages?",852
-en,entailment,they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study,They may not have been the smartest but they were very friendly and were interested in those that study.,853
-en,neutral,they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study,They were really smart but played dumb when around others they did not know very well.,854
-en,contradiction,they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study,They were the beyond brilliant but detested anyone that put effort into studying.,855
-en,neutral,one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right,The skunk was waiting for us to return to the camp site.,856
-en,contradiction,one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right,We found a goat at the camp site after we had already turned out the lights.,857
-en,entailment,one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right,When we came back from an event we found a skunk.,858
-en,entailment,you know all my children excel they're they're really good and i guess no he learns from the older boys too but,He has learned from the older male children but all of my offspring outshine.,859
-en,neutral,you know all my children excel they're they're really good and i guess no he learns from the older boys too but,I am very proud of how much my children know.,860
-en,contradiction,you know all my children excel they're they're really good and i guess no he learns from the older boys too but,My kids are truly idiotic.,861
-en,entailment,and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight,People constraining the amount of garbage is closer to the issue than the weight of the actual garbage.,862
-en,contradiction,and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight,People do not need to worry about the amount of garbage as long as they dispose of it properly.,863
-en,neutral,and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight,People need to consider both the volume and the weight of the garbage they are producing.,864
-en,contradiction,so if there's a mistake it's your mistake i guess,"Do not worry, if there is a mistake I will help take the blame.",868
-en,entailment,so if there's a mistake it's your mistake i guess,If there is an error it belongs to you.,869
-en,neutral,so if there's a mistake it's your mistake i guess,If you made a mistake you should take ownership of it.,870
-en,entailment,you know especially making the seams and things like that you know it's it's got such a professional finish on them,The seams are done in a very skillful way.,871
-en,contradiction,you know especially making the seams and things like that you know it's it's got such a professional finish on them,The seams were done in a rush and look very sloppy.,872
-en,neutral,you know especially making the seams and things like that you know it's it's got such a professional finish on them,They took a long time to finish the seams.,873
-en,entailment,yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks,Your time keeps increasing every year.,874
-en,contradiction,yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks,Your time never goes above three days.,875
-en,neutral,yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks,Your vacation time increases at the city jobs.,876
-en,contradiction,uh that's what's nice about living more in the country you don't have to worry about any of that,Being in the country makes you live in constant fear of things just like that.,877
-en,entailment,uh that's what's nice about living more in the country you don't have to worry about any of that,What is great about being in the country is you do not have to fret over things like that.,878
-en,neutral,uh that's what's nice about living more in the country you don't have to worry about any of that,What is really swell is in the country you do not have to worry about that like you would in a city.,879
-en,neutral,oh oh my word well that sounds adventuresome,That seems like either a lot of fun or rrally boring.,880
-en,entailment,oh oh my word well that sounds adventuresome,That sounds like a great adventure.,881
-en,contradiction,oh oh my word well that sounds adventuresome,That sounds like an awful experience.,882
-en,entailment,and now i have got a sister in Germany,Currently I have a sibling residing in Germany.,886
-en,contradiction,and now i have got a sister in Germany,I have a sister that is right now in Cuba.,887
-en,neutral,and now i have got a sister in Germany,I have a sister that speaks German.,888
-en,neutral,i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh,I might be able to get my daughter there.,889
-en,entailment,i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh,It is a little harder for me to get my daughter there.,890
-en,contradiction,i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh,My daughter has her own way to get there now that she can drive.,891
-en,contradiction,yeah have a nice summer,I hope you have a miserable summer break.,892
-en,neutral,yeah have a nice summer,Indeed summer will be here soon.,893
-en,entailment,yeah have a nice summer,"Yes, have a pleasant summer.",894
-en,entailment,we're not real naturalists or anything but um,Actually we do not consider ourselves to be naturalists.,901
-en,contradiction,we're not real naturalists or anything but um,We are totally true naturalists and are insulted to be thought of otherwise!,902
-en,neutral,we're not real naturalists or anything but um,We would like to someday strive to be naturalists but right now we are not.,903
-en,neutral,yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh,A bunch of would get together and clean up trash from the street.,904
-en,entailment,yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh,I used to help my grandparents with picking up cans from the road.,905
-en,contradiction,yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh,We used to go party at my dad's house.,906
-en,entailment,so this is this is not your first experience with  with a dog,Apparently this is not your first time with a dog.,907
-en,contradiction,so this is this is not your first experience with  with a dog,I am sorry I did not know this was your first time ever seeing a dog.,908
-en,neutral,so this is this is not your first experience with  with a dog,This is not your first time handling a domesticated animal.,909
-en,neutral,right right don't go through the whole nine yards and,You can just tell me the end of the story.,910
-en,entailment,right right don't go through the whole nine yards and,You don't have to do the whole thing.,911
-en,contradiction,right right don't go through the whole nine yards and,You need to go through the whole thing.,912
-en,entailment,um no i live off campus,I do not live on campus.,913
-en,neutral,um no i live off campus,I live a few block away from campus.,914
-en,contradiction,um no i live off campus,I live on campus.,915
-en,entailment,men um free of the charge one guy went in stabbed his ex-wife to death because she was sleeping with another guy i mean ex-wife you know we're talking and,A man killed his ex wife for sleeping with another guy after being freed from a prior charge.,919
+gold_label	sentence1	sentence2	pairID
+contradiction	Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.	I havent spoken to him again.	4
+entailment	Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.	I was so upset that I just started talking to him again.	5
+neutral	Well, I wasn't even thinking about that, but I was so frustrated, and, I ended up talking to him again.	We had a great talk.	6
+neutral	And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.	I was not aware that I was not the only person to be at the field that day.	7
+entailment	And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.	I was under the impression that I was the only one with that number at the AFFC Air Force Career field.	8
+contradiction	And I thought that was a privilege, and it's still, it's still, I was the only nine two-two Ex-O which was my AFFC Air Force Career field.	We all were given the same exact number no matter what privileges we were promised to be granted, it was all a lie.	9
+contradiction	They told me that, uh, that I would be called in a guy at the end for me to meet.	I was never told anything about meeting anyone.	10
+entailment	They told me that, uh, that I would be called in a guy at the end for me to meet.	I was told a guy would be called in for me to meet.	11
+neutral	They told me that, uh, that I would be called in a guy at the end for me to meet.	The guy showed up a bit late.	12
+contradiction	There's so much you could talk about on that I'll just skip that.	I want to tell you everything I know about that!	13
+entailment	There's so much you could talk about on that I'll just skip that.	I won't talk about that, even though there's a lot to cover.	14
+neutral	There's so much you could talk about on that I'll just skip that.	I wont talk about the history of the city because there's too much to say.	15
+contradiction	That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.	We didn't care about saving anything.	19
+entailment	That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.	We wanted to save one thing more than the rest.	20
+neutral	That was the primary thing we wanted to save since there wasn't any way to dump a 20-megaton H-bomb off a 30, a C124.	We wanted to save the h-bomb because it was so hard to deal with.	21
+contradiction	So I'm not really sure why.	I am certain as to the reason why.	28
+neutral	So I'm not really sure why.	I don't know why he transferred schools.	29
+entailment	So I'm not really sure why.	I don't know why that happened.	30
+contradiction	This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.	Fannie Flono had to reschedule and is unable to tell us any stories today.	34
+entailment	This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.	Fannie Flono is here and she is going to speak to us about her childhood stories from growing up in Augusta, GA.	35
+neutral	This is Fannie Flono, and she grew up in Ag-- Augusta, GA, and she is going to talk about some stories from her childhood.	Fannie Flono was able to speak to us today despite her busy schedule.	36
+entailment	And I had put uh, five detachments out of U2's.	I dealt with the U2's.	40
+contradiction	And I had put uh, five detachments out of U2's.	I didn't' deal with the U2's at all.	41
+neutral	And I had put uh, five detachments out of U2's.	I worked with the detachments for the U2's every day for forty years.	42
+neutral	I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.	I didn't like being the only one to run the regulators for the tests.	43
+entailment	I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.	Tests were done in the miniature altitude chambers.	44
+contradiction	I was the only one that uh, ever run the regulators for the, the test in the miniature altitude chambers.	There were a few of us who ran the regulators for the test.	45
+contradiction	I'm uh, Chief Master Sergeant, retired, as Rick said.	I am still working to this day.	46
+neutral	I'm uh, Chief Master Sergeant, retired, as Rick said.	I retired in 2002.	47
+entailment	I'm uh, Chief Master Sergeant, retired, as Rick said.	Rick told you I was retired.	48
+neutral	There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.	The client named Cutty makes $10000 a month.	52
+entailment	There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.	There is a client named Cutty.	53
+contradiction	There's some cash flow projections on my desk and, um, uh, it's for such and such Cutty, that's the client's name.	We don't have any clients called Cutty.	54
+entailment	The girl that can help me is all the way across town.	The girl I need help from lives a ways away.	55
+neutral	The girl that can help me is all the way across town.	The girl who is going to help me is 5 miles away.	56
+contradiction	The girl that can help me is all the way across town.	There is no one who can help me.	57
+contradiction	But they were divided about like who were the field hands and who were the house kids, it was kind of--	They all agreed that they'd all work in the fields.	61
+entailment	But they were divided about like who were the field hands and who were the house kids, it was kind of--	They couldn't agree about who was a field hand and who belonged in the house.	62
+neutral	But they were divided about like who were the field hands and who were the house kids, it was kind of--	They couldn't agree who should work in the cotton field and who should mop the floors.	63
+contradiction	Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.	He has decided not to talk anymore.	67
+neutral	Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.	He talks about three different submarines.	68
+entailment	Today he is going to talk to us about the Third SS, the U2 Quick and the Blackbird.	He talks about three things.	69
+contradiction	I mean they only had, like, they had five children, one of them died.	All of their children survived.	70
+entailment	I mean they only had, like, they had five children, one of them died.	One child died out of the five.	71
+neutral	I mean they only had, like, they had five children, one of them died.	The child who died was born sickly.	72
+entailment	And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.	The U2 took a lot of film.	73
+neutral	And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.	The U2 took a ton of film from under the water.	74
+contradiction	And, of course, Androv Gromikov didn't answer anything, but we had all the information from the films the U2 had taken.	We had no footage, so we just had to guess.	75
+entailment	She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.	As she told him to come up the porch she had tears in her eyes.	76
+contradiction	She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.	She quickly wiped away the tears after flinging Joe off the porch.	77
+neutral	She said there were just tears coming down from her eyes and she said, then she said Joe came up on the porch.	She was so happy to see Joe that she started to cry.	78
+neutral	Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.	The radiation can be contained during a fire as well.	79
+entailment	Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.	The radiation would leak out from a lead component after the aircraft burned.	80
+contradiction	Even if the aircraft was on fire, why it, it would uh, burn and it would melt through a lead component for the radiation to leak out.	The radiation would not leak out during a fire.	81
+entailment	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The Chief is retired from the US Air Force.	88
+neutral	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The Chief just recently retired a few weeks ago.	89
+contradiction	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The US Air Force Chief just started his career this week.	90
+entailment	Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.	More than one aircraft arrive every week.	91
+neutral	Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.	The increased aircraft traffic is troublesome.	92
+contradiction	Well it got to where there's two or three aircraft arrive in a week and I didn't know where they're flying to.	There are never any aircraft arriving.	93
+neutral	They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.	It takes up to three months to complete training on the use of a full pressure suit.	94
+entailment	They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.	Training to use a full pressure suit takes time.	95
+contradiction	They had already had their training in the full pressure suits and it taken me a while if you go into full pressure suits.	We could have you trained to use a full pressure suit by the end of the day.	96
+neutral	I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.	The bomb had been deactivated by the pilot.	106
+entailment	I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.	The bomb had no chance of exploding.	107
+contradiction	I want to say that there wasn't any danger of going in with the bomb because it would not explode, regardless of how hard it hit the ground.	There was a great danger of the bomb exploding.	108
+contradiction	And how about it looks like exactly what I'm trying to do.	I'm not sure what this looks like to you.	109
+entailment	And how about it looks like exactly what I'm trying to do.	I'm trying to do this, obviously.	110
+neutral	And how about it looks like exactly what I'm trying to do.	I'm trying to finish my project in the next week.	111
+neutral	But anyway, the animals would get loose all the time, especially the goats.	The goats escaped from the barn every day.	112
+entailment	But anyway, the animals would get loose all the time, especially the goats.	The goats escaped often.	113
+contradiction	But anyway, the animals would get loose all the time, especially the goats.	The goats were kept safe and secure.	114
+contradiction	The doors were locked when we went in.	All of the doors were open.	118
+neutral	The doors were locked when we went in.	We had the keys with us.	119
+entailment	The doors were locked when we went in.	We went in even though the doors were locked.	120
+neutral	So I just had to take the totals and try and figure it like that.	I feel confident that the totals are all I need to get this figured out.	127
+contradiction	So I just had to take the totals and try and figure it like that.	I have no clue what to do with just the totals please give me more details to figure out this mess.	128
+entailment	So I just had to take the totals and try and figure it like that.	I will calculate it based off of the totals.	129
+contradiction	He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.	He was so excited and bursting with joy that he practically knocked the door off it's frame.	130
+neutral	He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.	He was trying not to make us feel guilty but we knew we had caused him trouble.	131
+entailment	He came, he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.	Just by the look on his face when he came through the door I just knew that he was let down.	132
+entailment	So, I don't have any specific stories.	I dont have a particular store.	133
+contradiction	So, I don't have any specific stories.	I have 1 specific store.	134
+neutral	So, I don't have any specific stories.	There are a lot of stores.	135
+entailment	And it was, he never really had to do anything for himself.	He gets a lot of help.	142
+neutral	And it was, he never really had to do anything for himself.	He gets help with his meals and clothes.	143
+contradiction	And it was, he never really had to do anything for himself.	He is very independent.	144
+contradiction	So I'm like, Oh my gosh, and Ramona was standing there.	Ramona was on the floor curled up in a fetal position.	148
+neutral	So I'm like, Oh my gosh, and Ramona was standing there.	Ramona was silently judging me.	149
+entailment	So I'm like, Oh my gosh, and Ramona was standing there.	Ramona was upright while I was there in awe.	150
+neutral	And the fact is she was light!	She ate a lot of food, but still kept her weight down.	154
+entailment	And the fact is she was light!	She did not weigh much at all.	155
+contradiction	And the fact is she was light!	She was very happy.	156
+neutral	I don't know whether he stayed in Augusta after that.	He continued to live in Augusta even after the attacks.	163
+entailment	I don't know whether he stayed in Augusta after that.	He continued to live in Augusta.	164
+contradiction	I don't know whether he stayed in Augusta after that.	He moved outside of Augusta right away.	165
+neutral	All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.	I never asked where they were going.	166
+contradiction	All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.	They always let us know where they were and where they were going.	167
+entailment	All we done, they never did tell us any place where they was going, even when they left the base to go to somewhere else to stay for a while.	They never told us where they were going.	168
+contradiction	They said, We're paying for a place for you to stay.	They won't pay for anything forus.	175
+neutral	They said, We're paying for a place for you to stay.	They're paying for housing for me and my siblings.	176
+entailment	They said, We're paying for a place for you to stay.	They're paying for housing.	177
+entailment	Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.	Kennedy told our troops to look for missiles.	178
+contradiction	Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.	They didn't stop any ships because they didn't want conflict.	179
+neutral	Well, the next day, of course, President Kennedy, uh, blockaded Cuba, and, uh, our ships stopped a Russian ship that was headed just outside of Cuba within, and they found missiles on them.	They found 20 missiles on the ship.	180
+neutral	Anyhow the man comes in.	The man entered the courtroom.	181
+entailment	Anyhow the man comes in.	The man entered the room.	182
+contradiction	Anyhow the man comes in.	The man ran the other way.	183
+neutral	Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.	It took a long time to drive to my grandparent's house.	184
+entailment	Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.	My grandparents were a very loving couple.	185
+contradiction	Um, my grandparents were always very, very loving people and some of, my parents were and we'd just have a great time down there.	My grandparents were always very cranky and we never liked going to their house.	186
+neutral	I didn't have time to enter in all kinds of whatever.	I could have finished entering it in later.	196
+contradiction	I didn't have time to enter in all kinds of whatever.	I entered it in all on time.	197
+entailment	I didn't have time to enter in all kinds of whatever.	I ran out of time to enter it all in.	198
+contradiction	And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.	The atomic bomb has no trigger.	199
+entailment	And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.	The trigger detonates the bomb when it's pulled.	200
+neutral	And, uh, one of my jobs at the time was training individuals how to put parachutes on a nuclear weapons trigger to, uh, which detonates the atomic bomb itself.	You only need a tiny bit of force to pull the atomic bomb trigger.	201
+neutral	My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.	I always enjoyed listening to my grandmother's stories.	202
+contradiction	My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.	My grandmother always refused to talk about her childhood.	203
+entailment	My grandmother used to tell me a lot of different stories about her growing-up years and, uh, especially, uh, she used to talk about her family, and what it was like during those times.	My grandmother told me lots of stuff about her family during the time that she was growing up.	204
+contradiction	We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.	Our suits were nothing like what the astronauts had.	205
+entailment	We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.	Our suits were the same as the astronauts except to reflect heat, ours were silver.	206
+neutral	We had full pressure suits there in the aircraft just, just like the astronauts wore, except ours was totally silver, silver uh, boot and everything, to reflect heat, of course.	You can get the suits in any color you want.	207
+entailment	And he was, my grandfather was not a nice man.	My grandpa was a jerk.	208
+neutral	And he was, my grandfather was not a nice man.	My grandpa was really racist and mean.	209
+contradiction	And he was, my grandfather was not a nice man.	My grandpa was the nicest guy you'll ever meet!	210
+contradiction	It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.	We had no training with anyone.	211
+neutral	It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.	We trained for 5 weeks with the British.	212
+entailment	It's 30 or 40 U2 aircraft, and we'd started the training Chinese pilots, British pilots in them, just all over the, the world that we were allies with.	We trained with a lot of other soldiers.	213
+contradiction	So, she's like, Well look, look up this in such and such company.	She didn't speak to me.	214
+entailment	So, she's like, Well look, look up this in such and such company.	She told me to look something up.	215
+neutral	So, she's like, Well look, look up this in such and such company.	She told me to look up their financing information.	216
+neutral	He said that they had gone up North.	He said the made a few stops along the way.	217
+contradiction	He said that they had gone up North.	He said they went down South.	218
+entailment	He said that they had gone up North.	He said they went up North.	219
+neutral	Um, no, to be honest, I never read any of the books I was supposed to.	I haven't read any books longer than 100 pages.	235
+entailment	Um, no, to be honest, I never read any of the books I was supposed to.	I haven't read many books.	236
+contradiction	Um, no, to be honest, I never read any of the books I was supposed to.	I read books every day.	237
+contradiction	I go ahead and picked the baggage and went to the address I was supposed to.	I left the bag and figured it wasn't my problem.	238
+neutral	I go ahead and picked the baggage and went to the address I was supposed to.	I took the bag to his apartment.	239
+entailment	I go ahead and picked the baggage and went to the address I was supposed to.	I took the bag to where it belonged.	240
+contradiction	It was an amazing mood swing.	Her mood stayed completely consistent.	241
+neutral	It was an amazing mood swing.	She went from happy to sad.	242
+entailment	It was an amazing mood swing.	The mood changed a lot.	243
+contradiction	They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.	I was not chosen to attend the school.	244
+entailment	They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.	I was picked to go to that school.	245
+neutral	They've, they chosen me over about 15 individuals there, to go to through that school and I'm not, I'm not.	I was the most credible candidate.	246
+neutral	They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.	Most people fail tests and never get to fly U2s.	247
+entailment	They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.	They have to go through a lot of training before they fly U2's.	248
+contradiction	They have to go through a number of altitude chambers, uh, rides before they start even flying U2's or flying with pressure suits.	They just let you fly U2s on the first day.	249
+contradiction	I'm covering the same stuff.	I cover completely new material.	253
+neutral	I'm covering the same stuff.	I cover the same stuff as the other magazines.	254
+entailment	I'm covering the same stuff.	I'm talking about the same things they did.	255
+contradiction	This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.	Military units aren't allowed to be TX Ambassadors.	256
+neutral	This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.	The military unit was named TX Ambassadors to the US Congress.	257
+entailment	This was the first time that, that had happened in 75 years, that TX legislature had voted a military unit being TX Ambassadors, so, needed TX Ambassadors.	The military unit was named TX Ambassadors.	258
+entailment	If there was anything I could do.	I could do something.	259
+contradiction	If there was anything I could do.	I knew there was nothing i could do.	260
+neutral	If there was anything I could do.	I think I could have done something to save him.	261
+contradiction	She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.	She always encouraged her sister.	262
+neutral	She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.	She made it clear that her sister couldn't do anything right.	263
+entailment	She hated that, and she used to tell her sister every day, she said that, that You are doing wrong.	She was very critical of her sister.	264
+neutral	So I went to her house and then I called in to this number I was supposed to call when I got there.	I borrowed her phone to make the call.	268
+entailment	So I went to her house and then I called in to this number I was supposed to call when I got there.	I called the number when I arrived at her house.	269
+contradiction	So I went to her house and then I called in to this number I was supposed to call when I got there.	I was supposed to call, but I didn't.	270
+contradiction	Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.	I didn't go today so I didn't see him.	271
+neutral	Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.	I showed up at the gym today and he came in later and said hi.	272
+entailment	Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.	I showed up this morning and he came, too.	273
+neutral	We didn't know where they were going.	We didn't know where the group was traveling on the interstate.	274
+entailment	We didn't know where they were going.	We didn't know where the people were traveling to.	275
+contradiction	We didn't know where they were going.	we knew just where they were headed.	276
+contradiction	But I was like, forget it, I'm going to eat lunch I was hungry.	I had no appetite at all.	277
+entailment	But I was like, forget it, I'm going to eat lunch I was hungry.	I was hungry so i decided to eat my lunch.	278
+neutral	But I was like, forget it, I'm going to eat lunch I was hungry.	I was starving so I went to the cafeteria.	279
+entailment	So and let me tell you I got to the point today where I was about to quit.	I almost ended up quitting.	283
+neutral	So and let me tell you I got to the point today where I was about to quit.	I had taken so much grief from them that I couldn't take it any more.	284
+contradiction	So and let me tell you I got to the point today where I was about to quit.	It never entered my mind to quit.	285
+entailment	He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.	He was born before 1900.	292
+neutral	He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.	He was born in december of 1880.	293
+contradiction	He was born in 1880 something, like 188, I think it was 1889, I think it was when he was born.	He wasn't born until 1984.	294
+entailment	You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.	That screw can hurt someone's lungs.	295
+contradiction	You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.	The screw carries no risks, so tighten it as much as you want.	296
+neutral	You'd better get the little screw turned down a little bit because you could damage and individual's lungs very easily.	The screw goes into the trachea and can hurt the lungs.	297
+entailment	I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.	I got sent to Del Rio, Texas for work.	298
+contradiction	I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.	I have never been to texas.	299
+neutral	I got orders to go to Del Rio, TX, so when I arrived out there, well, I found out I had to go to Laughlin Air Force Base.	The Air Force sent me to Del Rio, Tx in 2001.	300
+neutral	Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.	The kids drank 3 bottles of champagne.	301
+entailment	Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.	The kids drank some of the champagne.	302
+contradiction	Everybody gets champagne and some people don't drink it so what's left the kids drink so we were going around drinking all this champagne.	The whole party was dry and no alcohol was served.	303
+contradiction	There are many stories in the naked city.	I haven't heard any stories.	304
+neutral	There are many stories in the naked city.	There are a lot of stories about the military.	305
+entailment	There are many stories in the naked city.	There are a lot of stories that get told.	306
+contradiction	You live and learn, you know, when you test, uh, aircraft.	I don't know anything about testing aircraft.	307
+entailment	You live and learn, you know, when you test, uh, aircraft.	Testing aircraft teaches you a lot of lessons.	308
+neutral	You live and learn, you know, when you test, uh, aircraft.	Testing aircraft teaches you how to handle pressure.	309
+contradiction	I mean that was the whole point.	I don't understand the point.	310
+neutral	I mean that was the whole point.	I think the point was to tell us how dangerous it was.	311
+entailment	I mean that was the whole point.	I understood the point.	312
+contradiction	It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.	All of the planes survived without being shot at.	313
+entailment	It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.	Something was shot down over Cuba.	314
+neutral	It was from a airbase that flew over Cuba, and of course Rudolph Anderson was shot down.	The huge airliner was shot down over Cuba in May.	315
+contradiction	It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.	I don't really have any memories of my childhood.	319
+neutral	It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.	I still feel bad to this day.	320
+entailment	It was probably the first thing I remember from being a little kid about, ah, especially about something that I'd done wrong.	It was one of my earliest memories.	321
+neutral	They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.	It was hard to be black in the south.	322
+contradiction	They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.	It was so easy to be black!	323
+entailment	They just didn't like what it was like being black in those days, and that was, you know, I guess, that, that was probably, you know, in the early 1930s, uh, when they did that.	It wsa hard to be black back then.	324
+contradiction	Nobody knew where they went.	Everyone knew exactly where they were going.	331
+neutral	Nobody knew where they went.	No one knew what house they went into.	332
+entailment	Nobody knew where they went.	Their destination was a secret.	333
+contradiction	And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.	People had no clue that they weren't white people.	334
+neutral	And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.	People were aware that they were African American.	335
+entailment	And they couldn't stay in the Augusta area because people knew that they had tried to do something that was really taboo and try to pass for white.	People were aware that they weren't white.	336
+entailment	Yeah, well, the guy's here.	The guy is present.	337
+neutral	Yeah, well, the guy's here.	The guy just showed up 2 minutes ago.	338
+contradiction	Yeah, well, the guy's here.	The guy never came here.	339
+contradiction	We were watching something on TV.	We didnt own a tv.	340
+entailment	We were watching something on TV.	We were looking at the TV.	341
+neutral	We were watching something on TV.	We were watching the TV news.	342
+contradiction	So anyhow, I think I spoke to Ramona again.	I have never talked to Ramona.	343
+entailment	So anyhow, I think I spoke to Ramona again.	I talked to Ramona another time.	344
+neutral	So anyhow, I think I spoke to Ramona again.	It was an enjoyable conversation.	345
+contradiction	He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.	10000 people died in the Cuban Crisis.	352
+entailment	He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.	Only one person died in the Cuban Crisis.	353
+neutral	He was the only casualty of the Cuban Crisis, and uh, Kaiser uh, he got the pictures and flew straight to Andrews Air Force in Washington.	Only one person was killed in a crash in the Cuban Crisis.	354
+contradiction	Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.	She said she was totally clueless.	355
+entailment	Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.	She said that she knew more about life.	356
+neutral	Um, and she said, she said, she said, Baby, she said, You don't understand about life the way I understand about life.	She told me I didn't have a clue how the real world worked and I should follow her.	357
+neutral	Then I get it and I'm like great, What do I do with it?	I don't know how I was supposed to use the contraption.	358
+entailment	Then I get it and I'm like great, What do I do with it?	I don't know what I was supposed to use it for.	359
+contradiction	Then I get it and I'm like great, What do I do with it?	I knew just what to use it for!	360
+contradiction	Just give me a minute if you want to cut it off, I'd, uh, go.	I am ready to go right now.	367
+entailment	Just give me a minute if you want to cut it off, I'd, uh, go.	I need a minute here.	368
+neutral	Just give me a minute if you want to cut it off, I'd, uh, go.	I need a minute to collect my thoughts.	369
+contradiction	So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.	I have never been to Washington DC.	370
+neutral	So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.	I went to DC to see my supervisor.	371
+entailment	So I went to, I went to Washington D.C. and I didn't go directly to, uh, that, uh, they had told me to on my orders.	I went to the nation's capital.	372
+contradiction	She was a light-skinned black person.	She had incredibly dark skin.	376
+entailment	She was a light-skinned black person.	She had light skin for an African-American person.	377
+neutral	She was a light-skinned black person.	She was lighter than the rest of her black friends.	378
+neutral	So anyway, Dad goes and makes this nice big glass of chocolate milk for me.	Dad got me some chocolate milk from the fridge.	379
+entailment	So anyway, Dad goes and makes this nice big glass of chocolate milk for me.	Dad poured me a glass of milk.	380
+contradiction	So anyway, Dad goes and makes this nice big glass of chocolate milk for me.	Dad said I wasn't allowed to have a drink.	381
+contradiction	The DOT had to buy the property and stuff.	The DOT was able to find a different property that they could rent instead.	382
+entailment	The DOT had to buy the property and stuff.	The property and equipment was purchased by the DOT.	383
+neutral	The DOT had to buy the property and stuff.	The property cost more than three million dollars for the DOT to purchase.	384
+neutral	He would have been born	He was supposed to be born on December 2010.	391
+entailment	He would have been born	He was supposed to be born.	392
+contradiction	He would have been born	He wasn't supposed to be born.	393
+contradiction	I'm like, I know how far I've gotten.	I told them I didn't know what I was doing.	397
+neutral	I'm like, I know how far I've gotten.	I told them I knew I had beat their expectations by 40%.	398
+entailment	I'm like, I know how far I've gotten.	I told them I know what i've achieved.	399
+entailment	OK, can you hear me?	Can you hear me right now?	400
+neutral	OK, can you hear me?	Can you hear what I'm saying?	401
+contradiction	OK, can you hear me?	I know you can't hear me.	402
+neutral	Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?	DId you like Harry Potter books or no?	409
+entailment	Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?	Did you like or hate certain books?	410
+contradiction	Um, are there any, you said you don't remember reading anything in particular, like when you were older in school, were there any books that you read that you liked or hated?	I know you loved every book you read.	411
+entailment	It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.	The screw affects the pressure.	415
+neutral	It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.	The screw is tiny and silver.	416
+contradiction	It's a little screw which set an injection but the, the breathing pressure tube to the pilot and counter pressure.	There are no screws, just buttons.	417
+contradiction	She's like, Don't worry about it, you know, just take your time.	She told me i needed to hurry up right away.	418
+neutral	She's like, Don't worry about it, you know, just take your time.	She told me it was fine if it took me hours to do it.	419
+entailment	She's like, Don't worry about it, you know, just take your time.	She told me just to slow down.	420
+contradiction	President Kennedy says to the pilots, says, Gentlemen you take good pictures.	Kennedy didnt acknowldge them.	421
+neutral	President Kennedy says to the pilots, says, Gentlemen you take good pictures.	Kennedy spoke to the Air Force pilots.	422
+entailment	President Kennedy says to the pilots, says, Gentlemen you take good pictures.	Kennedy talked to the pilots.	423
+neutral	And I was like, I'm almost done.	I told him I would be done in 10 minutes.	424
+contradiction	And I was like, I'm almost done.	I told him I'd never finish.	425
+entailment	And I was like, I'm almost done.	I told them i was almost finished.	426
+entailment	I tried to jot everything down.	I aimed to write things down.	427
+contradiction	I tried to jot everything down.	I didn't bother to write anything down.	428
+neutral	I tried to jot everything down.	I wrote down every work she said.	429
+neutral	No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.	She was born January 1, 1900.	430
+entailment	No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.	She was born at the turn of the century	431
+contradiction	No, she was born in 1900 because she was 16, and so it must have been like in 1926, 19, you know, before, before 1930.	She wasn't born until 1943.	432
+neutral	So it was just really interesting.	I was very interested in how much I could eat.	436
+contradiction	So it was just really interesting.	I wasn't interested at all.	437
+entailment	So it was just really interesting.	It was interesting to me.	438
+neutral	Her sister could pass for white, and in fact did pass for white.	Her sister had the fairest skin of anyone in the neighborhood.	439
+entailment	Her sister could pass for white, and in fact did pass for white.	Her sister was usually assumed to be white.	440
+contradiction	Her sister could pass for white, and in fact did pass for white.	Sher sister was very dark.	441
+neutral	Well, he was almost, old enough to be her daddy.	He was 27 years older than her.	442
+contradiction	Well, he was almost, old enough to be her daddy.	He was much younger than her.	443
+entailment	Well, he was almost, old enough to be her daddy.	He was older than her.	444
+contradiction	That, I was the only 922 which was life support man the other man was a physiological support.	No one gave any sort of support.	445
+neutral	That, I was the only 922 which was life support man the other man was a physiological support.	One man gave physiological support to the troops.	446
+entailment	That, I was the only 922 which was life support man the other man was a physiological support.	One man gave physiological support.	447
+contradiction	And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.	I knew he wasn't going to come here at all.	448
+entailment	And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.	I thought he was coming here to fight.	449
+neutral	And here I am thinking he's going come in there and be like, you know, just have it out with me, you know, just tell me off like how could I not have this done.	I thought he was going to complain about my tone.	450
+contradiction	Well of, of course, needless to say, we had a, we could not make a mistake.	It's ok if we made a few errors.	451
+entailment	Well of, of course, needless to say, we had a, we could not make a mistake.	We were not allowed to make a mistake.	452
+neutral	Well of, of course, needless to say, we had a, we could not make a mistake.	We weren't allowed to spell anything incorrectly.	453
+entailment	And, uh, but, uh, I would think, at night I couldn't sleep.	I had trouble sleeping at night.	454
+neutral	And, uh, but, uh, I would think, at night I couldn't sleep.	I kept having bad dreams that kept me from sleeping.	455
+contradiction	And, uh, but, uh, I would think, at night I couldn't sleep.	I sleep like a baby at night!	456
+neutral	One thing that she really had as a great defense.	She could defend herself against wild dogs.	457
+entailment	One thing that she really had as a great defense.	She could defend herself well.	458
+contradiction	One thing that she really had as a great defense.	She was incredibly vulnerable.	459
+contradiction	Um, as far as never being told--	He told he everything i needed to know	460
+neutral	Um, as far as never being told--	I wasn't told anything about the safety protocol.	461
+entailment	Um, as far as never being told--	Sometimes I'm not told.	462
+entailment	So he, we lived in this area.	Our home was around here.	463
+contradiction	So he, we lived in this area.	Our home was far from this place.	464
+neutral	So he, we lived in this area.	Our home was two blocks away.	465
+contradiction	And he's like talking all fast; he's on a cell phone.	He is speaking as slowly as he can.	466
+neutral	And he's like talking all fast; he's on a cell phone.	He's talking on an iPhone.	467
+entailment	And he's like talking all fast; he's on a cell phone.	He's talking on his cell phone.	468
+contradiction	I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.	I was really relaxed about starting school.	469
+entailment	I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.	I was worried about going to school	470
+neutral	I can't remember what it was but I suddenly got really nervous that I was about to go to school for the first time and that was probably the most stressful day of my life.	I was worried about starting Kindergarten	471
+contradiction	I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.	I lived in Texas.	475
+neutral	I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.	I lived in a yellow house in Missouri.	476
+entailment	I was living, uh, right outside of St. Louis, between Jefferson City and St. Louis, MO.	I was in Missouri.	477
+entailment	I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.	The Laughlin Air Force Base closed for a while.	481
+contradiction	I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.	The Laughlin Air Force Base has always stayed open.	482
+neutral	I was reporting to a certain place in Del Rio, then I had to go to Laughlin Air Force Base, which had just re-opened.	The Laughlin Air Force Base is home to 10,000 soldiers.	483
+neutral	I don't care how you do it.	I don't care which color you choose.	487
+contradiction	I don't care how you do it.	I need to approave every deal.	488
+entailment	I don't care how you do it.	I'm not interested in how you finish it.	489
+neutral	So then I look up, I find out where Ramona's at, and I call her over there.	I called Ramona over to my house.	490
+entailment	So then I look up, I find out where Ramona's at, and I call her over there.	I called Ramona over to where I was.	491
+contradiction	So then I look up, I find out where Ramona's at, and I call her over there.	I ignored Ramona.	492
+neutral	In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.	The Air Force bought 18 planes.	496
+entailment	In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.	The Air Force bought planes.	497
+contradiction	In the meantime the Air Force bought the SR71, now the A-12, that we were working with the CIA.	The Air Force didn't have any planes.	498
+neutral	So her sister's husband was light-skinned too?	Her sister is married to a black man.	499
+entailment	So her sister's husband was light-skinned too?	Her sister is married.	500
+contradiction	So her sister's husband was light-skinned too?	Her sister is single.	501
+contradiction	But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.	She didn't change her behavior at all.	502
+entailment	But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.	She never admitted that she was wrong.	503
+neutral	But as she got older, um, she never acknowledged that she was wrong but she did change her behavior.	She never said that she was right about the meatloaf.	504
+entailment	My uncle, he's a great guy.	I like my uncle a lot.	508
+contradiction	My uncle, he's a great guy.	My uncle is such a jerk!	509
+neutral	My uncle, he's a great guy.	My uncle is very generous.	510
+neutral	I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.	My brother in law was in the army.	511
+entailment	I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.	My brother in law was in the service.	512
+contradiction	I went to my sister's that lived there . Her husband was in the service and worked with Intelligence, and I went to their house.	My brother never enlisted.	513
+entailment	I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!	I thought I was going to led someone else go instead.	514
+neutral	I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!	I thought I was going to let someone take my place in the meeting.	515
+contradiction	I would think, Well, I'm, I'm going to let somebody else go, but then I would think, My God!	I wasn't going to let anyone else go.	516
+entailment	One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.	He changes his mind a lot.	520
+neutral	One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.	He changes his mind because he doesn't know what he's doing.	521
+contradiction	One minute he's banging on the desk, the next he's OK, have it on my desk, dah, dah, dah, dah, dah.	He is very consistent and calm.	522
+entailment	So anyway, um, he ended up coming in there and he was like, How's it coming along?	He asked how things were going.	526
+neutral	So anyway, um, he ended up coming in there and he was like, How's it coming along?	He asked if we were finishing the documentary.	527
+contradiction	So anyway, um, he ended up coming in there and he was like, How's it coming along?	He didn't speak to us at all.	528
+contradiction	Then I was spinning my wheel for about, I don't know, it seemed like all day that day.	I hurried and got it over with quickly.	529
+neutral	Then I was spinning my wheel for about, I don't know, it seemed like all day that day.	I sat there for two hours.	530
+entailment	Then I was spinning my wheel for about, I don't know, it seemed like all day that day.	I spun my wheel for a long time.	531
+neutral	And she had tuberculosis and I never knew that either.	I didn't know she almost died of TB.	532
+entailment	And she had tuberculosis and I never knew that either.	I didn't know she had TB.	533
+contradiction	And she had tuberculosis and I never knew that either.	I knew she was very sick with TB.	534
+contradiction	You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.	Counter pressure kills you every time.	535
+neutral	You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.	You need counter pressure above 5000 feet.	536
+entailment	You know, you can't, you cannot survive if you don't have any counter pressure, increase breathing pressure in those altitudes.	You need to have counter pressure at that altitude.	537
+contradiction	I started immediately, uh, uh, training into that from the other two guys that was at the location.	I never got training so I just figured it out as i went along.	547
+neutral	I started immediately, uh, uh, training into that from the other two guys that was at the location.	Two guys trained me to work at that store.	548
+entailment	I started immediately, uh, uh, training into that from the other two guys that was at the location.	Two guys trained me.	549
+contradiction	If it was off one iota, you had to do some adjusting to the regulator itself.	The regulator was worthless.	556
+neutral	If it was off one iota, you had to do some adjusting to the regulator itself.	The regulator would change the pressure of everything in your suit.	557
+entailment	If it was off one iota, you had to do some adjusting to the regulator itself.	You'd have to tinker with the regulator.	558
+neutral	Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.	I had set the injector on Tuesday.	559
+entailment	Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.	I was a 922.	560
+contradiction	Uh, I was still the one and only nine two-two that had ever set the injection on the regulator.	I was never a 922.	561
+neutral	She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--	She didn't understand that she was stuck with the guy forever even though she'd never met him.	562
+entailment	She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--	She didn't understand what had happened.	563
+contradiction	She didn't even understand the marriage ceremony, she didn't even know that she had gotten married, really--	She knew what she was getting into.	564
+neutral	We would go in there.	We would enter there at 8pm.	565
+entailment	We would go in there.	We would enter.	566
+contradiction	We would go in there.	We would never go in.	567
+contradiction	And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.	She treated everyone the same.	568
+entailment	And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.	She treated the other grandchildren differently.	569
+neutral	And it was like she was rejecting who she was, in some ways, by, you know, the way she treated you know, the other grandchildren.	She treated the other grandkids differently because they were black.	570
+entailment	It was really cool, and the dress kind of blew in the wind a little bit--	The dress was billowing in the wind.	571
+neutral	It was really cool, and the dress kind of blew in the wind a little bit--	The dress was very short and blew around a bit.	572
+contradiction	It was really cool, and the dress kind of blew in the wind a little bit--	There was no wind so the dress was still.	573
+neutral	Uh, I spent much of my time in, uh, Special Activities.	I was in Special Activities every other day.	574
+entailment	Uh, I spent much of my time in, uh, Special Activities.	I was in Special Activities.	575
+contradiction	Uh, I spent much of my time in, uh, Special Activities.	I was never in Special Activities.	576
+entailment	And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.	I asked how urgent it was.	577
+contradiction	And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.	I knew the work needed to be done right now.	578
+neutral	And I asked him, you know, could I do it, um, Do you need me to stay and do it tonight or I could have it done by lunchtime tomorrow, if that's OK.	i asked if the client would be mad if it waited until 2pm because i had an appointment tonight.	579
+neutral	But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.	They had twenty family members living in Evans.	580
+contradiction	But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.	They lived in Atlanta.	581
+entailment	But uh, they lived in a little country town outside of Augusta called Evans, and Evans still exists, and that's where a lot of my relatives still, still are too.	They lived in Evans which is very small.	582
+neutral	My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.	My sister said I was racist.	583
+entailment	My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.	My sister said I wasn't always nice.	584
+contradiction	My sister keeps telling me, she says, Sometimes you're just like Granny, you treat people wrong for the wrong reasons.	My siter said I was nothing like my granny.	585
+neutral	Um, then we moved to a new house.	We moved to a house we had built in the country.	586
+entailment	Um, then we moved to a new house.	We relocated to a new residence.	587
+contradiction	Um, then we moved to a new house.	We stayed in the same house our whole lives.	588
+contradiction	I was like, OK, well that's good, you know, like that.	I said I hated it and disapproved greatly.	592
+neutral	I was like, OK, well that's good, you know, like that.	I said I like the new version of the song.	593
+entailment	I was like, OK, well that's good, you know, like that.	I said that I approved of it.	594
+entailment	And the spots of paint would change every hundred degrees, it might be red, it change to blue.	The paint changes according to color.	595
+neutral	And the spots of paint would change every hundred degrees, it might be red, it change to blue.	The paint changes so you can tell how hot it is without measuring it.	596
+contradiction	And the spots of paint would change every hundred degrees, it might be red, it change to blue.	the paint is always black.	597
+neutral	I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.	I ate the pizza in less than two minutes.	598
+contradiction	I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.	I ate very slowly so i wouldn't get sick.	599
+entailment	I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.	I scarfed the food down.	600
+entailment	Her sister's husband was light-skinned too.	Her brother in law was light colored.	604
+neutral	Her sister's husband was light-skinned too.	her brother in law was swedish.	605
+contradiction	Her sister's husband was light-skinned too.	her sister wasn't married.	606
+entailment	Anyway, they come up with this invention of the high O2 regulator.	They invented a new regulator.	610
+neutral	Anyway, they come up with this invention of the high O2 regulator.	They invented a regulator that worked in space.	611
+contradiction	Anyway, they come up with this invention of the high O2 regulator.	They still couldn't figure out how to make a high O2 regulator.	612
+contradiction	And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.	I have never been to Los Vegas in my life.	613
+entailment	And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.	I have worked in both Las Vegas and Washington.	614
+neutral	And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.	I worked as a cab driver in both of these cities.	615
+contradiction	Ah, fourth grade was a lot of fun.	I hated every bit of school!	616
+neutral	Ah, fourth grade was a lot of fun.	I liked fourth grade because we had two recesses.	617
+entailment	Ah, fourth grade was a lot of fun.	I liked fourth grade.	618
+contradiction	It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.	The page is just  one list of numbers.	619
+entailment	It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.	The tabs have a lot of data.	620
+neutral	It's like one file with a whole bunch of tabs, of different, you know, each tab has like a different spreadsheet on it.	The tabs show the current balance of every account.	621
+neutral	I don't care how you get it done.	I don't care if you do it yourself or hire it out.	625
+entailment	I don't care how you get it done.	I don't care what your method is.	626
+contradiction	I don't care how you get it done.	I need to know exactly how you will do this.	627
+neutral	And they moved to Mallard Creek in Charlotte.	They built a house on Mallard Creek.	631
+contradiction	And they moved to Mallard Creek in Charlotte.	They never moved to Charlotte.	632
+entailment	And they moved to Mallard Creek in Charlotte.	They then lived in Mallard Creek.	633
+neutral	Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.	His dad was a Lutheran pastor.	637
+contradiction	Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.	His dad was a convict who never went to church.	638
+entailment	Where he was a , he was a minister's son, so he had, they had property, and stuff, and they were very well-connected in the community and very, held in high esteem.	His dad was a pastor.	639
+neutral	And I um, I didn't know how much detail he wanted.	I didn't know if he wanted information about the travel times.	643
+contradiction	And I um, I didn't know how much detail he wanted.	I gave him every detail because I knew he wanted it.	644
+entailment	And I um, I didn't know how much detail he wanted.	I wasn't sure how in depth it should be.	645
+contradiction	And um, it's different, like under each client, is all their files.	They don't have any of the files.	652
+entailment	And um, it's different, like under each client, is all their files.	They keep all the files.	653
+neutral	And um, it's different, like under each client, is all their files.	They keep the medical and legal files all together.	654
+entailment	It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.	She gave me two different versions.	655
+neutral	It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.	She gave me two types of instructions and i prefered the detailed ones.	656
+contradiction	It's like more simplified, like the one that she had given me was all detailed and complicated and the second one is all simple.	She only gave me one version and it was just a few lines lone.	657
+neutral	Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.	Augusta has 10,000 people in it.	658
+entailment	Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.	Augusta isn't a large city.	659
+contradiction	Cause they didn't actually live in Augusta, they lived in, well you know, Augusta was still a city-town during that time, even though to people in big cities like this Augusta isn't that big.	They lived in the heart of Augusta.	660
+entailment	Late 1962, uh, I got orders to go to Washington, D.C.	I was told to go to DC.	661
+neutral	Late 1962, uh, I got orders to go to Washington, D.C.	The army sent me to DC right away.	662
+contradiction	Late 1962, uh, I got orders to go to Washington, D.C.	They told me to go to Africa.	663
+entailment	When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.	Our house in Concord couldn't allow animals.	664
+contradiction	When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.	Our house in Concord had 30000 acres and lots of animals.	665
+neutral	When DOT took his property, we moved to a smaller, smaller area in Concord where you are not allowed to have animals because it's zoned and so that's the end of the animal story.	We sold all our animals when we moved to Concord.	666
+entailment	Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.	We deployed our forces in 1968.	667
+contradiction	Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.	We never ended up deploying anyone.	668
+neutral	Anyway, we deployed and I can tell now be, because of this that, that, that, uh, we deployed to Kadina, Okinawa, and this was in 1968.	We sent our troops to Japan in June 1968.	669
+contradiction	He told me what exactly he needed and that he did need it by today.	He said I could turn it in whenever.	670
+neutral	He told me what exactly he needed and that he did need it by today.	He told me I had to finish the whole project by 2pm.	671
+entailment	He told me what exactly he needed and that he did need it by today.	He told me it was urgent.	672
+neutral	She had gone already and she told me just don't worry about it.	She said I should just assume the school would be fine.	673
+entailment	She had gone already and she told me just don't worry about it.	She said I shouldn't fret.	674
+contradiction	She had gone already and she told me just don't worry about it.	She said it was time to panic.	675
+entailment	This is just, you know, Look you're in trouble.	You are in danger.	676
+contradiction	This is just, you know, Look you're in trouble.	You'll be just fine!	677
+neutral	This is just, you know, Look you're in trouble.	You're in danger of being deported.	678
+neutral	My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.	My mom had to pick cotton and corn.	679
+contradiction	My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.	My mom was the golden child so she didn't have to work.	680
+entailment	My, my mother wound up not being one of his favorites early on and, ah, so she was relegated to working in the fields whereas some of the other kids didn't work in the fields.	My mother had to work outside.	681
+neutral	And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.	Joe was the only person who had a key to the break room.	682
+contradiction	And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.	No mater how hard we tried we just couldnt get Joe to leave us alone.	683
+entailment	And so you know, eventually, you know, you know, they kept asking people around, and nobody knew where they were, and eventually, you know, they just reconciled themselves that they just wouldn't see Joe again.	One day Joe was just gone and nobody could figure out where he went.	684
+entailment	I told them my sister's.	I blamed it on my sister.	685
+contradiction	I told them my sister's.	I said it was mine.	686
+neutral	I told them my sister's.	I told them the dog belonged to my sister.	687
+neutral	And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.	She said her mom also walks on her tip toes.	688
+entailment	And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.	She said her mom has the same walk.	689
+contradiction	And she said then her mama, her mama leaned forward, and she looked and she said, Walks like him.	She said her mom is paralyzed and can't walk.	690
+neutral	you know, and she's stuffing the petals up there and I didn't really know of any consequences.	I didn't know she'd get very sick.	694
+entailment	you know, and she's stuffing the petals up there and I didn't really know of any consequences.	I didn't know what would happen to her.	695
+contradiction	you know, and she's stuffing the petals up there and I didn't really know of any consequences.	I knew what was going to happen when she did that.	696
+contradiction	Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.	I have no memories of that house.	700
+neutral	Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.	I remembered picking daisies in the backyard.	701
+entailment	Ah, another thing that happened there that I thought was interesting was one of the first memories of my sister, and that was in that very same backyard.	I remembered something that happened in the backyard.	702
+entailment	So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.	I did not know how to do the job I was assigned today.	706
+neutral	So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.	I was told to replace the office fuse box, but I know nothing about electrical wiring.	707
+contradiction	So all that stressing and I mean, I had every reason to stress today, it was like, you're giving something you don't know how to do, and it's like here do it.	Today I was asked to perform only duties that I am well trained to perform.	708
+contradiction	So now, here it is, he wants it today.	He says he can get it whenever.	709
+entailment	So now, here it is, he wants it today.	He says he would like to get it today.	710
+neutral	So now, here it is, he wants it today.	He says he would like to get the final project by 5pm.	711
+entailment	And unfortunately we moved again.	We moved another time.	712
+neutral	And unfortunately we moved again.	We moved to yet another state in 1992.	713
+contradiction	And unfortunately we moved again.	We never moved after that.	714
+entailment	I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.	I had seen Mrs. Faulk a few times but did not know her well.	724
+contradiction	I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.	I was very close friends with Mrs. Faulk.	725
+neutral	I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.	Mrs. Faulk drove a yellow Honda to work every day.	726
+neutral	We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.	We lived there in the green house.	730
+entailment	We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.	We lived there many years.	731
+contradiction	We lived off, um, 85 in Mallard Creek where currently the 485 is now cause then the like last ten years we had to move because of the 485.	We only lived there two weeks.	732
+entailment	Boss, he was like with split personality man.	He was moody.	736
+neutral	Boss, he was like with split personality man.	My boss was either really happy or really mad.	737
+contradiction	Boss, he was like with split personality man.	My boss was mellow and consistent.	738
+neutral	He's old enough to be my daddy.	He's 27 years older than me.	742
+contradiction	He's old enough to be my daddy.	He's much younger than I am.	743
+entailment	He's old enough to be my daddy.	He's older than me.	744
+entailment	Everything is linked, and gosh, I don't even know how long.	I don't know how long it lasts.	745
+neutral	Everything is linked, and gosh, I don't even know how long.	I don't know how long the story is running.	746
+contradiction	Everything is linked, and gosh, I don't even know how long.	I know it's 4 feet long.	747
+contradiction	This time I wasn't even happy that she was there because I was so stressed out.	I was so happy and relaxed!	748
+neutral	This time I wasn't even happy that she was there because I was so stressed out.	I was too anxious to be happy that she had arrived a day earlier.	749
+entailment	This time I wasn't even happy that she was there because I was so stressed out.	I was too anxious to be happy that she was there.	750
+neutral	and that's a lot of it is due to the fact that the mothers are on drugs	The mothers are drug addicts.	751
+contradiction	and that's a lot of it is due to the fact that the mothers are on drugs	The mothers aren't on any prescriptions or drugs.	752
+entailment	and that's a lot of it is due to the fact that the mothers are on drugs	The mothers take drugs.	753
+neutral	yeah it's real nice has it been raining	I do not mind the rain.	754
+entailment	yeah it's real nice has it been raining	It is nice and rainy.	755
+contradiction	yeah it's real nice has it been raining	It is so horrible with the never ending sunshine.	756
+neutral	oh what human life is worth and whether or not you can rehabilitate somebody	All lives are worth rehab and second chances.	757
+contradiction	oh what human life is worth and whether or not you can rehabilitate somebody	No humans deserve to be rehabilitated.	758
+entailment	oh what human life is worth and whether or not you can rehabilitate somebody	Regardless of rehabilitation what life is worth it.	759
+neutral	oh boy you do have a strange wiring problem there	I've never seen this kind of wiring problem before.	760
+contradiction	oh boy you do have a strange wiring problem there	The wiring isn't the issue.	761
+entailment	oh boy you do have a strange wiring problem there	There's a problem caused by this odd wiring.	762
+contradiction	sounds like a lot of fun yeah it's amazing to me how how many things they would allow	I'm not at all surprised that they were leinient.	763
+neutral	sounds like a lot of fun yeah it's amazing to me how how many things they would allow	I'm surprised that they let you take food and drinks in there.	764
+entailment	sounds like a lot of fun yeah it's amazing to me how how many things they would allow	I'm surprised what they could get away with.	765
+neutral	yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on	It costs $2000 to buy everything you need.	766
+entailment	yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on	It costs a lot to outfit yourself.	767
+contradiction	yeah exactly i mean by the time you get through outfitting yourself and then having to go sweat doing it uh you could you could go on a Club med uh  everything inclusive vacati on	It's really cheap to get outfitted.	768
+entailment	oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to	I do not need to because my children are over the age of twenty.	778
+neutral	oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to	I might have to since they are close in age.	779
+contradiction	oh but anyway anyway um my kids are now twenty one and twenty four so i don't have to	I must since they are both ten and eleven years old.	780
+neutral	yeah uh-huh yeah well this is Fresno uh-huh	I was born in Fresno.	781
+contradiction	yeah uh-huh yeah well this is Fresno uh-huh	I'm not sure where this is.	782
+entailment	yeah uh-huh yeah well this is Fresno uh-huh	I'm telling you that this is Fresno.	783
+entailment	yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision	Yeah, people who might not be able to make the best judgment calls.	784
+neutral	yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision	Yeah, people who might not be hungry.	785
+contradiction	yeah people who who could be at work at any time or whose decisions could be clouded if they had to make a decision	Yeah, people whose decision faculties are never impaired.	786
+entailment	no they're still they're still on tour they've been touring since late sixties	They have been touring since before 1970.	787
+neutral	no they're still they're still on tour they've been touring since late sixties	They love touring.	788
+contradiction	no they're still they're still on tour they've been touring since late sixties	They recently ended their tour.	789
+entailment	how would you do aerobics	Can you explain how you'd perform aerobics?	790
+neutral	how would you do aerobics	I'm interested in aerobics because I need some cardiovascular activity.	791
+contradiction	how would you do aerobics	Please stop talking about aerobics.	792
+contradiction	well that's a good one i hadn't thought about that yeah	That's a dumb idea I discarded last week.	796
+entailment	well that's a good one i hadn't thought about that yeah	That's a good point.	797
+neutral	well that's a good one i hadn't thought about that yeah	The paradox you mention is a good point.	798
+contradiction	day care  two days a week they call it senior citizen day care but she goes to the senior citizen center	The day care is open every day for children under the age of five only.	802
+neutral	day care  two days a week they call it senior citizen day care but she goes to the senior citizen center	They do let them go more than twice a week if the senior citizens are up to it.	803
+entailment	day care  two days a week they call it senior citizen day care but she goes to the senior citizen center	They refer to it as a senior day care but it is called the senior center.	804
+entailment	that was their goal oh	That is what they had been striving for.	808
+contradiction	that was their goal oh	That was never what they wanted.	809
+neutral	that was their goal oh	They achieved their goal.	810
+neutral	gun control means using two hands	Half of all gun misfires result from single-hand use.	811
+contradiction	gun control means using two hands	The best way forward for gun control is to use both feet.	812
+entailment	gun control means using two hands	Use both hands if you want to practice gun control.	813
+entailment	and uh but it suddenly comes from somewhere i don't know where it comes from but	I do not know where it comes from but it is swift.	814
+neutral	and uh but it suddenly comes from somewhere i don't know where it comes from but	It comes by fast but I kinda know where it may be coming from.	815
+contradiction	and uh but it suddenly comes from somewhere i don't know where it comes from but	It comes like molasses and I know exactly when it will be coming.	816
+entailment	no in fact i'm not even familiar with it i don't think	I don't know much about it.	820
+neutral	no in fact i'm not even familiar with it i don't think	I'm ignorant in matters of love.	821
+contradiction	no in fact i'm not even familiar with it i don't think	I've been studying it for years.	822
+neutral	yeah she was great you know she	I think she knows that she was awesome.	823
+contradiction	yeah she was great you know she	No she was horrible.	824
+entailment	yeah she was great you know she	Yes she was very good.	825
+contradiction	yeah he suggested just getting uh um a uh um a mop like you would use	He suggested buying a vacuum.	829
+entailment	yeah he suggested just getting uh um a uh um a mop like you would use	He suggested finding a mop.	830
+neutral	yeah he suggested just getting uh um a uh um a mop like you would use	He wanted to clean up the blood with a mop.	831
+contradiction	its really bad out here we just had a freeway shooting about three blocks from our house	The shooting was at least 100 miles from where I live.	832
+neutral	its really bad out here we just had a freeway shooting about three blocks from our house	The shooting was close to my house and it makes me scared to go outside.	833
+entailment	its really bad out here we just had a freeway shooting about three blocks from our house	There was a shooting close to my home, it is really not good in this area.	834
+contradiction	uh-huh that's true it is it's not really uh consistent	I disagree with you, it is very consistent.	838
+neutral	uh-huh that's true it is it's not really uh consistent	I think you may be correct about its consistency.	839
+entailment	uh-huh that's true it is it's not really uh consistent	You are correct about it not be consistent.	840
+entailment	i'm trying to hang in there	I am attempting to hang on.	844
+neutral	i'm trying to hang in there	I really am doing my best.	845
+contradiction	i'm trying to hang in there	I will let go and never look back.	846
+neutral	yes oh what sort of puppy do you have	Is your puppy a good boy?	847
+contradiction	yes oh what sort of puppy do you have	What kind of cat did you rescue?	848
+entailment	yes oh what sort of puppy do you have	What kind of young dog do you have?	849
+neutral	well you said you have kids how old	How many children do you have?	850
+contradiction	well you said you have kids how old	I am sorry to hear that you were not able to have children.	851
+entailment	well you said you have kids how old	You stated you have children, what are their ages?	852
+entailment	they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study	They may not have been the smartest but they were very friendly and were interested in those that study.	853
+neutral	they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study	They were really smart but played dumb when around others they did not know very well.	854
+contradiction	they probably weren't the most brilliant people in the world but they uh were very personable and took uh a interest in people who were willing to study	They were the beyond brilliant but detested anyone that put effort into studying.	855
+neutral	one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right	The skunk was waiting for us to return to the camp site.	856
+contradiction	one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right	We found a goat at the camp site after we had already turned out the lights.	857
+entailment	one time we did go that thing uh there we came back from an event and turned the lights on around the camp site and there's a skunk right	When we came back from an event we found a skunk.	858
+entailment	you know all my children excel they're they're really good and i guess no he learns from the older boys too but	He has learned from the older male children but all of my offspring outshine.	859
+neutral	you know all my children excel they're they're really good and i guess no he learns from the older boys too but	I am very proud of how much my children know.	860
+contradiction	you know all my children excel they're they're really good and i guess no he learns from the older boys too but	My kids are truly idiotic.	861
+entailment	and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight	People constraining the amount of garbage is closer to the issue than the weight of the actual garbage.	862
+contradiction	and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight	People do not need to worry about the amount of garbage as long as they dispose of it properly.	863
+neutral	and it would also cause people to compact their garbage more uh and uh and limiting the volume is probably a little bit closer to the real problem than limiting the weight	People need to consider both the volume and the weight of the garbage they are producing.	864
+contradiction	so if there's a mistake it's your mistake i guess	Do not worry, if there is a mistake I will help take the blame.	868
+entailment	so if there's a mistake it's your mistake i guess	If there is an error it belongs to you.	869
+neutral	so if there's a mistake it's your mistake i guess	If you made a mistake you should take ownership of it.	870
+entailment	you know especially making the seams and things like that you know it's it's got such a professional finish on them	The seams are done in a very skillful way.	871
+contradiction	you know especially making the seams and things like that you know it's it's got such a professional finish on them	The seams were done in a rush and look very sloppy.	872
+neutral	you know especially making the seams and things like that you know it's it's got such a professional finish on them	They took a long time to finish the seams.	873
+entailment	yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks	Your time keeps increasing every year.	874
+contradiction	yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks	Your time never goes above three days.	875
+neutral	yeah yeah my place you get two weeks when you start and then every every year they give you an extra day until you've got four weeks	Your vacation time increases at the city jobs.	876
+contradiction	uh that's what's nice about living more in the country you don't have to worry about any of that	Being in the country makes you live in constant fear of things just like that.	877
+entailment	uh that's what's nice about living more in the country you don't have to worry about any of that	What is great about being in the country is you do not have to fret over things like that.	878
+neutral	uh that's what's nice about living more in the country you don't have to worry about any of that	What is really swell is in the country you do not have to worry about that like you would in a city.	879
+neutral	oh oh my word well that sounds adventuresome	That seems like either a lot of fun or rrally boring.	880
+entailment	oh oh my word well that sounds adventuresome	That sounds like a great adventure.	881
+contradiction	oh oh my word well that sounds adventuresome	That sounds like an awful experience.	882
+entailment	and now i have got a sister in Germany	Currently I have a sibling residing in Germany.	886
+contradiction	and now i have got a sister in Germany	I have a sister that is right now in Cuba.	887
+neutral	and now i have got a sister in Germany	I have a sister that speaks German.	888
+neutral	i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh	I might be able to get my daughter there.	889
+entailment	i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh	It is a little harder for me to get my daughter there.	890
+contradiction	i have a younger daughter now and uh i it's kind of hard to get her  get her there and everything but i am going to to uh	My daughter has her own way to get there now that she can drive.	891
+contradiction	yeah have a nice summer	I hope you have a miserable summer break.	892
+neutral	yeah have a nice summer	Indeed summer will be here soon.	893
+entailment	yeah have a nice summer	Yes, have a pleasant summer.	894
+entailment	we're not real naturalists or anything but um	Actually we do not consider ourselves to be naturalists.	901
+contradiction	we're not real naturalists or anything but um	We are totally true naturalists and are insulted to be thought of otherwise!	902
+neutral	we're not real naturalists or anything but um	We would like to someday strive to be naturalists but right now we are not.	903
+neutral	yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh	A bunch of would get together and clean up trash from the street.	904
+entailment	yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh	I used to help my grandparents with picking up cans from the road.	905
+contradiction	yeah i remember my grandparents and i used to always get out there on the road and pick up beer cans and uh	We used to go party at my dad's house.	906
+entailment	so this is this is not your first experience with  with a dog	Apparently this is not your first time with a dog.	907
+contradiction	so this is this is not your first experience with  with a dog	I am sorry I did not know this was your first time ever seeing a dog.	908
+neutral	so this is this is not your first experience with  with a dog	This is not your first time handling a domesticated animal.	909
+neutral	right right don't go through the whole nine yards and	You can just tell me the end of the story.	910
+entailment	right right don't go through the whole nine yards and	You don't have to do the whole thing.	911
+contradiction	right right don't go through the whole nine yards and	You need to go through the whole thing.	912
+entailment	um no i live off campus	I do not live on campus.	913
+neutral	um no i live off campus	I live a few block away from campus.	914
+contradiction	um no i live off campus	I live on campus.	915
+entailment	men um free of the charge one guy went in stabbed his ex-wife to death because she was sleeping with another guy i mean ex-wife you know we're talking and	A man killed his ex wife for sleeping with another guy after being freed from a prior charge.	919

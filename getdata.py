@@ -8,8 +8,8 @@ def main():
 
     # Create subsets
     subsets = {}
-    columns_to_include_others = ['language', 'sentence1', 'sentence2', 'pairID']
-    columns_to_include_english = ['language', 'gold_label', 'sentence1', 'sentence2', 'pairID']
+    columns_to_include_others = ['sentence1', 'sentence2', 'pairID']
+    columns_to_include_english = ['gold_label', 'sentence1', 'sentence2', 'pairID']
 
     for lang in languages:
         if lang != 'en':
@@ -24,7 +24,7 @@ def main():
     # Print subsets
     for lang, subset in subsets.items():
         filename = f'subset_{lang}.csv' 
-        subset.to_csv(filename, index=False)
+        subset.to_csv(filename, index=False,sep='\t')
 
 
 
