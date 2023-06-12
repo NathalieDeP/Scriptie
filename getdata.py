@@ -1,7 +1,7 @@
 import pandas as pd
 
 def main():
-    data = pd.read_csv('xnli.dev.tsv', sep='\t')
+    data = pd.read_csv('xnli.test.tsv', sep='\t')
 
     languages = ['de', 'en', 'es', 'sw', 'ur']
     rows_per_subset = 625
