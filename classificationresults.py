@@ -12,6 +12,7 @@ def main():
     total_entailments = [0, 0, 0, 0, 0]
     total_contradictions = [0, 0, 0, 0, 0]
     total_neutrals = [0, 0, 0, 0, 0]
+    same_as_en = [0, 0, 0, 0, 0]
     all_corr_ent = 0
     all_corr_con = 0
     all_corr_neu = 0
@@ -52,6 +53,9 @@ def main():
                     total_entailments[i] += 1
                 else:
                     total_contradictions[i] += 1
+            
+            if languages[i] != 'English' and lang_val == row['English']:
+                same_as_en[i] += 1
 
 
     for i in range(len(languages)):
@@ -61,7 +65,8 @@ def main():
         print(languages[i],'--> Correct total:', correct_total[i])
         print(languages[i],'--> Total entailments:', total_entailments[i])
         print(languages[i],'--> Total contradictions:', total_contradictions[i])
-        print(languages[i],'--> Total neutrals:', total_neutrals[i], '\n')
+        print(languages[i],'--> Total neutrals:', total_neutrals[i])
+        print(languages[i],'--> Same as English:', total_contradictions[i], '\n')
 
         all_corr_ent += correct_entailments[i]
         all_corr_con += correct_contradictions[i]
