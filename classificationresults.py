@@ -12,14 +12,11 @@ def main():
     total_entailments = [0, 0, 0, 0, 0]
     total_contradictions = [0, 0, 0, 0, 0]
     total_neutrals = [0, 0, 0, 0, 0]
-    same_as_en = [0, 0, 0, 0, 0]
+    same_as_en = [625, 0, 0, 0, 0]
     all_corr_ent = 0
     all_corr_con = 0
     all_corr_neu = 0
     all_corr_tot = 0
-    all_tot_ent = 0
-    all_tot_con = 0
-    all_tot_neu = 0
 
     # Get results
     for index, row in data.iterrows():
@@ -54,8 +51,10 @@ def main():
                 else:
                     total_contradictions[i] += 1
             
-            if languages[i] != 'English' and lang_val == row['English']:
-                same_as_en[i] += 1
+            if (languages[i] != 'English'):
+                print(languages[i]) 
+                if lang_val == row['English']:
+                    same_as_en[i] += 1
 
 
     for i in range(len(languages)):
@@ -66,22 +65,18 @@ def main():
         print(languages[i],'--> Total entailments:', total_entailments[i])
         print(languages[i],'--> Total contradictions:', total_contradictions[i])
         print(languages[i],'--> Total neutrals:', total_neutrals[i])
-        print(languages[i],'--> Same as English:', total_contradictions[i], '\n')
+        print(languages[i],'--> Same as English:', same_as_en[i], '\n')
 
         all_corr_ent += correct_entailments[i]
         all_corr_con += correct_contradictions[i]
         all_corr_neu += correct_neutrals[i]
         all_corr_tot += correct_total[i]
-        all_tot_ent += total_entailments[i]
-        all_tot_con += total_contradictions[i]
-        all_tot_neu += total_neutrals[i]
     
     print('Total correct entailments:', all_corr_ent)
     print('Total correct contradictions:', all_corr_con)
     print('Total correct neutrals:', all_corr_neu)
-    print('Total classifications for entailment:', all_tot_ent)
-    print('Total classifications for contradiction:', all_tot_con)
-    print('Total classifications for neutral:', all_tot_neu)
+    print('Total correct classifications:', all_corr_tot)
+
 
 
 
