@@ -52,7 +52,6 @@ def main():
                     total_contradictions[i] += 1
             
             if (languages[i] != 'English'):
-                print(languages[i]) 
                 if lang_val == row['English']:
                     same_as_en[i] += 1
 
