@@ -1,7 +1,7 @@
 import pandas as pd
 
 def main():
-    # Get data and initializa variables // comment- and uncomment for each model
+    # Get data and initialize variables // comment- and uncomment for each model
     #data = pd.read_csv('bart_classifications.tsv', sep='\t')
     data = pd.read_csv('deberta_classifications.tsv', sep='\t')
     languages = ['English', 'German', 'Spanish',  'Swahili', 'Urdu']
