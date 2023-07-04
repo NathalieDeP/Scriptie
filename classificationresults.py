@@ -17,6 +17,9 @@ def main():
     all_corr_con = 0
     all_corr_neu = 0
     all_corr_tot = 0
+    tot_sys_ent = 0
+    tot_sys_con = 0
+    tot_sys_neu = 0
 
     # Get results
     for index, row in data.iterrows():
@@ -24,6 +27,7 @@ def main():
         for i in range(len(languages)):
             lang_val = row[languages[i]]
             if gold_label == 'entailment':
+                tot_sys_ent += 1
                 if lang_val == gold_label:
                     correct_entailments[i] += 1
                     correct_total[i] += 1
@@ -33,6 +37,7 @@ def main():
                 else:
                     total_neutrals[i] += 1
             elif gold_label == 'contradiction':
+                tot_sys_con += 1
                 if lang_val == gold_label:
                     correct_contradictions[i] += 1
                     correct_total[i] += 1
@@ -42,6 +47,7 @@ def main():
                 else:
                     total_neutrals[i] += 1
             else:
+                tot_sys_neu += 1
                 if lang_val == gold_label:
                     correct_neutrals[i] += 1
                     correct_total[i] += 1
@@ -74,7 +80,11 @@ def main():
     print('Total correct entailments:', all_corr_ent)
     print('Total correct contradictions:', all_corr_con)
     print('Total correct neutrals:', all_corr_neu)
-    print('Total correct classifications:', all_corr_tot)
+    print('Total correct classifications:', all_corr_tot, '\n')
+
+    print('Total gold label entailments: ', tot_sys_ent)
+    print('Total gold label contradictions: ', tot_sys_con)
+    print('Total gold label neutrals: ', tot_sys_neu)
 
 
 
