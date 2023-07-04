@@ -82,9 +82,9 @@ def main():
     print('Total correct neutrals:', all_corr_neu)
     print('Total correct classifications:', all_corr_tot, '\n')
 
-    print('Total gold label entailments: ', tot_sys_ent)
-    print('Total gold label contradictions: ', tot_sys_con)
-    print('Total gold label neutrals: ', tot_sys_neu)
+    print('Total gold label entailments: ', tot_sys_ent/5)
+    print('Total gold label contradictions: ', tot_sys_con/5)
+    print('Total gold label neutrals: ', tot_sys_neu/5)
 
 
 
