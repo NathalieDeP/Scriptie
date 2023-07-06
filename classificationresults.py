@@ -33,6 +33,7 @@ def main():
                 if lang_val == gold_label:
                     correct_neutrals[i] += 1
                     correct_total[i] += 1
+
             
 
 
@@ -41,11 +42,8 @@ def main():
         print(languages[i],'--> Correct entailments:', correct_entailments[i], '        score:', correct_entailments[i]/(tot_sys_ent/5))
         print(languages[i],'--> Correct contradictions:', correct_contradictions[i],  '        score:', correct_contradictions[i]/(tot_sys_con/5))
         print(languages[i],'--> Correct neutrals:', correct_neutrals[i], '        score:', correct_neutrals[i]/(tot_sys_neu/5))
-        print(languages[i],'--> Correct total:', correct_total[i], '        score:', correct_total[i]/626)
-        print(languages[i],'--> Same as English:', same_as_en[i], '        score:', same_as_en[i]/626,'\n')
-
-
-    
+        print(languages[i],'--> Correct total:', correct_total[i], '        score:', correct_total[i]/625, '\n')
+   
 
     print('Total gold label entailments: ', tot_sys_ent/5)
     print('Total gold label contradictions: ', tot_sys_con/5)
