@@ -1,0 +1,553 @@
+sentence1	sentence2	pairID	translated_sentence1	translated_sentence2
+		4	Well, I didn’t even think about it, but I was so frustrated that I ended up talking to him.	I didn’t talk to him again.
+		5	Well, I didn’t even think about it, but I was so frustrated that I ended up talking to him.	I was taken so that I just started talking to him again.
+		6	Well, I didn’t even think about it, but I was so frustrated that I ended up talking to him.	We had a great conversation.
+		7	“And I thought that would be a privilege, and that’s still, that’s esi mmer yet. I was the only 229 Ex-O that was my AFCF Air Force career field.”	I was not aware that I was not the only person on the field that day.
+		8	“And I thought that would be a privilege, and that’s still, that’s esi mmer yet. I was the only 229 Ex-O that was my AFCF Air Force career field.”	I had the impression that I was the only one with this number in the AFCF Air Force Career Field.
+		9	“And I thought that would be a privilege, and that’s still, that’s esi mmer yet. I was the only 229 Ex-O that was my AFCF Air Force career field.”	We were all given the same number, regardless of what privileges were promised to us before.
+		10	They told me that at the end I would be called by a guy to meet me.	I was never told I would meet someone.
+		11	They told me that at the end I would be called by a guy to meet me.	I was told that a guy would get to know to meet me.
+		12	They told me that at the end I would be called by a guy to meet me.	The guy came a little late.
+		14	There’s so much I could tell about it, I’m just hoping over it.	I’m not going to talk about it, though there’s a lot to cover.
+		15	There’s so much I could tell about it, I’m just hoping over it.	I will not talk about the history of the city because there is too much to say.
+		19	It was the most important thing we wanted to secure as there was no way to throw down a 20 megaton H bomb from a 30, C124.	We didn’t care to save anything.
+		20	It was the most important thing we wanted to secure as there was no way to throw down a 20 megaton H bomb from a 30, C124.	We wanted to save one thing more than the rest.
+		21	It was the most important thing we wanted to secure as there was no way to throw down a 20 megaton H bomb from a 30, C124.	We wanted to save the h bomb because it was so hard to deal with it.
+		28	So I am not really sure why.	I am sure about the reason.
+		29	So I am not really sure why.	I don’t know why he changed the school.
+		30	So I am not really sure why.	I don’t know why this happened.
+		34	This is Fannie Flono, she has grown up in Ag-Augusta, GA, and will talk about some memories from her childhood.	Fannie Flono had to replan and can't tell us stories today.
+		36	This is Fannie Flono, she has grown up in Ag-Augusta, GA, and will talk about some memories from her childhood.	Fannie Flono was able to talk to us today despite her full schedule.
+		40	And I had oh, five departments of U2	I worked with the U2.
+		41	And I had oh, five departments of U2	I did not deal with the U2.
+		42	And I had oh, five departments of U2	I worked with the U2’s dissolving every day for forty years.
+		46	I am ah, Chief Master Sergeant, in retirement, as Rick said.	I am still working, until today.
+		47	I am ah, Chief Master Sergeant, in retirement, as Rick said.	I retired in 2002.
+		48	I am ah, Chief Master Sergeant, in retirement, as Rick said.	Rick told you I was retired.
+		52	There are some cash flow projections on my desk and, oh, it’s for so and so Cutty, that’s the name of the customer.	The customer named Cutty earns $10,000 per month.
+		53	There are some cash flow projections on my desk and, oh, it’s for so and so Cutty, that’s the name of the customer.	There is a client named Cutty.
+		55	The girl who can help me is on the other side of the city.	The girl I need help lives in some distance.
+		56	The girl who can help me is on the other side of the city.	The girl who will help me is 5 miles away.
+		57	The girl who can help me is on the other side of the city.	There is no one who can help me.
+		61	But they were divided about who the field hands were and who the households were, it was somehow...	Everyone agreed that they would all work on the fields.
+		62	But they were divided about who the field hands were and who the households were, it was somehow...	They could not agree on who came out and who belonged to the house.
+		63	But they were divided about who the field hands were and who the households were, it was somehow...	They could not agree who should work in the cotton field and who should wash the soil.
+		67	Today he talks to us about the Third SS, the U2 Quick and the Blackbird.	He decided not to talk anymore.
+		68	Today he talks to us about the Third SS, the U2 Quick and the Blackbird.	It is about three different submarines.
+		69	Today he talks to us about the Third SS, the U2 Quick and the Blackbird.	He talks about three things.
+		70	I think they only had about five children, one died.	All their children survived.
+		72	I think they only had about five children, one died.	The child who died was born sick.
+		73	And of course Androv Gromikov has nothing answered, but we had all the information about the films that U2 had made.	The U2 has done a lot.
+		74	And of course Androv Gromikov has nothing answered, but we had all the information about the films that U2 had made.	The U2 captured a lot of film material under water.
+		75	And of course Androv Gromikov has nothing answered, but we had all the information about the films that U2 had made.	We had no recordings, so we just had to advise.
+		76	She said that only tears came out of her eyes and she said, then she said, Joe came to the veranda.	When she told him he had to come to the veranda, she had tears in her eyes.
+		77	She said that only tears came out of her eyes and she said, then she said, Joe came to the veranda.	She quickly washed away her tears after she threw Joe out of the veranda.
+		78	She said that only tears came out of her eyes and she said, then she said, Joe came to the veranda.	She was so happy to see Joe that she started crying.
+		79	Even if the aircraft burned, why would it burn, oh, and it would mix through a blinking component so that the radiation would get out.	Radiation can also be inhibited in the event of a fire.
+		80	Even if the aircraft burned, why would it burn, oh, and it would mix through a blinking component so that the radiation would get out.	The radiation would be out of a blink component after the aircraft is burned.
+		81	Even if the aircraft burned, why would it burn, oh, and it would mix through a blinking component so that the radiation would get out.	The radiation would not disappear during a fire.
+		88	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The head of the U.S. Air Force has retired.
+		89	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The manager has only resigned a few weeks ago.
+		90	This is Chief Master Sergeant Clem Francis, retired from the US Air Force.	The U.S. Air Force Chief just started his career this week.
+		91	Now it came to the point that two or three aircraft arrived a week and I didn’t know where they were flying.	More than one aircraft arrives every week.
+		92	Now it came to the point that two or three aircraft arrived a week and I didn’t know where they were flying.	Air traffic is problematic
+		93	Now it came to the point that two or three aircraft arrived a week and I didn’t know where they were flying.	There are never aircraft.
+		94	They had already completed their training in the full printing trains and I took a while to pull the full printing trains.	It takes up to three months to complete a training on the use of a full-pressed train.
+		95	They had already completed their training in the full printing trains and I took a while to pull the full printing trains.	Training of using a full-pressed train takes time.
+		96	They had already completed their training in the full printing trains and I took a while to pull the full printing trains.	We could teach you before the end of the day to use a complete printing truck.
+		106	I want to say that there was no danger to go into the air with the bomb because it would not explode, no matter how hard it hit on the ground.	The bomb was deactivated by the pilot.
+		107	I want to say that there was no danger to go into the air with the bomb because it would not explode, no matter how hard it hit on the ground.	The bomb had no chance to explode.
+		108	I want to say that there was no danger to go into the air with the bomb because it would not explode, no matter how hard it hit on the ground.	There was a great danger that the bomb exploded.
+		109	And what it would be, it looks exactly like what I’m trying to do.	I am not sure what it looks like for you.
+		110	And what it would be, it looks exactly like what I’m trying to do.	I try to do that obviously.
+		111	And what it would be, it looks exactly like what I’m trying to do.	I will try to finish my project next week.
+		112	However, the animals are constantly running away from it, especially the cows.	The cows are broken out of the shell every day.
+		113	However, the animals are constantly running away from it, especially the cows.	The cows often escaped.
+		114	However, the animals are constantly running away from it, especially the cows.	The cows were kept safe and protected.
+		118	The doors were closed when he entered.	All the doors were open.
+		120	The doors were closed when he entered.	We gave us entrance, although the doors were closed.
+		127	So, I just had to take the amounts and try to do so.	I am confident that the sum is everything I need to find out.
+		128	So, I just had to take the amounts and try to do so.	I don’t know what I can do with the amounts, please give me more details to understand this chaos.
+		129	So, I just had to take the amounts and try to do so.	I will calculate it based on the total amounts.
+		130	He came, he opened the door and I remember I looked back and saw the expression on his face, and I knew he was disappointed.	He was so excited and so glad that he had almost pressed the door out of the frame.
+		132	He came, he opened the door and I remember I looked back and saw the expression on his face, and I knew he was disappointed.	Only at the expression in his face when he came through the door, I realized that he was disappointed.
+		133	So, I don’t have any specific stories.	I don’t have a special store.
+		134	So, I don’t have any specific stories.	I have one particular store.
+		135	So, I don’t have any specific stories.	There are a lot of.
+		144	And so it was, he never really had to do anything for himself.	He is very independent.
+		148	Oh my God and Ramona have been there.	Ramona was gathered on the ground.
+		149	Oh my God and Ramona have been there.	Ramona was silent.
+		150	Oh my God and Ramona have been there.	Ramona was standing while I was there with admiration.
+		154	And the fact is that she was light!	She ate too much but still kept her weight.
+		155	And the fact is that she was light!	She didn’t woke much at all.
+		156	And the fact is that she was light!	She was very happy.
+		164	I don’t know if he was in August.	He lived in Augusta.
+		166	In everything we did, they never told us where they went, not even when they left the base to stay elsewhere for a while.	I never asked where they went.
+		167	In everything we did, they never told us where they went, not even when they left the base to stay elsewhere for a while.	They always let us know where they were and where they went.
+		175	They said, We will pay for a place so that you may stay.	You will pay for nothing in advance.
+		176	They said, We will pay for a place so that you may stay.	They pay for me and my brothers accommodation.
+		177	They said, We will pay for a place so that you may stay.	You pay for the accommodation.
+		178	Well, the next day, of course, President Kennedy blocked Cuba and, oh, our ships stopped a Russian ship that was traveling outside of Cuba, and they found missiles on it.	Kennedy ordered our troops to search for missiles.
+		179	Well, the next day, of course, President Kennedy blocked Cuba and, oh, our ships stopped a Russian ship that was traveling outside of Cuba, and they found missiles on it.	They didn’t stop ships because they didn’t want any conflict.
+		180	Well, the next day, of course, President Kennedy blocked Cuba and, oh, our ships stopped a Russian ship that was traveling outside of Cuba, and they found missiles on it.	They found 20 missiles on the ship.
+		181	In any case, the man comes in.	The man entered the court.
+		182	In any case, the man comes in.	The man entered the room.
+		184	Oh, my grandparents were always very, very loving people and some of my parents were so, and we just had a great time there below.	The journey to the house of my grandparents took a long time.
+		185	Oh, my grandparents were always very, very loving people and some of my parents were so, and we just had a great time there below.	My grandparents were a very loving couple.
+		196	I didn’t have time to get into everything possible.	I could have entered it later.
+		197	I didn’t have time to get into everything possible.	I entered it all in time.
+		198	I didn’t have time to get into everything possible.	I didn’t have time to put it all in.
+		199	And hmm, one of my tasks at the time was to teach individuals how they put fallscreen on the drivers of nuclear weapons so hmm, which causes the atomic bomb to explode.	The atomic bomb has no trigger.
+		200	And hmm, one of my tasks at the time was to teach individuals how they put fallscreen on the drivers of nuclear weapons so hmm, which causes the atomic bomb to explode.	The thief burns the bomb when he is pulled.
+		201	And hmm, one of my tasks at the time was to teach individuals how they put fallscreen on the drivers of nuclear weapons so hmm, which causes the atomic bomb to explode.	You just need a winizges little power to pull around the trigger of the atomic bomb to.
+		202	My grandmother told me a lot of different stories about her growing years and, oh, especially, oh, she talked about her family and how it was then.	I always loved to hear the stories of my grandmother.
+		204	My grandmother told me a lot of different stories about her growing years and, oh, especially, oh, she talked about her family and how it was then.	My grandmother told me a lot of things about her family from the time she grew up.
+		205	We were wearing printed tracks in the aircraft, just as astronauts were wearing it, we were perfectly silver-colored, silver-colored of shoes and everything to naturally throw the heat back.	Our trails were nothing similar to what the astronauts had.
+		206	We were wearing printed tracks in the aircraft, just as astronauts were wearing it, we were perfectly silver-colored, silver-colored of shoes and everything to naturally throw the heat back.	Our slopes were the same as with astronauts, except to reflect heat were our silver.
+		207	We were wearing printed tracks in the aircraft, just as astronauts were wearing it, we were perfectly silver-colored, silver-colored of shoes and everything to naturally throw the heat back.	You can get the boxes in any desired color.
+		208	And he was, my grandfather was not a nice man.	My grandfather was a fool.
+		209	And he was, my grandfather was not a nice man.	My grandfather was very racist and strange.
+		210	And he was, my grandfather was not a nice man.	My grandfather was the most beautiful man you’ll ever meet.
+		211	There are 30 or 40 U2 aircraft and we have begun to train Chinese and British pilots, practically pilots of allies around the world, in them.	We did not train with anyone.
+		212	There are 30 or 40 U2 aircraft and we have begun to train Chinese and British pilots, practically pilots of allies around the world, in them.	We trained with the bridges for 5 weeks.
+		214	So, it’s like, Ok, look at it in that and the company	She didn’t talk to me.
+		215	So, it’s like, Ok, look at it in that and the company	She told me I had to search for something.
+		216	So, it’s like, Ok, look at it in that and the company	She told me I should look at her financial statements.
+		217	He said they went to the north.	He said he had made a few interruptions.
+		218	He said they went to the north.	He said they went to the south.
+		219	He said they went to the north.	He said they went to the north.
+		235	Well, honestly, I have never read any of the books I should read.	I have not read books that are longer than 100 pages.
+		236	Well, honestly, I have never read any of the books I should read.	I haven’t read a lot of books.
+		237	Well, honestly, I have never read any of the books I should read.	I read books every day.
+		238	I went forward and took the luggage and went to the address as I should.	I left the pocket and thought it was not my problem.
+		239	I went forward and took the luggage and went to the address as I should.	I took the pocket to his apartment.
+		240	I went forward and took the luggage and went to the address as I should.	I brought the pocket where it belongs.
+		241	It was an incredible emotional rebound.	His mood remained completely consistent.
+		242	It was an incredible emotional rebound.	She changed from happy to sad.
+		245	You have chosen me over about 15 people to go to this school, and I’m not, I’m not.	I was chosen to go to this school.
+		246	You have chosen me over about 15 people to go to this school, and I’m not, I’m not.	I was the most credible candidate.
+		247	You have to go through numerous air pressure chambers, eh, trips, before you ever fly U2's or fly with a printed train.	Most people fail on the tests and never get U2s to fly.
+		248	You have to go through numerous air pressure chambers, eh, trips, before you ever fly U2's or fly with a printed train.	You have to train a lot before you fly U2.
+		249	You have to go through numerous air pressure chambers, eh, trips, before you ever fly U2's or fly with a printed train.	They just let you fly U2s on your first day.
+		253	I take the same material.	I took into completely new topics.
+		254	I take the same material.	I report the same thing as the other magazines.
+		255	I take the same material.	I’m talking about the same things you’ve been talking about.
+		256	This was the first time in 75 years that the state of Texas has chosen a military unit for Texas Ambassadors and therefore needed Texas Ambassadors.	Military operations should not be TX ambassadors.
+		257	This was the first time in 75 years that the state of Texas has chosen a military unit for Texas Ambassadors and therefore needed Texas Ambassadors.	The military unit was appointed as TX Ambassador in the US Congress.
+		258	This was the first time in 75 years that the state of Texas has chosen a military unit for Texas Ambassadors and therefore needed Texas Ambassadors.	The military unit was named TX Ambassadors.
+		259	If there was something I could do.	I could do something.
+		260	If there was something I could do.	I knew there was nothing I could do.
+		261	If there was something I could do.	I think I could have done something to save him.
+		262	She hated it and she said that to her sister every day. she said that you’re doing it wrong.	She always encouraged her sister.
+		263	She hated it and she said that to her sister every day. she said that you’re doing it wrong.	She made it clear that her sister could do nothing right.
+		264	She hated it and she said that to her sister every day. she said that you’re doing it wrong.	She was very critical to her sister.
+		268	So I went to her house and then I called that number that I should call when I arrived there.	I borrowed her phone to make the call.
+		269	So I went to her house and then I called that number that I should call when I arrived there.	I called the number when I arrived at her.
+		270	So I went to her house and then I called that number that I should call when I arrived there.	I had to call, but I did not.
+		271	Well, I’m coming there this morning and, oh, I’ve forgotten how, I think I’ve either asked a question and he came there or whatever.	I didn’t go today, so I didn’t see him.
+		272	Well, I’m coming there this morning and, oh, I’ve forgotten how, I think I’ve either asked a question and he came there or whatever.	I was in the gym today and he came later and said hello.
+		273	Well, I’m coming there this morning and, oh, I’ve forgotten how, I think I’ve either asked a question and he came there or whatever.	I came this morning and he came.
+		274	We didn’t know where they went.	We didn’t know where the group was on the highway.
+		275	We didn’t know where they went.	We didn’t know where the people were going.
+		276	We didn’t know where they went.	We knew exactly where they went.
+		277	But I said, forget it, I'm going to eat lunch, I was hungry.	I had no appetite at all.
+		278	But I said, forget it, I'm going to eat lunch, I was hungry.	I was hungry, so I decided to eat my lunch.
+		279	But I said, forget it, I'm going to eat lunch, I was hungry.	I was hungry, so I went to the cafe.
+		283	So, let me tell you, today I’ve reached the point that would have brought me almost to disappear.	I almost gave up.
+		284	So, let me tell you, today I’ve reached the point that would have brought me almost to disappear.	I was so sad about them that I couldn’t stand it anymore.
+		285	So, let me tell you, today I’ve reached the point that would have brought me almost to disappear.	I never thought to stop.
+		292	He was born in the 1880s, as 188, I believe in 1889, I believe there he was born.	He was born before 1900.
+		293	He was born in the 1880s, as 188, I believe in 1889, I believe there he was born.	He was born in 1880.
+		294	He was born in the 1880s, as 188, I believe in 1889, I believe there he was born.	He was born only in 1984.
+		295	You better turn the small scrape a little down because you could otherwise damage and others their lungs very easily.	This scratch can hurt someone’s lungs.
+		296	You better turn the small scrape a little down because you could otherwise damage and others their lungs very easily.	The scratch does not take any risks, so pull them as hard as you want.
+		297	You better turn the small scrape a little down because you could otherwise damage and others their lungs very easily.	The scratch comes into the air pot and can hurt the lungs.
+		298	I got the order to drive to Del Rio, Texas. When I arrived there, I knew I had to go to Laughlin Air Force Base.	I was sent to work in Del Rio, Texas.
+		299	I got the order to drive to Del Rio, Texas. When I arrived there, I knew I had to go to Laughlin Air Force Base.	I have never gone to Texas.
+		300	I got the order to drive to Del Rio, Texas. When I arrived there, I knew I had to go to Laughlin Air Force Base.	The Air Force sent me to Del Rio, Tx in 2001.
+		302	Everyone gets champagne and some people don’t drink it, so what remains, drink the children, so we went around and drank all that champagne.	The kids drink some champagne.
+		303	Everyone gets champagne and some people don’t drink it, so what remains, drink the children, so we went around and drank all that champagne.	The whole party was dry and there was no alcohol served.
+		304	There are many stories about the naked city.	I have not heard stories.
+		305	There are many stories about the naked city.	There are many stories about the military.
+		306	There are many stories about the naked city.	There are many stories to be told.
+		307	You know you live and learn when you test aircraft.	I don’t know anything about aircraft testing.
+		308	You know you live and learn when you test aircraft.	Testing aircraft teaches you a lot of lessons.
+		309	You know you live and learn when you test aircraft.	Testing aircraft teaches you to cope with pressure.
+		310	I mean that was the whole point.	I don’t understand the point.
+		312	I mean that was the whole point.	I understood the statement.
+		313	It was from an air force base that was flying over Cuba, and of course Rudolph Anderson was shot down.	All aircraft survived without being shot down.
+		314	It was from an air force base that was flying over Cuba, and of course Rudolph Anderson was shot down.	Something was shot over Cuba.
+		315	It was from an air force base that was flying over Cuba, and of course Rudolph Anderson was shot down.	The massive passenger plane was shot down over Cuba in May.
+		319	This is probably the first thing I remember from my early childhood, oh, especially if I had done something wrong.	I have no memories of my childhood.
+		320	This is probably the first thing I remember from my early childhood, oh, especially if I had done something wrong.	I feel bad until today.
+		321	This is probably the first thing I remember from my early childhood, oh, especially if I had done something wrong.	It was one of my first memories.
+		322	They just didn’t like how it was then to be black, and that was, you know, I suspect that was probably, you know, in the early 1930s when they did that.	It was hard to be black in the south.
+		323	They just didn’t like how it was then to be black, and that was, you know, I suspect that was probably, you know, in the early 1930s when they did that.	It was so easy to be black.
+		324	They just didn’t like how it was then to be black, and that was, you know, I suspect that was probably, you know, in the early 1930s when they did that.	It was hard to be black.
+		331	No one knew where they were going.	Everyone knew exactly where they went.
+		332	No one knew where they were going.	No one knew to which house they went.
+		333	No one knew where they were going.	His destination was a secret.
+		334	And they couldn’t stay in the Augusta region because the people there knew that they had tried to do something very taboo, and had tried to pass through as white.	People didn’t know they were not white.
+		336	And they couldn’t stay in the Augusta region because the people there knew that they had tried to do something very taboo, and had tried to pass through as white.	People knew they were not white.
+		337	Yes, now he is here.	The man is present.
+		338	Yes, now he is here.	The guy arrived here just 2 minutes ago.
+		339	Yes, now he is here.	The guy never came here.
+		342	We watched something on television.	We saw the television news.
+		343	I think I’ve talked to Ramona again.	I have never talked to Ramona.
+		344	I think I’ve talked to Ramona again.	I talked another time with Ramona.
+		345	I think I’ve talked to Ramona again.	It was a pleasant conversation.
+		352	He was the only victim of the Cuban crisis, and oh, Emperor oh, he took the photos and flight immediately to the Andrews Air Force in Washington.	10,000 people have died in the Cuban crisis.
+		353	He was the only victim of the Cuban crisis, and oh, Emperor oh, he took the photos and flight immediately to the Andrews Air Force in Washington.	Only one person died in the Cuban crisis.
+		354	He was the only victim of the Cuban crisis, and oh, Emperor oh, he took the photos and flight immediately to the Andrews Air Force in Washington.	Only one person was killed in a Cuba crash.
+		355	Oh, and she said, she said, she said, baby, she said, you don’t understand life as I understand life.	She said she didn’t know.
+		356	Oh, and she said, she said, she said, baby, she said, you don’t understand life as I understand life.	She said she knew more about life.
+		357	Oh, and she said, she said, she said, baby, she said, you don’t understand life as I understand life.	She told me I had no idea how the real world works and I should follow her.
+		358	Then I get it and I think great, what do I do with it?	I don’t know how to use the contraceptives.
+		359	Then I get it and I think great, what do I do with it?	I don’t know what I should use it for.
+		360	Then I get it and I think great, what do I do with it?	I knew exactly what I could use it for.
+		367	Give me just a minute if you want to cut it off, I’d, oh, go.	I am ready to go now.
+		369	Give me just a minute if you want to cut it off, I’d, oh, go.	I have to gather for a moment.
+		371	So I was, so I went to Washington D.C. and I didn’t go straight after, oh, where I should go according to my instructions.	I went to DC to see my boss.
+		372	So I was, so I went to Washington D.C. and I didn’t go straight after, oh, where I should go according to my instructions.	I went to the capital of the nation.
+		376	She was a bright black person.	She had a very dark hair.
+		377	She was a bright black person.	She had a bright skin for an African American person.
+		378	She was a bright black person.	Her skin was brighter than the rest of her black friends.
+		379	Anyway, Dad goes and makes this beautiful large glass of chocolate milk for me.	My dad brought me chocolate from the refrigerator.
+		380	Anyway, Dad goes and makes this beautiful large glass of chocolate milk for me.	My dad gave me a glass of milk.
+		381	Anyway, Dad goes and makes this beautiful large glass of chocolate milk for me.	My father told me I had no drink.
+		382	The dead had to buy the property and all the goods.	The transport ministry managed to find another property that they could rent instead.
+		383	The dead had to buy the property and all the goods.	The property and equipment were purchased by the Ministry of Transport.
+		384	The dead had to buy the property and all the goods.	The purchase of the land cost the DOT more than three million dollars.
+		391	He would have been born	He was expected to be born in December 2010.
+		392	He would have been born	He should be born.
+		393	He would have been born	He should not be born.
+		397	I’m like, I know how far I’ve come.	I told them I didn’t know what I did.
+		398	I’m like, I know how far I’ve come.	I told them I knew I had exceeded their expectations by 40%.
+		399	I’m like, I know how far I’ve come.	I told them I know what I’ve achieved.
+		400	OK, can you hear me?	Can you hear me right now?
+		401	OK, can you hear me?	Can you hear what I say?
+		402	OK, can you hear me?	I know you can’t hear me.
+		409	Oh, there are some you said you don’t remember reading something special when you were older at school, there were some books you read that you liked or hated?	Do you like the Harry Potter books or not?
+		410	Oh, there are some you said you don’t remember reading something special when you were older at school, there were some books you read that you liked or hated?	Do you like or hate certain books?
+		415	It is a small scrape that has a injection, but the one that has set the breathing pressure to the pilot and the opposite pressure.	The scratch affects the pressure.
+		416	It is a small scrape that has a injection, but the one that has set the breathing pressure to the pilot and the opposite pressure.	The shrimp is small and silver.
+		417	It is a small scrape that has a injection, but the one that has set the breathing pressure to the pilot and the opposite pressure.	There are no screws, only buttons.
+		418	She says, Don’t worry, you know, just take your time.	She told me I had to rush immediately.
+		419	She says, Don’t worry, you know, just take your time.	She told me it would be okay if I needed hours.
+		420	She says, Don’t worry, you know, just take your time.	She told me I just had to drive slowly.
+		421	President Kennedy says to the pilots, says, my gentlemen, make good pictures.	Kennedy did not recognize it.
+		422	President Kennedy says to the pilots, says, my gentlemen, make good pictures.	Kennedy talked to the Air Force pilots.
+		423	President Kennedy says to the pilots, says, my gentlemen, make good pictures.	Kennedy talked to the pilots.
+		424	And I said something like: I’m almost finished.	I told him I would be done in 10 minutes.
+		425	And I said something like: I’m almost finished.	I told him I would never finish.
+		426	And I said something like: I’m almost finished.	I told them I was almost ready.
+		427	I tried to record everything.	I wanted to write things.
+		428	I tried to record everything.	I didn’t make any effort to write something.
+		429	I tried to record everything.	I wrote every work she said.
+		430	No, she was born in 1900 because she was 16, and so it must have been like 1926, 19, you know, before 1930.	She was born on 1 January 1900.
+		431	No, she was born in 1900 because she was 16, and so it must have been like 1926, 19, you know, before 1930.	She was born around the century.
+		432	No, she was born in 1900 because she was 16, and so it must have been like 1926, 19, you know, before 1930.	She was born only in 1943.
+		436	So it was really interesting.	I was very interested in how much I could eat.
+		437	So it was really interesting.	I was not interested at all.
+		438	So it was really interesting.	It was interesting to me.
+		439	Her sister could pass as white and has actually passed as white.	Her sister had the brightest skin of all in the neighborhood.
+		440	Her sister could pass as white and has actually passed as white.	Her sister was normally considered white.
+		441	Her sister could pass as white and has actually passed as white.	Shers’ sister is very dark.
+		443	Well, he was almost old enough to be her father.	He was much younger than you.
+		445	That, I was the only 922, the survivor, the other man was a physiological support.	No one gave any kind of support.
+		446	That, I was the only 922, the survivor, the other man was a physiological support.	A man gave the troops physiological support.
+		447	That, I was the only 922, the survivor, the other man was a physiological support.	A man gave physiological support.
+		448	And here I am, think he will come pure and be so, you already know, just let it go to me, you know, just how I could not do it.	I knew he would not come here.
+		449	And here I am, think he will come pure and be so, you already know, just let it go to me, you know, just how I could not do it.	I thought he would come here to fight.
+		450	And here I am, think he will come pure and be so, you already know, just let it go to me, you know, just how I could not do it.	I thought he would complain about my soundfall.
+		451	Well, of course, we had an idea, we couldn’t make any mistakes.	It’s okay if we’ve made a few mistakes.
+		452	Well, of course, we had an idea, we couldn’t make any mistakes.	We could not make mistakes.
+		453	Well, of course, we had an idea, we couldn’t make any mistakes.	We were not allowed to write something wrong.
+		454	And, yes, but, in the night I thought I couldn’t sleep.	I had trouble sleeping tonight.
+		455	And, yes, but, in the night I thought I couldn’t sleep.	I always had nightmares that prevented me from sleeping.
+		456	And, yes, but, in the night I thought I couldn’t sleep.	I sleep at night like a baby.
+		457	Something she really has, like great defence.	She could defend herself against wild dogs.
+		458	Something she really has, like great defence.	He was able to defend himself well.
+		459	Something she really has, like great defence.	She was incredibly hurtful.
+		460	So far as I have never been told...	He told him everything I needed to know.
+		461	So far as I have never been told...	I was not told about the Security Protocol.
+		462	So far as I have never been told...	Sometimes nothing is told to me.
+		463	He lived in this area.	Our house was nearby.
+		465	He lived in this area.	Our house was two streets away.
+		466	And he speaks so fast, he is on the phone.	He speaks as slow as he can.
+		467	And he speaks so fast, he is on the phone.	He speaks to an iPhone.
+		468	And he speaks so fast, he is on the phone.	He speaks in his phone.
+		469	I can’t remember what it was, but suddenly I was really nervous that I would go to school for the first time and that was probably the most stressful day of my life.	I was really relaxed when it comes to school.
+		470	I can’t remember what it was, but suddenly I was really nervous that I would go to school for the first time and that was probably the most stressful day of my life.	I was worried about going to school.
+		471	I can’t remember what it was, but suddenly I was really nervous that I would go to school for the first time and that was probably the most stressful day of my life.	I was worried about entering the kindergarten.
+		475	I lived right outside St. Louis, between Jefferson City and St. Louis, MO.	I lived in Texas.
+		476	I lived right outside St. Louis, between Jefferson City and St. Louis, MO.	I lived in a Yellow House in Missouri.
+		477	I lived right outside St. Louis, between Jefferson City and St. Louis, MO.	I was in Missouri.
+		481	I registered at a particular place in Del Rio, then I had to go to Laughlin Air Force Base, which was only recently reopened.	The Laughlin Air Force Base closed for a while.
+		482	I registered at a particular place in Del Rio, then I had to go to Laughlin Air Force Base, which was only recently reopened.	The Laughlin air force base is always open.
+		483	I registered at a particular place in Del Rio, then I had to go to Laughlin Air Force Base, which was only recently reopened.	The Laughlin Air Force Base hosts 10,000 soldiers.
+		487	I don’t care how you are.	It doesn’t matter what color you choose.
+		488	I don’t care how you are.	I have to agree with every business.
+		489	I don’t care how you are.	I don’t care how you finish it.
+		490	So I look, find out where Ramona is and call her there.	I called Ramona to my house.
+		491	So I look, find out where Ramona is and call her there.	I called Ramona to me.
+		492	So I look, find out where Ramona is and call her there.	I ignored Ramona.
+		496	Meanwhile, the Air Force bought the SR71, now the A-12, on which we worked with the CIA.	The Air Force bought 18 aircraft.
+		497	Meanwhile, the Air Force bought the SR71, now the A-12, on which we worked with the CIA.	The Air Force bought aircraft.
+		498	Meanwhile, the Air Force bought the SR71, now the A-12, on which we worked with the CIA.	The Air Force had no aircraft.
+		499	So was the husband of her sister also bright?	Her sister is married to a black man.
+		500	So was the husband of her sister also bright?	Her sister is married.
+		501	So was the husband of her sister also bright?	Her sister is single.
+		502	But as she became older, oh, she never admitted that she was wrong, but she changed her behavior.	She did not change her behavior at all.
+		503	But as she became older, oh, she never admitted that she was wrong, but she changed her behavior.	She never admitted that she was wrong.
+		508	My uncle, he is a super guy.	I like my uncle very much.
+		509	My uncle, he is a super guy.	My uncle is such a shit.
+		510	My uncle, he is a super guy.	My uncle is very generous.
+		511	I went to my sister who lived there. her husband was in the military and worked with the intelligence service and I went to her house.	My brother was in the army.
+		513	I went to my sister who lived there. her husband was in the military and worked with the intelligence service and I went to her house.	My brother never committed.
+		515	I would think: Well, I would let someone else go, but then I would think: My God!	I thought I would give my place in the meeting to someone else.
+		516	I would think: Well, I would let someone else go, but then I would think: My God!	I would not let anyone else go.
+		520	In one moment he hits on the table, in the next he thinks OK, do it on my table, then then then.	He changes his opinion often.
+		521	In one moment he hits on the table, in the next he thinks OK, do it on my table, then then then.	He changes his opinion because he doesn’t know what he’s doing.
+		522	In one moment he hits on the table, in the next he thinks OK, do it on my table, then then then.	He is very stable and quiet.
+		526	So anyway, oh, he has then arrived there at the end and he so, How is it going forward?	He asked how it was going.
+		528	So anyway, oh, he has then arrived there at the end and he so, How is it going forward?	He did not talk to us at all.
+		532	She had tuberculosis and I didn’t know it.	I didn’t know she would almost die from tuberculosis.
+		533	She had tuberculosis and I didn’t know it.	I didn’t know she had TBC.
+		535	You know you can’t, you can’t survive if you don’t have any resistance to increase the breathing pressure at these heights.	The opposite pressure kills you every time.
+		547	I started immediately, oh, oh, training in that of the other two guys that was on the site.	It was never taught to me, so I just learned it while I did it.
+		548	I started immediately, oh, oh, training in that of the other two guys that was on the site.	Two people have trained me to work in this store.
+		549	I started immediately, oh, oh, training in that of the other two guys that was on the site.	Two people have trained me.
+		556	If it was a jota next, you had to adjust something to the regulator itself.	The regulator was useless.
+		557	If it was a jota next, you had to adjust something to the regulator itself.	The regulator would change the whole pressure of your approach.
+		558	If it was a jota next, you had to adjust something to the regulator itself.	You have to go around the rule.
+		559	Oh, I was still the One and Only Nine Two who had ever put the spray on the regulator.	I stopped the injector on Tuesday.
+		560	Oh, I was still the One and Only Nine Two who had ever put the spray on the regulator.	I was 922.
+		561	Oh, I was still the One and Only Nine Two who had ever put the spray on the regulator.	I’ve never been 922.
+		562	She didn’t even understand the wedding ceremony, she didn’t even know that she was married, really--	She didn’t realize that she was with the guy forever, although she had never met him.
+		563	She didn’t even understand the wedding ceremony, she didn’t even know that she was married, really--	She didn’t understand what happened.
+		564	She didn’t even understand the wedding ceremony, she didn’t even know that she was married, really--	She knew what she engaged in.
+		567	We would go there.	We would never enter.
+		572	It was very cold and the dress flattered in the wind somewhat--	The dress was very short and wandered a little around.
+		573	It was very cold and the dress flattered in the wind somewhat--	It was windstill, so the dress was also moving.
+		574	I have spent most of my time with special activities.	Every second day I had “special activities.”
+		575	I have spent most of my time with special activities.	I was in special activities.
+		576	I have spent most of my time with special activities.	I have never been in special activities.
+		577	And I asked him, you know, I could do it, oh, you want me to stay and do it tonight or I could have done it until tomorrow afternoon if it’s okay.	I asked how urgent it was.
+		578	And I asked him, you know, I could do it, oh, you want me to stay and do it tonight or I could have done it until tomorrow afternoon if it’s okay.	I knew that the work had to be done right now.
+		579	And I asked him, you know, I could do it, oh, you want me to stay and do it tonight or I could have done it until tomorrow afternoon if it’s okay.	I asked if the client would be angry if he would wait until 14:00 because I had a date tonight.
+		580	But oh, they lived in a small rural town outside Augusta named Evans, and Evans still exists, and that’s where many of my relatives still live.	They had twenty family members who lived in Evans.
+		581	But oh, they lived in a small rural town outside Augusta named Evans, and Evans still exists, and that’s where many of my relatives still live.	They lived in Atlanta.
+		582	But oh, they lived in a small rural town outside Augusta named Evans, and Evans still exists, and that’s where many of my relatives still live.	They lived in Evans, which is very small.
+		583	My sister says to me repeatedly, she says: Sometimes you’re just like a grandmother, you’re treating people wrong for the wrong reasons.	My sister said I was racist.
+		584	My sister says to me repeatedly, she says: Sometimes you’re just like a grandmother, you’re treating people wrong for the wrong reasons.	My sister said I wasn’t always nice.
+		585	My sister says to me repeatedly, she says: Sometimes you’re just like a grandmother, you’re treating people wrong for the wrong reasons.	My sister thinks I am not like my grandmother at all.
+		586	And then we entered a new house.	We moved to a house that we had built on the ground.
+		588	And then we entered a new house.	We have lived all our lives in the same house.
+		592	And I said, okay, so that’s good, well, like that in the way.	I said I hated it and I disagreeed it very much.
+		593	And I said, okay, so that’s good, well, like that in the way.	I said I like the new version of the song.
+		594	And I said, okay, so that’s good, well, like that in the way.	I said I approved it.
+		595	And the colour tubes change their color every 100 degrees, when it is red, it becomes too blue.	The stretch changes depending on color.
+		596	And the colour tubes change their color every 100 degrees, when it is red, it becomes too blue.	The color changes so you can see how hot it is without measuring.
+		597	And the colour tubes change their color every 100 degrees, when it is red, it becomes too blue.	The color is always black.
+		598	I ate as fast as I could and then she came and helped me.	I ate the pizza in less than two minutes.
+		599	I ate as fast as I could and then she came and helped me.	I eat very slowly so I don’t get bad.
+		600	I ate as fast as I could and then she came and helped me.	I stopped eating.
+		604	The husband of her sister also had bright skin.	Her brother was slightly colored.
+		605	The husband of her sister also had bright skin.	His brother was Sweden.
+		606	The husband of her sister also had bright skin.	His sister was not married.
+		610	Anyway, they have invented this oxygen regulator.	They have invented a new rule.
+		611	Anyway, they have invented this oxygen regulator.	They have invented a regulator that works in space.
+		612	Anyway, they have invented this oxygen regulator.	They have not yet learned how to make an oxygen regulator.
+		616	The fourth class was really fun.	I hate every piece of school.
+		618	The fourth class was really fun.	I liked the fourth class.
+		619	It’s like a file with a whole series of tabs, from different, you know, each tab has a different table.	The page is just a list of numbers.
+		620	It’s like a file with a whole series of tabs, from different, you know, each tab has a different table.	The cards have a lot of data.
+		621	It’s like a file with a whole series of tabs, from different, you know, each tab has a different table.	The registration cards show the current amount of each account.
+		626	I don’t care how you get it.	I don’t care what your method is.
+		627	I don’t care how you get it.	I have to know how you will do that exactly.
+		631	And they moved to Mallard Creek in Charlotte.	They built a house on Mallard Creek.
+		632	And they moved to Mallard Creek in Charlotte.	He never moved to Charlotte.
+		633	And they moved to Mallard Creek in Charlotte.	They lived in Mallard Creek.
+		637	Where he was, he was the son of a minister, so he had, they had property, and things, and they were very well connected in the community and very appreciated.	His father was a Lutheran pastor.
+		638	Where he was, he was the son of a minister, so he had, they had property, and things, and they were very well connected in the community and very appreciated.	His father was a prisoner who never went to the church.
+		639	Where he was, he was the son of a minister, so he had, they had property, and things, and they were very well connected in the community and very appreciated.	His father was a pastor.
+		644	I didn’t know how much detail he wanted.	I gave him every detail because I knew he wanted it.
+		645	I didn’t know how much detail he wanted.	I was not sure how thorough it should be.
+		652	And yes, it’s different, as with each customer, that’s their records.	You don’t have any of the files.
+		653	And yes, it’s different, as with each customer, that’s their records.	They keep all the documents.
+		654	And yes, it’s different, as with each customer, that’s their records.	They keep the medical and legal files all together.
+		655	What she had given me was very detailed and complicated, and the second is completely simple.	She gave me two different variants.
+		656	What she had given me was very detailed and complicated, and the second is completely simple.	She gave me two types of instructions and I preferred the detailed.
+		657	What she had given me was very detailed and complicated, and the second is completely simple.	She gave me only one version and there were only a few lines.
+		658	Because they didn’t live in Augusta, but in, now you know, Augusta was at the time still a city, even if it doesn’t seem so big for people from the big city of Augusta.	Augusta has 10,000 inhabitants.
+		659	Because they didn’t live in Augusta, but in, now you know, Augusta was at the time still a city, even if it doesn’t seem so big for people from the big city of Augusta.	Augusta is not a big city.
+		660	Because they didn’t live in Augusta, but in, now you know, Augusta was at the time still a city, even if it doesn’t seem so big for people from the big city of Augusta.	They lived in the heart of Augusta.
+		661	At the end of 1962, oh, I was ordered to go to Washington, D.C.	I was told to go to Washington DC.
+		662	At the end of 1962, oh, I was ordered to go to Washington, D.C.	The army immediately sent me to DC.
+		663	At the end of 1962, oh, I was ordered to go to Washington, D.C.	They told me I was going to Africa.
+		664	When DOT took his property back, we moved to a small area in Concord, where no animal is allowed because it is divided into zones and that ends the story of the animal.	Our house in Concord could not approve animals.
+		665	When DOT took his property back, we moved to a small area in Concord, where no animal is allowed because it is divided into zones and that ends the story of the animal.	Our house in Concord had 30,000 hectares and many animals.
+		666	When DOT took his property back, we moved to a small area in Concord, where no animal is allowed because it is divided into zones and that ends the story of the animal.	We sold all our animals when we moved to Concord.
+		667	Anyway, we are in operation and I can now say that that, that, oh, we were moved to Kadina, Okinawa, and that was 1968.	We deployed our forces in 1968.
+		668	Anyway, we are in operation and I can now say that that, that, oh, we were moved to Kadina, Okinawa, and that was 1968.	We have never employed anyone.
+		670	He told me exactly what he needed and that he needed it today.	He said I could give it at any time.
+		671	He told me exactly what he needed and that he needed it today.	He told me I had to complete the whole project until 14:00.
+		672	He told me exactly what he needed and that he needed it today.	He told me it was urgent.
+		673	She had already gone and told me I shouldn’t worry about it.	She said I should just assume that the school would go well.
+		674	She had already gone and told me I shouldn’t worry about it.	She said I should not worry.
+		675	She had already gone and told me I shouldn’t worry about it.	She said it was time to panic.
+		676	It’s easy, you know, see, you have a problem.	You are in danger.
+		677	It’s easy, you know, see, you have a problem.	You’ll get it right now!
+		678	It’s easy, you know, see, you have a problem.	You are at risk of being dismissed.
+		682	And as you know, sooner or later, you know, you know, they’ve asked people further and no one knew who they were, and ultimately, you know, they’ve just agreed that they’ll never see Joe again.	Joe was the only person who had a key to the rest room.
+		683	And as you know, sooner or later, you know, you know, they’ve asked people further and no one knew who they were, and ultimately, you know, they’ve just agreed that they’ll never see Joe again.	No matter how much we tried, we couldn’t get Joe to let us rest.
+		684	And as you know, sooner or later, you know, you know, they’ve asked people further and no one knew who they were, and ultimately, you know, they’ve just agreed that they’ll never see Joe again.	One day, Joe was just missing and no one could find out where he was going.
+		685	I told you about my sister.	I made it to my sister.
+		686	I told you about my sister.	I said it was mine.
+		687	I told you about my sister.	I told them that the dog belongs to my sister.
+		688	And she then said, her mother, her mother turned forward and she looked up and said she was running like him.	She said her mother was always running on the tide.
+		689	And she then said, her mother, her mother turned forward and she looked up and said she was running like him.	She says her mother goes the same round.
+		690	And she then said, her mother, her mother turned forward and she looked up and said she was running like him.	She said her mother was lazy and couldn’t walk.
+		694	You know, and she stops the leaves there up and I really didn’t know any consequences.	I didn’t know she would be very sick.
+		695	You know, and she stops the leaves there up and I really didn’t know any consequences.	I didn’t know what would happen to her.
+		696	You know, and she stops the leaves there up and I really didn’t know any consequences.	I knew what would happen if she did that.
+		700	Ah, another thing that happened there, which I thought interesting, was one of my sister’s first memories, and that was just in that background.	I have no memories of this house.
+		701	Ah, another thing that happened there, which I thought interesting, was one of my sister’s first memories, and that was just in that background.	I remember that I had flocked gums in the garden.
+		702	Ah, another thing that happened there, which I thought interesting, was one of my sister’s first memories, and that was just in that background.	I remembered something that happened in the back yard.
+		706	So all the stressful and I mean I had any reason to be stressed today, it was like you get something you can’t, and it’s like here to do it.	I didn’t know how to do the job that was assigned to me today.
+		707	So all the stressful and I mean I had any reason to be stressed today, it was like you get something you can’t, and it’s like here to do it.	I was asked to replace the backup box in the office, but I don’t know about electric wires at all.
+		708	So all the stressful and I mean I had any reason to be stressed today, it was like you get something you can’t, and it’s like here to do it.	Today I was required to perform only tasks for which I am well trained.
+		709	So now, here is it, he wants it today.	He says he can always get it.
+		710	So now, here is it, he wants it today.	He said he would like to get it today.
+		711	So now, here is it, he wants it today.	He said he would like to get the last project at 17 p.m.
+		712	Unfortunately we have moved again.	We have moved again.
+		713	Unfortunately we have moved again.	In 1992, we move to another country.
+		714	Unfortunately we have moved again.	We have never moved again after that.
+		724	I didn’t really know Mrs. Falk. She was about 80 years old and ah, she was a nice person. I met her a few times but that really made me nervous.	I have seen Mrs. Faulk a few times, but I didn’t know her well.
+		725	I didn’t really know Mrs. Falk. She was about 80 years old and ah, she was a nice person. I met her a few times but that really made me nervous.	I was close friends with Mrs. Faulk.
+		726	I didn’t really know Mrs. Falk. She was about 80 years old and ah, she was a nice person. I met her a few times but that really made me nervous.	Mrs. Faulk went to work with a yellow Honda every day.
+		730	We lived from it, oh, 85 in Mallard Creek, where the 485 are currently, there is now the occasion more than that time ten years ago, where we had to move because of the 485.	We lived in a green house.
+		731	We lived from it, oh, 85 in Mallard Creek, where the 485 are currently, there is now the occasion more than that time ten years ago, where we had to move because of the 485.	We lived there for many years.
+		732	We lived from it, oh, 85 in Mallard Creek, where the 485 are currently, there is now the occasion more than that time ten years ago, where we had to move because of the 485.	We only lived there for two weeks.
+		736	He was like a divided person, man.	He was launical.
+		737	He was like a divided person, man.	My boss was either very happy or very angry.
+		738	He was like a divided person, man.	My boss was clear and consistent.
+		742	He is old enough to be my father.	He is 27 years older than me.
+		743	He is old enough to be my father.	He is much younger than me.
+		744	He is old enough to be my father.	He is older than me.
+		745	Everything is connected, and for the will of heaven, I don't know how long.	I don’t know how long it lasts.
+		746	Everything is connected, and for the will of heaven, I don't know how long.	I don’t know how long the story has gone.
+		747	Everything is connected, and for the will of heaven, I don't know how long.	I know it is 4 feet long.
+		748	This time I was not even happy that she was there because I was so stressed.	I was so happy and relaxed!
+		749	This time I was not even happy that she was there because I was so stressed.	I was too afraid to be happy that she arrived a day earlier.
+		750	This time I was not even happy that she was there because I was so stressed.	I was too afraid to be happy that she was there.
+		751	And a lot of this is because the mothers take medications.	Mothers are drug addicts.
+		753	And a lot of this is because the mothers take medications.	Mothers are taking drugs.
+		755	It is nice that it has rained.	It is beautiful and rainy.
+		756	It is nice that it has rained.	The endless sunlight is so terrible.
+		757	Oh what human life is worth and whether you can rehabilitate someone or not	Every life is worth regaining and getting a second chance.
+		758	Oh what human life is worth and whether you can rehabilitate someone or not	No one deserves to be rehabilitated.
+		759	Oh what human life is worth and whether you can rehabilitate someone or not	Regardless of rehabilitation, life is worth it.
+		760	Oh boy, you have a strange cable problem there.	I never had a cable problem like this.
+		761	Oh boy, you have a strange cable problem there.	Cable is not the problem.
+		762	Oh boy, you have a strange cable problem there.	The strange crossing causes a problem.
+		763	It sounds like a lot of fun, yes it’s incredible how many things allow	I am not surprised that they were cautious.
+		764	It sounds like a lot of fun, yes it’s incredible how many things allow	I am surprised that she allowed you to eat and drink dadrin.
+		765	It sounds like a lot of fun, yes it’s incredible how many things allow	I am surprised by what they could get out of.
+		766	Yes, I mean that you come through the time when you equip yourself and then you have to swim when you do that you can go to a club, and to a vacation with everything that is included.	It costs $2,000 to buy everything you need.
+		767	Yes, I mean that you come through the time when you equip yourself and then you have to swim when you do that you can go to a club, and to a vacation with everything that is included.	It costs a lot to get out.
+		768	Yes, I mean that you come through the time when you equip yourself and then you have to swim when you do that you can go to a club, and to a vacation with everything that is included.	It is really convenient to be equipped.
+		778	Oh anyway anyway, my children are now twenty-one and twenty-two, so I don’t have to	I don’t need it because my kids are over twenty.
+		779	Oh anyway anyway, my children are now twenty-one and twenty-two, so I don’t have to	I must probably because her age is so close to each other.
+		780	Oh anyway anyway, my children are now twenty-one and twenty-two, so I don’t have to	I have to, because they are both ten and eleven years old.
+		781	This is Fresno.	I was born in Fresno.
+		782	This is Fresno.	I am not sure where that is.
+		783	This is Fresno.	I’m saying that it’s Fresno.
+		784	Yes people who could work at any time or whose decisions could be distorted if they had to make a decision	Well, people who are not the best to make assessment decisions.
+		786	Yes people who could work at any time or whose decisions could be distorted if they had to make a decision	Yes, people whose decision-making abilities are never affected.
+		787	No, they’re, they’re still on tour; they’re on tour since the end of the 1960s.	They have been on tour since the late 1980s.
+		788	No, they’re, they’re still on tour; they’re on tour since the end of the 1960s.	They love to travel.
+		789	No, they’re, they’re still on tour; they’re on tour since the end of the 1960s.	You have recently finished your tour.
+		790	How do you do Aerobic?	Can you explain how you would do aerobic?
+		791	How do you do Aerobic?	I am interested in aerobic because I need cardiovascular activities.
+		792	How do you do Aerobic?	Please stop talking about aerobic.
+		798	Well, that’s a good thing I didn’t think about.	The paradox you mentioned is a good point.
+		802	Daycare two days a week she calls it seniors daycare, but she goes to the senior center	The daycare is only open to children under five years of age daily.
+		803	Daycare two days a week she calls it seniors daycare, but she goes to the senior center	If the elderly are ready, let them go more than twice a week.
+		804	Daycare two days a week she calls it seniors daycare, but she goes to the senior center	They call it an elderly daycare, but it is called the elderly center.
+		808	That was your goal, oh.	That’s what they have died.
+		809	That was your goal, oh.	It was never what they wanted.
+		810	That was your goal, oh.	They reached their goal.
+		811	Arms control means using two hands.	Half of all weapons failure is caused by the use of one hand.
+		812	Arms control means using two hands.	The best further procedure for weapons control is to use with both legs.
+		813	Arms control means using two hands.	Use both hands if you want to exercise weapon control.
+		814	And oh, it appeared suddenly, I don't know where it comes from, but	I don’t know where it comes, but it’s fast.
+		815	And oh, it appeared suddenly, I don't know where it comes from, but	It passes quickly, but I know where it could come from.
+		816	And oh, it appeared suddenly, I don't know where it comes from, but	It comes like Melasse and I know exactly when it will come.
+		820	I am not even familiar with it, I think.	I don’t know much about it.
+		821	I am not even familiar with it, I think.	I am ignorant about love.
+		822	I am not even familiar with it, I think.	I have studied it for years.
+		823	She was great, you know her.	I think she knew she was fantastic.
+		824	She was great, you know her.	No, she was terrible.
+		825	She was great, you know her.	She was very good.
+		830	He just has a washing machine, we suggest you use it	He proposed to find a Mopp.
+		831	He just has a washing machine, we suggest you use it	He wanted to clean the blood with a washmopp.
+		832	It’s really bad out here, we just had a shooting on the Freeway, about three blocks away from our house.	The screens were at least 100 miles away from my place of residence.
+		833	It’s really bad out here, we just had a shooting on the Freeway, about three blocks away from our house.	The shooting was near my house and it makes me afraid to go out.
+		834	It’s really bad out here, we just had a shooting on the Freeway, about three blocks away from our house.	There was a shooting near my house, it’s really not good in this area.
+		838	This is true, it is not consistent.	I don’t agree with you, it’s very constant.
+		839	This is true, it is not consistent.	I think you are right about this consistency.
+		840	This is true, it is not consistent.	We are right that it is not unified.
+		844	I try to keep	I try to wait a short time.
+		845	I try to keep	I really do my best.
+		846	I try to keep	I will leave and never look back.
+		847	What kind of dog you have?	Is your dog a good boy?
+		848	What kind of dog you have?	Which cat have you saved?
+		849	What kind of dog you have?	What kind of young dog do you have?
+		850	You say you have kids, how old are they?	How many children do you have?
+		851	You say you have kids, how old are they?	I'm sorry to hear you couldn't have children.
+		853	They were probably not the brightest people in the world, but they, oh, were sympathetic and were, oh, interested in people who wanted to study.	They might not be the smartest, but they were very friendly and interested in those who studied.
+		854	They were probably not the brightest people in the world, but they, oh, were sympathetic and were, oh, interested in people who wanted to study.	They were very wise, but they found themselves stupid in the presence of others they didn’t know.
+		859	You know, my children are overflyers, they are really good and I think no, he also learns from the older boys, but	He learned from the elderly male children, but all of my grandchildren radiated.
+		860	You know, my children are overflyers, they are really good and I think no, he also learns from the older boys, but	I am very proud of how much my kids know.
+		861	You know, my children are overflyers, they are really good and I think no, he also learns from the older boys, but	My kids are really stupid.
+		862	And it would also cause people to press their waste more and the limitation of volume comes a little closer to the actual problem than the measurement of weight.	People who force the amount of waste are closer to the problem than the weight of the actual waste
+		863	And it would also cause people to press their waste more and the limitation of volume comes a little closer to the actual problem than the measurement of weight.	People do not need to worry about the amount of waste as long as they sort it properly.
+		864	And it would also cause people to press their waste more and the limitation of volume comes a little closer to the actual problem than the measurement of weight.	People need to take into account both the volume and the weight of the waste they produce.
+		868	So if there's a mistake, it's your mistake, I think	Don’t worry.When a mistake occurs, I will take responsibility with you.
+		869	So if there's a mistake, it's your mistake, I think	If there is a mistake, it belongs to you.
+		871	You know in particular that you do the nuts and things so that you know that it has such a professional processing.	The nights are very skillfully performed.
+		872	You know in particular that you do the nuts and things so that you know that it has such a professional processing.	The nuts were made in separation and look very smooth.
+		873	You know in particular that you do the nuts and things so that you know that it has such a professional processing.	It took a lot of time to complete the nights.
+		874	yeah yeah yeah, you get two weeks when you start and then each year they give you an additional day until you have four weeks	Your time increases every year.
+		875	yeah yeah yeah, you get two weeks when you start and then each year they give you an additional day until you have four weeks	Your time never exceeds three days.
+		877	Well, that’s the beautiful thing in the land life, you don’t have to worry about it all.	Being on the ground leads you to live in constant fear of these things.
+		878	Well, that’s the beautiful thing in the land life, you don’t have to worry about it all.	What’s great in living on the ground is that you don’t have to be angry about such things.
+		879	Well, that’s the beautiful thing in the land life, you don’t have to worry about it all.	What’s really good is that you don’t have to worry about it on the ground, just as you would do it in the city.
+		880	Oh man really, it sounds adventurous.	It seems either fun or quite boring.
+		881	Oh man really, it sounds adventurous.	It sounds like a big adventure.
+		882	Oh man really, it sounds adventurous.	It sounds like a terrible experience.
+		886	I have a sister in Germany.	I currently have a brother in Germany.
+		887	I have a sister in Germany.	I have a sister who is currently in Cuba.
+		888	I have a sister in Germany.	I have a sister who speaks German.
+		889	I now have a younger daughter and uh i it’s somehow hard to bring them to get them there and everything except I’m going to uh	I could bring my daughter there.
+		891	I now have a younger daughter and uh i it’s somehow hard to bring them to get them there and everything except I’m going to uh	My daughter has her own way to get there, now where she can drive.
+		892	I have a great summer.	I hope you have miserable summer holidays.
+		893	I have a great summer.	Of course, the summer will soon come.
+		894	I have a great summer.	I wish you a nice summer.
+		901	We are not genuine natural scientists or something like that.	We do not consider ourselves naturalists.
+		902	We are not genuine natural scientists or something like that.	We are absolutely true natural scientists and see it as an insult to be called differently.
+		903	We are not genuine natural scientists or something like that.	One day we want to try to be naturalists, but at the moment we are not.
+		905	Yes, I still remember how my grandparents and I went out on the street and picked up beer doses.	I helped my grandparents collect doses from the street.
+		906	Yes, I still remember how my grandparents and I went out on the street and picked up beer doses.	We have always celebrated in my father’s house.
+		907	This is not your first experience with a dog.	It’s not your first time with a dog.
+		908	This is not your first experience with a dog.	Sorry, I didn’t know that it was your first time to see a dog.
+		909	This is not your first experience with a dog.	This is not the first time you deal with a domesticated animal.
+		910	Right, right, do not go through the whole nine yards and	You can tell me the end of the story.
+		911	Right, right, do not go through the whole nine yards and	You don’t have to do everything.
+		912	Right, right, do not go through the whole nine yards and	You have to go through the whole thing.
+		913	Oh, no, I’m just living from the campus.	I don’t live in the campus.
+		914	Oh, no, I’m just living from the campus.	I live a few blocks away from the campus.
+		915	Oh, no, I’m just living from the campus.	I live in the campus.
+		919	Men, oh, without accusation, a guy cracked his ex-wife because she slept with another guy, I mean, ex-wife, you know what it is about	After he had passed a previous punishment, a man killed his ex-wife because she had slept with another man.

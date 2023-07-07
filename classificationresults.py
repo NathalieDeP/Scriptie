@@ -12,6 +12,7 @@ def main():
     tot_sys_ent = 0
     tot_sys_con = 0
     tot_sys_neu = 0
+    line = 0
 
     # Get results
     for index, row in data.iterrows():
