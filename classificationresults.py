@@ -43,7 +43,7 @@ def main():
         print(languages[i],'--> Correct entailments:', correct_entailments[i], '        score:', correct_entailments[i]/(tot_sys_ent/5))
         print(languages[i],'--> Correct contradictions:', correct_contradictions[i],  '        score:', correct_contradictions[i]/(tot_sys_con/5))
         print(languages[i],'--> Correct neutrals:', correct_neutrals[i], '        score:', correct_neutrals[i]/(tot_sys_neu/5))
-        print(languages[i],'--> Correct total:', correct_total[i], '        score:', correct_total[i]/625, '\n')
+        print(languages[i],'--> Correct total:', correct_total[i], '        score:', correct_total[i]/(553), '\n')
    
 
     print('Total gold label entailments: ', tot_sys_ent/5)
